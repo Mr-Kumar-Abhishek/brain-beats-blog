@@ -177,7 +177,7 @@ The filesystem on git_repo.4fs is now 524288 blocks long.
 
 ### Maintaining the file partition
 
-If you have abrupt power cuts, as your system shuts down or crashes suddenly while you were working with you file partition mounted, remember to `e2fsck` first before mounting it again.
+If you have abrupt power cuts, as your system shuts down or crashes suddenly while you were working with you file partition mounted, remember to `e2fsck` first to repair the file system before mounting it again.
 
 ```
 root# e2fsck git_repo.4fs
