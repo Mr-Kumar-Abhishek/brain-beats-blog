@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to properly maintain local clones git repositories in Linux ? ( especially in puppy Linux )"
-date: 2014-06-11
+date: 2016-06-11
 ---
 
 Maintaining local clones of git repositories in Linux could become tiresome especially if you are a software developer who:
