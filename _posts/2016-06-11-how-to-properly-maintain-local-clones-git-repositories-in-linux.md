@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to properly maintain local clones git repositories in Linux ?"
+title: "How to properly maintain local clones of git repositories in Linux ?"
 date: 2016-06-11
 ---
 
