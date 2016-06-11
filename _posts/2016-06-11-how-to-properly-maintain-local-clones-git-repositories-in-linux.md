@@ -21,7 +21,7 @@ Say for instance, you have 50 git repositories, and you have to move all of them
 
 Well, it was for me too, Luckily I was helped by one of my friend who actually introduced me to Linux long back. She had suggested me to use separate partition file for all my git repositories, which is what I am going to explain in this blog post.
 
-###Creating a Raw Image
+### Creating a Raw Image
 
 Start off by making a raw image:
 
