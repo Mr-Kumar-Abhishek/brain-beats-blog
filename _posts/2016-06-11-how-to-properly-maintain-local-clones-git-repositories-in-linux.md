@@ -25,39 +25,49 @@ Well, it was for me too, Luckily I was helped by one of my friend who actually i
 
 Start off by making a raw image:
 
+<pre>
 ```
 #root dd if=/dev/zero of=git_repo.4fs bs=1M count=32
 ```
+</pre>
 
 You will get some output such as this:
 
+<pre>
 ```
 32+0 records in
 32+0 records out
 33554432 bytes (34 MB) copied, 0.0963162 s, 348 MB/s
 ```
+</pre>
 
 This creates (34 MB) of raw image.
 After this if you check your current folder in which you have ran this command you will get a file named `git_repo.4fs`.
 
+<pre>
 ```
 root# pwd 
 /initrd/mnt/dev_save
 ```
+</pre>
 
 Check with `ls` or use GUI to navigate to that folder and you will find the file.
 
+<pre>
 ```
 root# ls -las
 ```
+</pre>
 
 With this you find the file name in the output somewhere.
 
+<pre>
 ```
     4 drwxr-xr-x  3 root root       4096 Jun 10 16:25 .
     4 drwxr-xr-x 14 root root       4096 Jun  9 16:50 ..
 32768 -rwxr-xr-x  1 root root   33554432 Jun 10 16:25 git_repo.4fs
 ```
+</pre>
 
 ### Making a Partition File
 
@@ -65,20 +75,25 @@ Now we have a raw image which we could hopefully convert to a partition file...
 
 To convert it to a partition file we will make use of `mkfs` command. As we have put in the extension of file as `.4fs`, we will be converting this to an `ext4` (file) partition.
 
+<pre>
 ```
 root# mkfs -t ext4 git_repo.4fs
 ```
+</pre>
 
 You will be asked that this not a block special device, and that would you want to proceed anyways ? Confirm by putting in `y` and pressing enter.
 
+<pre>
 ```
 mke2fs 1.42.9 (4-Feb-2014)
 git_repo.4fs is not a block special device.
 Proceed anyway? (y,n) y
 ```
+</pre>
 
 If successful, you will get an output as such:
 
+<pre>
 ```
 Filesystem label=
 OS type: Linux
@@ -100,6 +115,7 @@ Writing inode tables: done
 Creating journal (4096 blocks): done 
 Writing superblocks and filesystem accounting information: done
 ```
+</pre>
 
 Now our file partition is ready. If you are using Puppy Linux , just click the file from GUI and it will be mounted like any partition would. You are using any other distro of Linux, you would have to mount it using `mount` command.
 
@@ -109,12 +125,15 @@ To mount the partition file, first start of by making a empty directory in `/mnt
 
 Change to `mnt` directory if you are not
 
+<pre>
 ```
 cd /mnt
 ```
+</pre>
 
 Then , confirming that you are the correct place make directory called `git_repos`
 
+<pre>
 ```
 root# pwd
 /mnt
@@ -123,27 +142,34 @@ root# ls
 cdrom  dvd    floppy     home                     msdos  swap
 data   flash  git_repos  ram1   zip
 ```
+</pre>
 
 Here you could mount you partition file. I have kept the partion file in `home` directory (where all the sfs, personal save file and all the other files of Puppy Linux are kept), so my mount command would look something like this:
 
+<pre>
 ```
 root# mount home/git_repo.4fs git_repos
 ```
+</pre>
 
 After changing to `git_repos` directory we would see something like this:
 
+<pre>
 ```
 root# cd git_repos
 root# ls
 lost+found
 ```
+</pre>
 
 To unmount simply use `umount`:
 
+<pre>
 ```
 cd /mnt
 umount git_repos
 ```
+</pre>
 
 And that's all you have a partition file where you could keep your git repositories ! Move this partition file around without effecting the the history of the git repositories.
 
@@ -153,6 +179,7 @@ And that's all you have a partition file where you could keep your git repositor
 
 That said , what if you want to increase the size accomodate more git repositories later on ?? That could be done by using `resize2fs`. But before doing that run `e2fsck` over it as such:
 
+<pre>
 ```
 root# e2fsck -f git_repo.4fs
 e2fsck 1.42.9 (4-Feb-2014)
@@ -164,24 +191,29 @@ Pass 5: Checking group summary information
 git_repo.4fs: 9749/51200 files (0.4% non-contiguous), 121125/204800 blocks
 
 ```
+</pre>
 
 Then use `resize2fs`. Say you want the partition file to have 512mb of space, so the command of `resize2fs` would look something like this:
 
+<pre>
 ```
 root# resize2fs git_repo.4fs 512m
 resize2fs 1.42.9 (4-Feb-2014)
 Resizing the filesystem on howling.4fs to 524288 (1k) blocks.
 The filesystem on git_repo.4fs is now 524288 blocks long.
 ```
+</pre>
 
 ### Maintaining the file partition
 
 If you have abrupt power cuts, as your system shuts down or crashes suddenly while you were working with you file partition mounted, remember to `e2fsck` first to repair the file system before mounting it again.
 
+<pre>
 ```
 root# e2fsck git_repo.4fs
 e2fsck 1.42.9 (4-Feb-2014)
 git_repo.4fs: clean, 11/8192 files, 5530/32768 blocks
 ```
+</pre>
 
 If you have any questions contact me over twitter. This blog is new, so wait a while for me to include the commenting feature.
