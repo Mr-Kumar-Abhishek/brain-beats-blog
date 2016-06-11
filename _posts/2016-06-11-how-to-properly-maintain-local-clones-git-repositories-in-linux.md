@@ -13,7 +13,7 @@ Maintaining local clones of git repositories in Linux could become tiresome espe
 * has standard  (frugal) installation of Puppy Linux or frugal installation of any other Linux Distro.
 * needs to move a lot of git repositories around the system. 
 
-Now, git is a wonderful tool to maintain your software's source code. Agreed. I prefer it over svn, mercurial and P4 too. But maintaining a lot of local clones can sometimes become a nightmare.
+Now, git is a wonderful tool to maintain your software's source code. Agreed. I prefer it over [svn](https://en.wikipedia.org/wiki/Apache_Subversion) and [mercurial](https://en.wikipedia.org/wiki/Mercurial) too. But maintaining a lot of local clones can sometimes become a nightmare.
 
 Say for instance, you have 50 git repositories, and you have to move all of them to different location . What do you do ?? Write a quick bash script to do the job ?? Well you could, but then you will have reconfigure those individual repositories.
 
@@ -73,7 +73,7 @@ With this you find the file name in the output somewhere.
 
 Now we have a raw image which we could hopefully convert to a partition file...
 
-To convert it to a partition file we will make use of `mkfs` command. As we have put in the extension of file as `.4fs`, we will be converting this to an `ext4` (file) partition.
+To convert it to a partition file we will make use of `mkfs` command. As we have put in the extension of file as `.4fs`, we will be converting this to an [ext4](https://en.wikipedia.org/wiki/Ext4) (file) partition.
 
 <pre>
 <code>
@@ -216,4 +216,4 @@ git_repo.4fs: clean, 11/8192 files, 5530/32768 blocks
 </code>
 </pre>
 
-If you have any questions contact me over twitter. This blog is new, so wait a while for me to include the commenting feature.
+If you have any questions contact me over [twitter](https://twitter.com/mr_kumar_) or if you find any mistakes send me a [pull request here](https://github.com/Mr-Kumar-Abhishek/Mr-Kumar-Abhishek.github.io). This blog is new, so wait a while for me to include the commenting feature.
