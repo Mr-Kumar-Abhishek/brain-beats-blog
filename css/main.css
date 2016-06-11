@@ -14,17 +14,24 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #428BCA;
 }
 a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
+    font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
-p {
+
+h3 {
     font-size: 1.5em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+
+
+p, .post ul li {
+    font-size: 1.2em;
     line-height: 1.4em;
     color: #333;
 }
@@ -40,4 +47,13 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+
+}
+
+pre {
+    padding: 10px;
+    overflow: auto;
+    line-height: 1.7;
+    background-color: #F7F7F7;
+    border-radius: 5px;
 }
