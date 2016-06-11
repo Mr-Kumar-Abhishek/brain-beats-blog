@@ -7,7 +7,7 @@ date: 2016-06-11
 Maintaining local clones of git repositories in Linux could become tiresome especially if you are a software developer who:
 
 * usually works in slow Internet Connection and has low Internet bandwidth
-* Switches a lot between various systems having windows OS or Linux or both
+* switches a lot between various systems having windows OS or Linux or both
 * is working on a wide range projects all in different domains.
 * is using Puppy Linux ( mostly ) for Software development.
 * has standard  (frugal) installation of Puppy Linux or frugal installation of any other Linux Distro.
