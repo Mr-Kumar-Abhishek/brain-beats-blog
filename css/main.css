@@ -48,3 +48,11 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+pre {
+    padding: 10px;
+    overflow: auto;
+    line-height: 1.7;
+    background-color: #F7F7F7;
+    border-radius: 5px;
+}
