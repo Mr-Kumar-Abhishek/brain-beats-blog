@@ -13,11 +13,11 @@ Maintaining local clones of git repositories in Linux could become tiresome espe
 * has standard  (frugal) installation of Puppy Linux or frugal installation of any other Linux Distro.
 * needs to move a lot of git repositories around the system. 
 
-Now, git is a wonderful tool to maintain your software’s source code. Agreed. I prefer it over svn, mercurial and P4 too. But maintaining a lot of local clones can sometimes become a nightmare.
+Now, git is a wonderful tool to maintain your software's source code. Agreed. I prefer it over svn, mercurial and P4 too. But maintaining a lot of local clones can sometimes become a nightmare.
 
 Say for instance, you have 50 git repositories, and you have to move all of them to different location . What do you do ?? Write a quick bash script to do the job ?? Well you could, but then you will have reconfigure those individual repositories.
 
- Tiresome isn’t it ?
+ Tiresome isn't it ?
 
 Well, it was for me too, Luckily I was helped by one of my friend who actually introduced me to Linux long back. She had suggested me to use separate partition file for all my git repositories, which is what I am going to explain in this blog post.
 
