@@ -25,9 +25,8 @@ Well, it was for me too, Luckily I was helped by one of my friend who actually i
 
 Start off by making a raw image:
 
-﻿
 ```
-dd if=/dev/zero of=git_repo.4fs bs=1M count=32
+#root dd if=/dev/zero of=git_repo.4fs bs=1M count=32
 ```
 
 You will get some output such as this:
@@ -42,7 +41,7 @@ This creates (34 MB) of raw image.
 After this if you check your current folder in which you have ran this command you will get a file named `git_repo.4fs`.
 
 ```
-root# pwd
+root# pwd 
 /initrd/mnt/dev_save
 ```
 
@@ -57,7 +56,7 @@ With this you find the file name in the output somewhere.
 ```
     4 drwxr-xr-x  3 root root       4096 Jun 10 16:25 .
     4 drwxr-xr-x 14 root root       4096 Jun  9 16:50 ..
-32768 -rwxr-xr-x  1 root root   33554432 Jun 10 16:25 git_repo.4fs
+    32768 -rwxr-xr-x  1 root root   33554432 Jun 10 16:25 git_repo.4fs
 ```
 
 ### Making a Partition File
@@ -94,11 +93,11 @@ Maximum filesystem blocks=33554432
 8192 blocks per group, 8192 fragments per group
 2048 inodes per group
 Superblock backups stored on blocks: 
-	8193, 24577
+       8193, 24577
 
-Allocating group tables: done                            
-Writing inode tables: done                            
-Creating journal (4096 blocks): done
+Allocating group tables: done
+Writing inode tables: done
+Creating journal (4096 blocks): done 
 Writing superblocks and filesystem accounting information: done
 ```
 
