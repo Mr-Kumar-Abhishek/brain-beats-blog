@@ -171,7 +171,7 @@ umount git_repos
 </code>
 </pre>
 
-And that's all you have a partition file where you could keep your git repositories ! Move this partition file around without effecting the the history of the git repositories.
+And that's all you have a partition file where you could keep your git repositories ! Move this partition file around without effecting the history of the git repositories.
 
 
 
