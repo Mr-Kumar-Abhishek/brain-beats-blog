@@ -56,7 +56,7 @@ With this you find the file name in the output somewhere.
 ```
     4 drwxr-xr-x  3 root root       4096 Jun 10 16:25 .
     4 drwxr-xr-x 14 root root       4096 Jun  9 16:50 ..
-    32768 -rwxr-xr-x  1 root root   33554432 Jun 10 16:25 git_repo.4fs
+32768 -rwxr-xr-x  1 root root   33554432 Jun 10 16:25 git_repo.4fs
 ```
 
 ### Making a Partition File
