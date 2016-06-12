@@ -31,6 +31,7 @@ Say for instance, you have 50 git repositories, and you have to move all of them
 
 Well, it was for me too, Luckily I was helped by one of my friend who actually introduced me to Linux long back. She had suggested me to use separate partition file for all my git repositories, which is what I am going to explain in this blog post.
 
+<section>
 ### Creating a Raw Image
 
 Start off by making a raw image:
@@ -79,6 +80,8 @@ With this you find the file name in the output somewhere.
 </code>
 </pre>
 
+</section>
+<section>
 ### Making a Partition File
 
 Now we have a raw image which we could hopefully convert to a partition file...
@@ -129,6 +132,8 @@ Writing superblocks and filesystem accounting information: done
 
 Now our file partition is ready. If you are using Puppy Linux , just click the file from GUI and it will be mounted like any partition would. You are using any other distro of Linux, you would have to mount it using `mount` command.
 
+</section>
+<section>
 ### Mounting and unmounting the partition file
 
 To mount the partition file, first start of by making a empty directory in `/mnt/` folder.
@@ -184,7 +189,8 @@ umount git_repos
 And that's all , you have a partition file where you could keep your git repositories ! Move this partition file around without effecting the history of the git repositories.
 
 
-
+</section>
+<section>
 ### Resizing the file partition
 
 That said , what if you want to increase the size accomodate more git repositories later on ?? That could be done by using `resize2fs`. But before doing that run `e2fsck` over it as such:
@@ -214,6 +220,8 @@ The filesystem on git_repo.4fs is now 524288 blocks long.
 </code>
 </pre>
 
+</section>
+<section>
 ### Maintaining the file partition
 
 If you have abrupt power cuts, as your system shuts down or crashes suddenly while you were working with you file partition mounted, remember to `e2fsck` first to repair the file system before mounting it again.
@@ -226,4 +234,5 @@ git_repo.4fs: clean, 11/8192 files, 5530/32768 blocks
 </code>
 </pre>
 
+</section>
 If you find any mistakes send me a [pull request here](https://github.com/Mr-Kumar-Abhishek/Mr-Kumar-Abhishek.github.io).
