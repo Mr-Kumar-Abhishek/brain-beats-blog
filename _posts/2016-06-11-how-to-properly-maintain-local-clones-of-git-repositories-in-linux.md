@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How to properly maintain local clones of git repositories in Linux ?"
+description: This explains how a little kernel development know how will help in managing local clones of git repositories better, especially when working on many projects. 
 date: 2016-06-11
 ---
 
