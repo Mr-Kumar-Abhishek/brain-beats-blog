@@ -9,6 +9,7 @@ tweet-title: Abhishek Kumar, Software Developer Re-launches Site
 tweet-description: This is the first post of my blog. In this post I mention which platforms I am using and why I am using it. Some of tthe best platforms for blogging.
 og-title: Abhishek Kumar, Software Developer Re-launches Site
 og-url: http://mr-kumar-abhishek.github.io/blog/2016/06/10/abhishek-kumar-site-launched/
+canonical-url: http://mr-kumar-abhishek.github.io/blog/2016/06/10/abhishek-kumar-site-launched
 date: 2016-06-10
 ---
 
