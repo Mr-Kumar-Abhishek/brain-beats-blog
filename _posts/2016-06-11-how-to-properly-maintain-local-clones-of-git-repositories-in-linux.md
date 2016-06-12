@@ -5,6 +5,7 @@ description: This explains how a little kernel development know how will help in
 subject: Maintaining local clones of git repositories in Linux
 apple-title: How to properly maintain local clones of git repositories in Linux ? (especially in puppy linux )
 app-name: Properly maintaining local clones of git repositories in Linux 
+tweet-title: How to properly maintain git repositories in Linux ? (especially in Puppy Linux)
 date: 2016-06-11
 ---
 
