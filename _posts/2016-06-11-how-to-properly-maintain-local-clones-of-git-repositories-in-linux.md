@@ -32,7 +32,7 @@ Say for instance, you have 50 git repositories, and you have to move all of them
 Well, it was for me too, Luckily I was helped by one of my friend who actually introduced me to Linux long back. She had suggested me to use separate partition file for all my git repositories, which is what I am going to explain in this blog post.
 
 <section>
-### Creating a Raw Image
+<h3> Creating a Raw Image </h3>
 
 Start off by making a raw image:
 
@@ -82,7 +82,7 @@ With this you find the file name in the output somewhere.
 
 </section>
 <section>
-### Making a Partition File
+<h3> Making a Partition File </h3>
 
 Now we have a raw image which we could hopefully convert to a partition file...
 
@@ -134,7 +134,7 @@ Now our file partition is ready. If you are using Puppy Linux , just click the f
 
 </section>
 <section>
-### Mounting and unmounting the partition file
+<h3> Mounting and unmounting the partition file </h3>
 
 To mount the partition file, first start of by making a empty directory in `/mnt/` folder.
 
@@ -191,7 +191,7 @@ And that's all , you have a partition file where you could keep your git reposit
 
 </section>
 <section>
-### Resizing the file partition
+<h3> Resizing the file partition </h3>
 
 That said , what if you want to increase the size accomodate more git repositories later on ?? That could be done by using `resize2fs`. But before doing that run `e2fsck` over it as such:
 
@@ -222,7 +222,7 @@ The filesystem on git_repo.4fs is now 524288 blocks long.
 
 </section>
 <section>
-### Maintaining the file partition
+<h3> Maintaining the file partition </h3>
 
 If you have abrupt power cuts, as your system shuts down or crashes suddenly while you were working with you file partition mounted, remember to `e2fsck` first to repair the file system before mounting it again.
 
