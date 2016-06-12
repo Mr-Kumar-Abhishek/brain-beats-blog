@@ -216,4 +216,4 @@ git_repo.4fs: clean, 11/8192 files, 5530/32768 blocks
 </code>
 </pre>
 
-If you have any questions contact me over [twitter](https://twitter.com/mr_kumar_) or if you find any mistakes send me a [pull request here](https://github.com/Mr-Kumar-Abhishek/Mr-Kumar-Abhishek.github.io). This blog is new, so wait a while for me to include the commenting feature.
+If you find any mistakes send me a [pull request here](https://github.com/Mr-Kumar-Abhishek/Mr-Kumar-Abhishek.github.io).
