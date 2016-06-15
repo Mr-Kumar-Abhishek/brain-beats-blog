@@ -86,7 +86,7 @@ With this you find the file name in the output somewhere.
 
 Now we have a raw image which we could hopefully convert to a partition file...
 
-To convert it to a partition file we will make use of `mkfs` command. As we have put in the extension of file as `.4fs`, we will be converting this to an [ext4](https://en.wikipedia.org/wiki/Ext4) (file) partition.
+To convert it to a partition file we will make use of `mkfs` command. As we have put in the extension of file as `.4fs`, we will be converting this to an <a href="https://en.wikipedia.org/wiki/Ext4">ext4</a> (file) partition.
 
 <pre>
 <code>
