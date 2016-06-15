@@ -12,6 +12,7 @@ og-url: http://mr-kumar-abhishek.github.io/blog/2016/06/11/how-to-properly-maint
 canonical-url: http://mr-kumar-abhishek.github.io/blog/2016/06/11/how-to-properly-maintain-local-clones-of-git-repositories-in-linux
 alt-lang-url: http://mr-kumar-abhishek.github.io/blog/2016/06/11/how-to-properly-maintain-local-clones-of-git-repositories-in-linux
 date: 2016-06-11
+keywords: Linux, Git, Puppy Linux, git repositories , maintaining git repositories, maintaining local git repositories
 ---
 
 Maintaining local clones of git repositories in Linux could become tiresome especially if you are a software developer who:
@@ -80,7 +81,7 @@ root# ls -las
 <section>
 <h3> Making a Partition File </h3>
 <p>Now we have a raw image which we could hopefully convert to a partition file... </p>
-<p>To convert it to a partition file we will make use of <code>mkfs</code> command. As we have put in the extension of file as `.4fs`, we will be converting this to an <a href="https://en.wikipedia.org/wiki/Ext4">ext4</a> (file) partition.</p>
+<p>To convert it to a partition file we will make use of <code>mkfs</code> command. As we have put in the extension of file as <code>.4fs</code> we will be converting this to an <a href="https://en.wikipedia.org/wiki/Ext4">ext4</a> (file) partition.</p>
 
 <pre>
 <code>
@@ -124,7 +125,7 @@ Writing superblocks and filesystem accounting information: done
 </code>
 </pre>
 
-<p>Now our file partition is ready. If you are using Puppy Linux , just click the file from GUI and it will be mounted like any partition would. You are using any other distro of Linux, you would have to mount it using `mount` command.</p>
+<p>Now our file partition is ready. If you are using Puppy Linux , just click the file from GUI and it will be mounted like any partition would. You are using any other distro of Linux, you would have to mount it using <code>mount</code> command.</p>
 
 </section>
 <section>
@@ -153,7 +154,7 @@ data   flash  git_repos  ram1   zip
 </code>
 </pre>
 
-<p>Here you could mount you partition file. I have kept the partion file in <code>home</code> directory (where all the sfs, personal save file and all the other files of Puppy Linux are kept), so my mount command would look something like this:</p>
+<p>Here you could mount you partition file. I have kept the partition file in <code>home</code> directory (where all the sfs, personal save file and all the other files of Puppy Linux are kept), so my mount command would look something like this:</p>
 
 <pre>
 <code>

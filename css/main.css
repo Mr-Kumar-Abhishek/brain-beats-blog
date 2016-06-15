@@ -1,3 +1,7 @@
+html {
+    background: rgb(197, 179, 255);
+}
+
 body {
     margin: 60px auto;
     width: 70%;
@@ -18,7 +22,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #428BCA;
+    color: #6E4886;
 }
 a:hover {
     text-decoration: underline;
@@ -63,10 +67,10 @@ pre {
     padding: 10px;
     overflow: auto;
     line-height: 1.7;
-    background-color: #F7F7F7;
+    background-color: #ECDEFF;
     border-radius: 5px;
 }
 
 code {
-    background-color: #F7F7F7;
+    background-color: #ECDEFF;
 }
