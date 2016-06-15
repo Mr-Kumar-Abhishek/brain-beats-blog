@@ -12,6 +12,7 @@ og-url: http://mr-kumar-abhishek.github.io/blog/2016/06/11/how-to-properly-maint
 canonical-url: http://mr-kumar-abhishek.github.io/blog/2016/06/11/how-to-properly-maintain-local-clones-of-git-repositories-in-linux
 alt-lang-url: http://mr-kumar-abhishek.github.io/blog/2016/06/11/how-to-properly-maintain-local-clones-of-git-repositories-in-linux
 date: 2016-06-11
+keywords: Linux, Git, Puppy Linux, git repositories , maintaining git repositories, maintaining local git repositories
 ---
 
 Maintaining local clones of git repositories in Linux could become tiresome especially if you are a software developer who:
