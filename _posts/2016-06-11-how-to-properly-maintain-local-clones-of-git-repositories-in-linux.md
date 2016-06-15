@@ -153,7 +153,7 @@ data   flash  git_repos  ram1   zip
 </code>
 </pre>
 
-<p>Here you could mount you partition file. I have kept the partion file in <code>home</code> directory (where all the sfs, personal save file and all the other files of Puppy Linux are kept), so my mount command would look something like this:</p>
+<p>Here you could mount you partition file. I have kept the partition file in <code>home</code> directory (where all the sfs, personal save file and all the other files of Puppy Linux are kept), so my mount command would look something like this:</p>
 
 <pre>
 <code>
