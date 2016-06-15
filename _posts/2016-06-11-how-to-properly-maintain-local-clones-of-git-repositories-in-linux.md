@@ -124,7 +124,7 @@ Writing superblocks and filesystem accounting information: done
 </code>
 </pre>
 
-<p>Now our file partition is ready. If you are using Puppy Linux , just click the file from GUI and it will be mounted like any partition would. You are using any other distro of Linux, you would have to mount it using `mount` command.</p>
+<p>Now our file partition is ready. If you are using Puppy Linux , just click the file from GUI and it will be mounted like any partition would. You are using any other distro of Linux, you would have to mount it using <code>mount</code> command.</p>
 
 </section>
 <section>
