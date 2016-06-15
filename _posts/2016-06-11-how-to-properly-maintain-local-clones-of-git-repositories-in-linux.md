@@ -33,17 +33,14 @@ Well, it was for me too, Luckily I was helped by one of my friend who actually i
 
 <section>
 <h3> Creating a Raw Image </h3>
-
-Start off by making a raw image:
+<p> Start off by making a raw image: </p>
 
 <pre>
 <code>
 #root dd if=/dev/zero of=git_repo.4fs bs=1M count=32
 </code>
 </pre>
-
-You will get some output such as this:
-
+<p>You will get some output such as this:</p>
 <pre>
 <code>
 32+0 records in
@@ -51,9 +48,8 @@ You will get some output such as this:
 33554432 bytes (34 MB) copied, 0.0963162 s, 348 MB/s
 </code>
 </pre>
-
-This creates (34 MB) of raw image.
-After this if you check your current folder in which you have ran this command you will get a file named `git_repo.4fs`.
+<p>This creates (34 MB) of raw image.<br>
+After this if you check your current folder in which you have ran this command you will get a file named `git_repo.4fs`.</p>
 
 <pre>
 <code>
@@ -62,7 +58,7 @@ root# pwd
 </code>
 </pre>
 
-Check with `ls` or use GUI to navigate to that folder and you will find the file.
+<p>Check with `ls` or use GUI to navigate to that folder and you will find the file. </p>
 
 <pre>
 <code>
@@ -70,7 +66,7 @@ root# ls -las
 </code>
 </pre>
 
-With this you find the file name in the output somewhere.
+<p>With this you find the file name in the output somewhere.</p>
 
 <pre>
 <code>
@@ -83,10 +79,8 @@ With this you find the file name in the output somewhere.
 </section>
 <section>
 <h3> Making a Partition File </h3>
-
-Now we have a raw image which we could hopefully convert to a partition file...
-
-To convert it to a partition file we will make use of `mkfs` command. As we have put in the extension of file as `.4fs`, we will be converting this to an <a href="https://en.wikipedia.org/wiki/Ext4">ext4</a> (file) partition.
+<p>Now we have a raw image which we could hopefully convert to a partition file... </p>
+<p>To convert it to a partition file we will make use of `mkfs` command. As we have put in the extension of file as `.4fs`, we will be converting this to an <a href="https://en.wikipedia.org/wiki/Ext4">ext4</a> (file) partition.</p>
 
 <pre>
 <code>
@@ -94,7 +88,7 @@ root# mkfs -t ext4 git_repo.4fs
 </code>
 </pre>
 
-You will be asked that this not a block special device, and that would you want to proceed anyways ? Confirm by putting in `y` and pressing enter.
+<p>You will be asked that this not a block special device, and that would you want to proceed anyways ? Confirm by putting in `y` and pressing enter.</p>
 
 <pre>
 <code>
@@ -104,7 +98,7 @@ Proceed anyway? (y,n) y
 </code>
 </pre>
 
-If successful, you will get an output as such:
+<p>If successful, you will get an output as such:</p>
 
 <pre>
 <code>
@@ -130,15 +124,15 @@ Writing superblocks and filesystem accounting information: done
 </code>
 </pre>
 
-Now our file partition is ready. If you are using Puppy Linux , just click the file from GUI and it will be mounted like any partition would. You are using any other distro of Linux, you would have to mount it using `mount` command.
+<p>Now our file partition is ready. If you are using Puppy Linux , just click the file from GUI and it will be mounted like any partition would. You are using any other distro of Linux, you would have to mount it using `mount` command.</p>
 
 </section>
 <section>
 <h3> Mounting and unmounting the partition file </h3>
 
-To mount the partition file, first start of by making a empty directory in `/mnt/` folder.
+<p>To mount the partition file, first start of by making a empty directory in `/mnt/` folder.</p>
 
-Change to `mnt` directory if you are not
+<p>Change to `mnt` directory if you are not</p>
 
 <pre>
 <code>
@@ -146,7 +140,7 @@ cd /mnt
 </code>
 </pre>
 
-Then , confirming that you are the correct place make directory called `git_repos`
+<p>Then , confirming that you are the correct place make directory called `git_repos`</p>
 
 <pre>
 <code>
@@ -159,7 +153,7 @@ data   flash  git_repos  ram1   zip
 </code>
 </pre>
 
-Here you could mount you partition file. I have kept the partion file in `home` directory (where all the sfs, personal save file and all the other files of Puppy Linux are kept), so my mount command would look something like this:
+<p>Here you could mount you partition file. I have kept the partion file in `home` directory (where all the sfs, personal save file and all the other files of Puppy Linux are kept), so my mount command would look something like this:</p>
 
 <pre>
 <code>
@@ -167,7 +161,7 @@ root# mount home/git_repo.4fs git_repos
 </code>
 </pre>
 
-After changing to `git_repos` directory we would see something like this:
+<p>After changing to `git_repos` directory we would see something like this:</p>
 
 <pre>
 <code>
@@ -177,7 +171,7 @@ lost+found
 </code>
 </pre>
 
-To unmount simply use `umount`:
+<p>To unmount simply use `umount`:</p>
 
 <pre>
 <code>
@@ -186,14 +180,14 @@ umount git_repos
 </code>
 </pre>
 
-And that's all , you have a partition file where you could keep your git repositories ! Move this partition file around without effecting the history of the git repositories.
+<p>And that's all , you have a partition file where you could keep your git repositories ! Move this partition file around without effecting the history of the git repositories.</p>
 
 
 </section>
 <section>
 <h3> Resizing the file partition </h3>
 
-That said , what if you want to increase the size accomodate more git repositories later on ?? That could be done by using `resize2fs`. But before doing that run `e2fsck` over it as such:
+<p>That said , what if you want to increase the size accomodate more git repositories later on ?? That could be done by using `resize2fs`. But before doing that run `e2fsck` over it as such:</p>
 
 <pre>
 <code>
@@ -209,7 +203,7 @@ git_repo.4fs: 9749/51200 files (0.4% non-contiguous), 121125/204800 blocks
 </code>
 </pre>
 
-Then use `resize2fs`. Say you want the partition file to have 512mb of space, so the command of `resize2fs` would look something like this:
+<p>Then use `resize2fs`. Say you want the partition file to have 512mb of space, so the command of `resize2fs` would look something like this:</p>
 
 <pre>
 <code>
@@ -224,7 +218,7 @@ The filesystem on git_repo.4fs is now 524288 blocks long.
 <section>
 <h3> Maintaining the file partition </h3>
 
-If you have abrupt power cuts, as your system shuts down or crashes suddenly while you were working with you file partition mounted, remember to `e2fsck` first to repair the file system before mounting it again.
+<p>If you have abrupt power cuts, as your system shuts down or crashes suddenly while you were working with you file partition mounted, remember to `e2fsck` first to repair the file system before mounting it again.</p>
 
 <pre>
 <code>
