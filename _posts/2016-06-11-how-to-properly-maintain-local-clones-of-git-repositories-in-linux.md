@@ -80,7 +80,7 @@ root# ls -las
 <section>
 <h3> Making a Partition File </h3>
 <p>Now we have a raw image which we could hopefully convert to a partition file... </p>
-<p>To convert it to a partition file we will make use of <code>mkfs</code> command. As we have put in the extension of file as `.4fs`, we will be converting this to an <a href="https://en.wikipedia.org/wiki/Ext4">ext4</a> (file) partition.</p>
+<p>To convert it to a partition file we will make use of <code>mkfs</code> command. As we have put in the extension of file as <code>.4fs</code> we will be converting this to an <a href="https://en.wikipedia.org/wiki/Ext4">ext4</a> (file) partition.</p>
 
 <pre>
 <code>
