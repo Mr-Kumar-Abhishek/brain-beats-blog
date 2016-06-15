@@ -49,7 +49,7 @@ Well, it was for me too, Luckily I was helped by one of my friend who actually i
 </code>
 </pre>
 <p>This creates (34 MB) of raw image.<br>
-After this if you check your current folder in which you have ran this command you will get a file named `git_repo.4fs`.</p>
+After this if you check your current folder in which you have ran this command you will get a file named <code>git_repo.4fs</code>.</p>
 
 <pre>
 <code>
@@ -88,7 +88,7 @@ root# mkfs -t ext4 git_repo.4fs
 </code>
 </pre>
 
-<p>You will be asked that this not a block special device, and that would you want to proceed anyways ? Confirm by putting in `y` and pressing enter.</p>
+<p>You will be asked that this not a block special device, and that would you want to proceed anyways ? Confirm by putting in <code>y</code> and pressing enter.</p>
 
 <pre>
 <code>
@@ -130,9 +130,9 @@ Writing superblocks and filesystem accounting information: done
 <section>
 <h3> Mounting and unmounting the partition file </h3>
 
-<p>To mount the partition file, first start of by making a empty directory in `/mnt/` folder.</p>
+<p>To mount the partition file, first start of by making a empty directory in <code>/mnt/</code> folder.</p>
 
-<p>Change to `mnt` directory if you are not</p>
+<p>Change to <code>mnt</code> directory if you are not</p>
 
 <pre>
 <code>
@@ -140,7 +140,7 @@ cd /mnt
 </code>
 </pre>
 
-<p>Then , confirming that you are the correct place make directory called `git_repos`</p>
+<p>Then , confirming that you are the correct place make directory called <code>git_repos</code></p>
 
 <pre>
 <code>
@@ -161,7 +161,7 @@ root# mount home/git_repo.4fs git_repos
 </code>
 </pre>
 
-<p>After changing to `git_repos` directory we would see something like this:</p>
+<p>After changing to <code>git_repos</code> directory we would see something like this:</p>
 
 <pre>
 <code>
@@ -171,7 +171,7 @@ lost+found
 </code>
 </pre>
 
-<p>To unmount simply use `umount`:</p>
+<p>To unmount simply use <code>umount</code> :</p>
 
 <pre>
 <code>
@@ -187,7 +187,7 @@ umount git_repos
 <section>
 <h3> Resizing the file partition </h3>
 
-<p>That said , what if you want to increase the size accomodate more git repositories later on ?? That could be done by using `resize2fs`. But before doing that run `e2fsck` over it as such:</p>
+<p>That said , what if you want to increase the size accomodate more git repositories later on ?? That could be done by using <code>resize2fs</code>. But before doing that run <code>e2fsck</code> over it as such:</p>
 
 <pre>
 <code>
@@ -203,7 +203,7 @@ git_repo.4fs: 9749/51200 files (0.4% non-contiguous), 121125/204800 blocks
 </code>
 </pre>
 
-<p>Then use `resize2fs`. Say you want the partition file to have 512mb of space, so the command of `resize2fs` would look something like this:</p>
+<p>Then use <code>resize2fs</code>. Say you want the partition file to have 512mb of space, so the command of <code>resize2fs</code> would look something like this:</p>
 
 <pre>
 <code>
@@ -218,7 +218,7 @@ The filesystem on git_repo.4fs is now 524288 blocks long.
 <section>
 <h3> Maintaining the file partition </h3>
 
-<p>If you have abrupt power cuts, as your system shuts down or crashes suddenly while you were working with you file partition mounted, remember to `e2fsck` first to repair the file system before mounting it again.</p>
+<p>If you have abrupt power cuts, as your system shuts down or crashes suddenly while you were working with you file partition mounted, remember to <code>e2fsck</code> first to repair the file system before mounting it again.</p>
 
 <pre>
 <code>
