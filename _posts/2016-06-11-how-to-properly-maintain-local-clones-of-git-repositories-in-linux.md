@@ -58,7 +58,7 @@ root# pwd
 </code>
 </pre>
 
-<p>Check with `ls` or use GUI to navigate to that folder and you will find the file. </p>
+<p>Check with <code>ls</code> or use GUI to navigate to that folder and you will find the file. </p>
 
 <pre>
 <code>
