@@ -1,5 +1,6 @@
 html {
-    background: rgb(197, 179, 255);
+    background: #58316B;
+    color: #fff;
 }
 
 body {
@@ -22,7 +23,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #6E4886;
+    color: #BCAAD2;
 }
 a:hover {
     text-decoration: underline;
@@ -41,7 +42,7 @@ h3 {
 p, .post ul li {
     font-size: 1.2em;
     line-height: 1.4em;
-    color: #333;
+    color: #fff;
 }
 
 .post {
@@ -73,4 +74,5 @@ pre {
 
 code {
     background-color: #ECDEFF;
+    color: #000;
 }
