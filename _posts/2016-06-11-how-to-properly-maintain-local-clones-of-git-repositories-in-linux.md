@@ -20,11 +20,11 @@ Maintaining local clones of git repositories in Linux could become tiresome espe
 * usually works in slow Internet Connection and has low Internet bandwidth
 * switches a lot between various systems having windows OS or Linux or both
 * is working on a wide range projects all in different domains.
-* is using Puppy Linux ( mostly ) for Software development.
-* has standard  (frugal) installation of Puppy Linux or frugal installation of any other Linux Distro.
+* is using <a href="http://puppylinux.com">Puppy Linux</a> ( mostly ) for Software development.
+* has standard  (frugal) installation of <a href="http://puppylinux.com" >Puppy Linux</a> or frugal installation of any other Linux Distro.
 * needs to move a lot of git repositories around the system. 
 
-Now, git is a wonderful tool to maintain your software's source code. Agreed. I prefer it over [svn](https://en.wikipedia.org/wiki/Apache_Subversion) and [mercurial](https://en.wikipedia.org/wiki/Mercurial) too. But maintaining a lot of local clones can sometimes become a nightmare.
+Now, <a href="https://git-scm.com">git</a> is a wonderful tool to maintain your software's source code. Agreed. I prefer it over [svn](https://en.wikipedia.org/wiki/Apache_Subversion) and [mercurial](https://en.wikipedia.org/wiki/Mercurial) too. But maintaining a lot of local clones can sometimes become a nightmare.
 
 Say for instance, you have 50 git repositories, and you have to move all of them to different location . What do you do ?? Write a quick bash script to do the job ?? Well you could, but then you will have reconfigure those individual repositories.
 
@@ -129,7 +129,7 @@ Writing superblocks and filesystem accounting information: done
 </code>
 </pre>
 
-<p>Now our file partition is ready. If you are using Puppy Linux , just click the file from GUI and it will be mounted like any partition would. You are using any other distro of Linux, you would have to mount it using <code>mount</code> command.</p>
+<p>Now our file partition is ready. If you are using <a href="http://puppylinux.com" >Puppy Linux</a> , just click the file from GUI and it will be mounted like any partition would. You are using any other distro of Linux, you would have to mount it using <code>mount</code> command.</p>
 
 </section>
 <section>
@@ -158,7 +158,7 @@ data   flash  git_repos  ram1   zip
 </code>
 </pre>
 
-<p>Here you could mount you partition file. I have kept the partition file in <code>home</code> directory (where all the sfs, personal save file and all the other files of Puppy Linux are kept), so my mount command would look something like this:</p>
+<p>Here you could mount you partition file. I have kept the partition file in <code>home</code> directory (where all the sfs, personal save file and all the other files of <a href="http://puppylinux.com">Puppy Linux</a> are kept), so my mount command would look something like this:</p>
 
 <pre>
 <code>
