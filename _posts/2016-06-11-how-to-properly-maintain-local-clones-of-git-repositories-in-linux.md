@@ -33,6 +33,10 @@ Say for instance, you have 50 git repositories, and you have to move all of them
 Well, it was for me too, Luckily I was helped by one of my friend who actually introduced me to Linux long back. She had suggested me to use separate partition file for all my git repositories, which is what I am going to explain in this blog post.
 
 <section>
+<h2>Creating space for git repositories</h2>
+<p>First of all you will be needing a space where you could keep all your git repositories. This space would be special as moving it will not change the git history of the repositories residing in it.</p>
+
+<section>
 <h3> Creating a Raw Image </h3>
 <p> Start off by making a raw image: </p>
 
@@ -185,6 +189,11 @@ umount git_repos
 
 
 </section>
+</section>
+<section>
+<h2>Working with your git repositories</h2>
+<p> Now we have space to keep all the git repositories. However, as this is a partition file you have to treat it as any partition in your drive. Only the plus point is you could move it around anywhere like a directory.</p>
+
 <section>
 <h3> Resizing the file partition </h3>
 
@@ -228,6 +237,7 @@ e2fsck 1.42.9 (4-Feb-2014)
 git_repo.4fs: clean, 11/8192 files, 5530/32768 blocks
 </code>
 </pre>
-
 </section>
+</section>
+
 If you find any mistakes send me a [pull request here](https://github.com/Mr-Kumar-Abhishek/Mr-Kumar-Abhishek.github.io).
