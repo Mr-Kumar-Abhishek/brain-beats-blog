@@ -33,7 +33,7 @@ Well, it was for me too, Luckily I was helped by one of my friend who actually i
 
 <section>
 <h2>Creating space for git repositories</h2>
-<p>First of all you will be needing a space where you could keep all your git repositories. This space would be special as moving it will not change the git history of the repositories residing in it.</p>
+<p>First of all we will be needing a space where we could keep all your git repositories. This space would be special as moving it will not change the git history of the repositories residing in it.</p>
 
 <section>
 <h3> Creating a Raw Image </h3>
@@ -44,7 +44,7 @@ Well, it was for me too, Luckily I was helped by one of my friend who actually i
 #root dd if=/dev/zero of=git_repo.4fs bs=1M count=32
 </code>
 </pre>
-<p>You will get some output such as this:</p>
+<p>We will get some output such as this:</p>
 <pre>
 <code>
 32+0 records in
@@ -53,7 +53,7 @@ Well, it was for me too, Luckily I was helped by one of my friend who actually i
 </code>
 </pre>
 <p>This creates (34 MB) of raw image.<br>
-After this if you check your current folder in which you have ran this command you will get a file named <code>git_repo.4fs</code>.</p>
+After this if we check our current folder in which we ran this command we will get a file named <code>git_repo.4fs</code>.</p>
 
 <pre>
 <code>
@@ -62,7 +62,7 @@ root# pwd
 </code>
 </pre>
 
-<p>Check with <code>ls</code> or use GUI to navigate to that folder and you will find the file. </p>
+<p>Checking with <code>ls</code> or using GUI to navigate to that folder and we will find the file. </p>
 
 <pre>
 <code>
@@ -70,7 +70,7 @@ root# ls -las
 </code>
 </pre>
 
-<p>With this you find the file name in the output somewhere.</p>
+<p>With this we find the file name in the output somewhere.</p>
 
 <pre>
 <code>
@@ -92,7 +92,7 @@ root# mkfs -t ext4 git_repo.4fs
 </code>
 </pre>
 
-<p>You will be asked that this not a block special device, and that would you want to proceed anyways ? Confirm by putting in <code>y</code> and pressing enter.</p>
+<p>We will be asked that this not a block special device, and that would we want to proceed anyways ? Confirm by putting in <code>y</code> and pressing enter.</p>
 
 <pre>
 <code>
@@ -102,7 +102,7 @@ Proceed anyway? (y,n) y
 </code>
 </pre>
 
-<p>If successful, you will get an output as such:</p>
+<p>If successful, we will get an output as such:</p>
 
 <pre>
 <code>
@@ -128,7 +128,7 @@ Writing superblocks and filesystem accounting information: done
 </code>
 </pre>
 
-<p>Now our file partition is ready. If you are using <a href="http://puppylinux.com" >Puppy Linux</a> , just click the file from GUI and it will be mounted like any partition would. You are using any other distro of Linux, you would have to mount it using <code>mount</code> command.</p>
+<p>Now our file partition is ready. If you are using <a href="http://puppylinux.com" >Puppy Linux</a> , just click the file from GUI and it will be mounted like any partition would. On the other hand, if you are using any other distro of Linux, you would have to mount it using <code>mount</code> command.</p>
 
 </section>
 <section>
@@ -144,7 +144,7 @@ cd /mnt
 </code>
 </pre>
 
-<p>Then , confirming that you are the correct place make directory called <code>git_repos</code></p>
+<p>Then, by confirming that we are the correct place make a directory called <code>git_repos</code></p>
 
 <pre>
 <code>
@@ -157,7 +157,7 @@ data   flash  git_repos  ram1   zip
 </code>
 </pre>
 
-<p>Here you could mount you partition file. I have kept the partition file in <code>home</code> directory (where all the sfs, personal save file and all the other files of <a href="http://puppylinux.com">Puppy Linux</a> are kept), so my mount command would look something like this:</p>
+<p>Here we could mount our partition file. I have kept the partition file in <code>home</code> directory (where all the sfs, personal save file and all the other files of <a href="http://puppylinux.com">Puppy Linux</a> are kept), so my mount command would look something like this:</p>
 
 <pre>
 <code>
@@ -184,19 +184,19 @@ umount git_repos
 </code>
 </pre>
 
-<p>And that's all , you have a partition file where you could keep your git repositories ! Move this partition file around without effecting the history of the git repositories.</p>
+<p>And that's all , we have a partition file where you could keep your git repositories ! Move this partition file around without effecting the history of the git repositories.</p>
 
 
 </section>
 </section>
 <section>
 <h2>Working with your git repositories</h2>
-<p> Now we have space to keep all the git repositories. However, as this is a partition file you have to treat it as any partition in your drive. Only the plus point is you could move it around anywhere like a directory.</p>
+<p> Now we have space to keep all the git repositories. However, as this is a partition file you have to treat it as any partition in your drive. Only the plus point is we could move it around anywhere like a directory.</p>
 
 <section>
 <h3> Resizing the file partition </h3>
 
-<p>That said , what if you want to increase the size accomodate more git repositories later on ?? That could be done by using <code>resize2fs</code>. But before doing that run <code>e2fsck</code> over it as such:</p>
+<p>That said , what if we want to increase the size accomodate more git repositories later on ?? That could be done by using <code>resize2fs</code>. But before doing that run <code>e2fsck</code> over it as such:</p>
 
 <pre>
 <code>
@@ -212,7 +212,7 @@ git_repo.4fs: 9749/51200 files (0.4% non-contiguous), 121125/204800 blocks
 </code>
 </pre>
 
-<p>Then use <code>resize2fs</code>. Say you want the partition file to have 512mb of space, so the command of <code>resize2fs</code> would look something like this:</p>
+<p>Then use <code>resize2fs</code>. Say if we want the partition file to have 512mb of space, so the command of <code>resize2fs</code> would look something like this:</p>
 
 <pre>
 <code>
@@ -239,4 +239,4 @@ git_repo.4fs: clean, 11/8192 files, 5530/32768 blocks
 </section>
 </section>
 
-If you find any mistakes send me a [pull request here](https://github.com/Mr-Kumar-Abhishek/Mr-Kumar-Abhishek.github.io).
+If you find any mistakes in the article send me a [pull request here](https://github.com/Mr-Kumar-Abhishek/Mr-Kumar-Abhishek.github.io).
