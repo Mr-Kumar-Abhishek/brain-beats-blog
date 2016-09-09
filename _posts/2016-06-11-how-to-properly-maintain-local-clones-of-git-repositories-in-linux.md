@@ -8,8 +8,8 @@ app-name: Properly maintaining local clones of git repositories in Linux
 tweet-title: How to properly maintain git repositories in Linux (especially in Puppy Linux)
 tweet-description: This explains how little kernel development know how will help in managing local clones of git repositories better, especially when working on many projects.
 og-title: How to properly maintian git repositories in Linux ( especially in Puppy Linux )
-og-url: http://mr-kumar-abhishek.github.io/blog/2016/06/11/how-to-properly-maintain-local-clones-of-git-repositories-in-linux/
-canonical-url: http://mr-kumar-abhishek.github.io/blog/2016/06/11/how-to-properly-maintain-local-clones-of-git-repositories-in-linux
+og-url: https://mr-kumar-abhishek.github.io/blog/2016/06/11/how-to-properly-maintain-local-clones-of-git-repositories-in-linux/
+canonical-url: https://mr-kumar-abhishek.github.io/blog/2016/06/11/how-to-properly-maintain-local-clones-of-git-repositories-in-linux
 date: 2016-06-11
 keywords: maintaining git repository, manage git repositories, manage git repository in linux,maintain git repository in linux server,manage git repo
 ---
