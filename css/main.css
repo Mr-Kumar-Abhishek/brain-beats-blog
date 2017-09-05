@@ -92,3 +92,9 @@ code {
     color: #2C0E48;
     font-weight: bold;
 }
+
+.container {
+    width: 90%;
+    margin: 0 auto 60px auto;
+    line-height: 26px;
+}
