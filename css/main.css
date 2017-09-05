@@ -1,6 +1,6 @@
 html {
-    background: #58316B;
-    color: #DCD1E7;
+    background: #FFF;
+    color: #000;
 }
 
 body {
@@ -23,7 +23,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #BCAAD2;
+    color: #428bca;
 }
 a:hover {
     text-decoration: underline;
@@ -57,7 +57,7 @@ h6 {
 p, .post ul li {
     font-size: 1.2em;
     line-height: 1.4em;
-    color: #fff;
+    color: #000;
 }
 
 .post {
@@ -83,13 +83,13 @@ pre {
     padding: 10px;
     overflow: auto;
     line-height: 1.7;
-    background-color: #A480D5;
+    background-color: #5f656f;
     border-radius: 5px;
 }
 
 code {
-    background-color: #A480D5;
-    color: #2C0E48;
+    background-color: #5f656f;
+    color: #e1ecf3;
     font-weight: bold;
 }
 
