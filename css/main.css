@@ -32,6 +32,7 @@ a:hover {
 
 h1 {
     font-size: 2em;
+    margin-bottom: 25px;
 }
 
 h2 {
@@ -40,6 +41,7 @@ h2 {
 
 h3 {
     font-size: 1.5em;
+    margin-bottom: 10px;
 }
 
 h4 {
@@ -58,6 +60,7 @@ p, .post ul li {
     font-size: 1.2em;
     line-height: 1.4em;
     color: #000;
+    text-align: justify;
 }
 
 .post {
@@ -71,7 +74,7 @@ footer {
 
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 1.5em;
+    font-size: 1.1em;
 }
 
 ul.posts li {
