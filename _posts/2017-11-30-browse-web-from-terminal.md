@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Browse web from terminal"
-description: This explains how to browse the internet from terminal in Linux. 
+description: This explains how to browse the internet from terminal in Linux. All the web browsers given here are command line based. And they work only with Linux.
 subject: Browsing internet from a console
 apple-title: Navigating internet from terminal
 app-name: How to navigate internet from the terminal 
 tweet-title: Browse web from the terminal
-tweet-description: This explains how to browse internet from terminal.
+tweet-description: This explains how to browse internet from terminal. All the web browsers given here are command line based And they work only with Linux.
 og-title: browse web from terminal
 og-url: https://mr-kumar-abhishek.github.io/blog/2017/11/30/browse-web-from-terminal/
 canonical-url: https://mr-kumar-abhishek.github.io/blog/2017/11/30/browse-web-from-terminal
