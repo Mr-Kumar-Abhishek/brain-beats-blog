@@ -11,7 +11,7 @@ og-title: Maintian git repositories in Linux
 og-url: https://mr-kumar-abhishek.github.io/blog/2016/06/11/maintain-git-repository-in-linux/
 canonical-url: https://mr-kumar-abhishek.github.io/blog/2016/06/11/maintain-git-repositories-in-linux
 date: 2016-06-11
-keywords: maintaining git repository, manage git repositories, manage git repository in linux,maintain git repository in linux server,manage git repo
+keywords: git, repository, manage , maintain, maintaining git repository, manage git repositories, manage git repository in linux,maintain git repository in linux server,manage git repo
 ---
 
 Maintaining local clones of git repositories in Linux could become tiresome especially if you are a software developer who:
