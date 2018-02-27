@@ -10,7 +10,7 @@ tweet-description: This explains how to browse internet from terminal. All the w
 og-title: browse web from terminal
 og-url: https://mr-kumar-abhishek.github.io/blog/2017/11/30/browse-web-from-terminal/
 canonical-url: https://mr-kumar-abhishek.github.io/blog/2017/11/30/browse-web-from-terminal
-date: 2017-09-30
+date: 2017-11-30
 keywords: browse, web, terminal, browse web terminal, web browser, terminal browser ,browsing web terminal, internet terminal, console, console browsing, lynx, elinks, links, w3m, links2
 ---
 
