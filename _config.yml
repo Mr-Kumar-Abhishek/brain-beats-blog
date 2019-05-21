@@ -2,5 +2,25 @@ name: Abhishek Kumar, Software Developer
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 
-gems:
+plugins:
+  - jekyll-mentions
+  - jemoji
+  - jekyll-redirect-from
   - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-coffeescript
+  - jekyll-gist
+  - jekyll-github-metadata
+  - jekyll-paginate
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-avatar
+  - jemoji
+  - jekyll-mentions
+  - jekyll-include-cache
