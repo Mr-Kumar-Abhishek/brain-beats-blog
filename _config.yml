@@ -24,5 +24,6 @@ plugins:
   - jemoji
   - jekyll-mentions
   - jekyll-include-cache
+  - jekyll-coffeescript
 
-incremental: true
+
