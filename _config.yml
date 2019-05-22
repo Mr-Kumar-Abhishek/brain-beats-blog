@@ -25,5 +25,6 @@ plugins:
   - jekyll-mentions
   - jekyll-include-cache
   - jekyll-coffeescript
+  - jekyll-seo-tag
 
 
