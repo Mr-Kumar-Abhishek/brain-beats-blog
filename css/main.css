@@ -7,7 +7,7 @@ body {
   width: 70%; }
 
 header {
-  border-bottom: 1px solid #ddd;
+  border-bottom: 57px solid #ddd;
   background-color: #fff;
   opacity: 0.75;
   position: fixed;
@@ -89,6 +89,6 @@ code {
   font-weight: bold; }
 
 .container {
-  padding-top: 56px; }
+  padding-top: 60px; }
 
 /*# sourceMappingURL=main.css.map */
