@@ -8,6 +8,18 @@ body {
     width: 70%;
 }
 
+header {
+    border-bottom: 1px solid #ddd;
+    background-color: #fff;
+    opacity: 0.75;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    height: 56px;
+    width: 100%;
+    z-index: 50;
+}
+
 h1, h2, h3, h4, nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
@@ -97,6 +109,6 @@ code {
 }
 
 .container {
-    padding-top: 40px;;
+    padding-top: 56px;;
 }
 
