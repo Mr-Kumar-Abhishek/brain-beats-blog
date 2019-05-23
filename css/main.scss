@@ -1,3 +1,5 @@
+$links: #0000FF;
+
 html {
     background: #FFF;
     color: #000;
@@ -35,7 +37,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #428bca;
+    color: $links;
 }
 a:hover {
     text-decoration: underline;
@@ -128,7 +130,7 @@ code {
 }
 
 .header-bar h1 {    
-    color: #428bca;
+    color: $links;
     font-size: 75px;
     font-weight: 100;
 }
