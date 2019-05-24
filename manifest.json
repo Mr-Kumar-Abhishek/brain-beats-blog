@@ -25,6 +25,31 @@
                 "src": "https://res.cloudinary.com/mr-kumar-abhishek/image/upload/c_scale,h_128,w_128/v1558672504/mr-kumar-abhishek.github.io/flat_550x550_075_f.u4.jpg",
                 "sizes": "128x128",
                 "type": "image/jpg"
+            },
+            {
+                "src": "https://res.cloudinary.com/mr-kumar-abhishek/image/upload/c_scale,h_144,w_144/v1558672504/mr-kumar-abhishek.github.io/flat_550x550_075_f.u4.jpg",
+                "sizes": "144x144",
+                "type": "image/jpg"
+            },
+            {
+                "src": "https://res.cloudinary.com/mr-kumar-abhishek/image/upload/c_scale,h_152,w_152/v1558672504/mr-kumar-abhishek.github.io/flat_550x550_075_f.u4.jpg",
+                "sizes": "152x152",
+                "type": "image/jpg"
+            },
+            {
+                "src": "https://res.cloudinary.com/mr-kumar-abhishek/image/upload/c_scale,h_192,w_192/v1558672504/mr-kumar-abhishek.github.io/flat_550x550_075_f.u4.jpg",
+                "sizes": "192x192",
+                "type": "image/jpg"
+            },
+            {
+                "src": "https://res.cloudinary.com/mr-kumar-abhishek/image/upload/c_scale,h_384,w_384/v1558672504/mr-kumar-abhishek.github.io/flat_550x550_075_f.u4.jpg",
+                "sizes": "384x384",
+                "type": "image/jpg"
+            },
+            {
+                "src": "https://res.cloudinary.com/mr-kumar-abhishek/image/upload/c_scale,h_512,w_152/v1558672504/mr-kumar-abhishek.github.io/flat_550x550_075_f.u4.jpg",
+                "sizes": "512x512",
+                "type": "image/jpg"
             }
     ]
 }
