@@ -11,5 +11,10 @@
     "background_color" : "transparent",
     "generated" : "true",
     "icons" : [
+           {
+                "src": "https://res.cloudinary.com/mr-kumar-abhishek/image/upload/c_scale,w_72/v1558672504/mr-kumar-abhishek.github.io/flat_550x550_075_f.u4.jpg",
+                "sizes": "72x72",
+                "type": "image/jpg"
+            }
     ]
 }
