@@ -20,7 +20,11 @@
                 "src": "https://res.cloudinary.com/mr-kumar-abhishek/image/upload/c_scale,h_96,w_96/v1558672504/mr-kumar-abhishek.github.io/flat_550x550_075_f.u4.jpg",
                 "sizes": "96x96",
                 "type": "image/jpg"
+            },
+            {
+                "src": "https://res.cloudinary.com/mr-kumar-abhishek/image/upload/c_scale,h_128,w_128/v1558672504/mr-kumar-abhishek.github.io/flat_550x550_075_f.u4.jpg",
+                "sizes": "128x128",
+                "type": "image/jpg"
             }
-            
     ]
 }
