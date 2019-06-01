@@ -3,7 +3,7 @@ layout: post
 title: "Abhishek Kumar, Software Engineer, Re-launches Site"
 description: This is the first post of my blog. In this post I mention which platforms I am using and why I am using it. Some of the best platforms for blogging.
 subject: Abhishek Kumar Re-launches Site as Software Development Blog 
-apple-title: Abhishek Kumar , Software Developer Re-launches Site
+apple-title: Abhishek Kumar , Software Engineer Re-launches Site
 app-name: Abhishek Kumar, Re-launces Site
 tweet-title: Abhishek Kumar, Software Engineer Re-launches Site
 tweet-description: This is the first post of my blog. In this post I mention which platforms I am using and why I am using it. Some of tthe best platforms for blogging.
