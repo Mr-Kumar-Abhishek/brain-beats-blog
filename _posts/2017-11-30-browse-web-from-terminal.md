@@ -35,13 +35,12 @@ The layout provided by lynx browser is very user friendly and one could use arro
 
 ### Links
 
-Now, unlike Lynx , Links is graphic web browser with a pull down menu system. The navigation and user interface is much more easier to understand. However while using it you will 
-soon observe that this browser is much slower in navigation than Lynx. Now this may be because of Links using gecko browser web engine ( as far as I know ) rather than its own unlike Lynx which uses 
-its own web web engine.
+Links is an text and image  web browser with a pull down menu system. The navigation and user interface is much more easier to understand. However while using it we will 
+soon observe that this browser is much slower in navigation than Lynx. This may be because of Links using gecko browser web engine ( as far as I know ) rather than its own, unlike Lynx which uses its own web web engine.
 
 ### Links2
 
-Coming to Links2 now, which a browser based on Links. It could display web pages in text only when we run it in console mode and it renders images in a variety of graphics formats such as PNG, Jpeg, Gif, Tiff and Xbm when run from a X window system.
+Coming to Links2 now, which a browser based on Links. It could display web pages in text only when we run it in console mode, however, it renders images in a variety of image formats such as PNG, Jpeg, Gif, Tiff and Xbm when run from a X window system.
 
 ### Elinks
 
