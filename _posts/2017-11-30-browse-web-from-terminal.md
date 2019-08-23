@@ -35,7 +35,7 @@ The layout provided by lynx browser is very user friendly and one could use arro
 
 ### Links
 
-Links is an text and image  web browser with a pull down menu system. The navigation and user interface is much more easier to understand. However while using it we will 
+Links is a text and image  web browser with a pull down menu system. The navigation and user interface is much more easier to understand. However while using it we will 
 soon observe that this browser is much slower in navigation than Lynx. This may be because of Links using gecko browser web engine ( as far as I know ) rather than its own, unlike Lynx which uses its own web web engine.
 
 ### Links2
