@@ -16,7 +16,7 @@ keywords: monaural beats, brain beats, binaural beats, javascript
 
 Recently I have been working on a project called [brain beats](https://brain-beats.netlify.com) which is brain wave entertainment portal. For the uninitiated, brainwave entertainments are methods to stimulate brain into entering to a specific state of mind by using pulsing sound, light or electromagnetic fields.
 
-These are mainly used for guided meditations. Most popular method attaining brainwave entertainment is by using binaural beats which are just auditary illusions percived by a human when two sine waves are produced to the listener dichotically.
+These are mainly used for guided meditations. Most popular method of attaining brainwave entertainment is by using binaural beats which are just auditary illusions percived by a human when two sine waves are produced to the listener dichotically.
 
 Although, it is the most popular method brainwave entertainment, it is also the least effective from other forms, say as in comparing with monaural beats [Dave Siever](https://mindalive.com/pages/about-dave-siever) said:
 
