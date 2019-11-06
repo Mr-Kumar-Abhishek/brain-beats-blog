@@ -26,7 +26,7 @@ Although, it is the most popular method brainwave entertainment, it is also the 
 </blockquote>
 <br>
 
-Now, to generate monaural beats we have to generate two sine waves from javascript with the help of `BaseAudioContext` of [Web audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API) , since monaural beats are produced by mixining two tones of different frequencies. However contrary to binaural beats this occures outside of ears.
+Now, to generate monaural beats we have to generate two sine waves from javascript with the help of `BaseAudioContext` of [Web audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API) , since monaural beats are produced by mixing two tones of different frequencies. However contrary to binaural beats this occures outside of ears.
 
 To start off, we have to first create a web audio api context.
 
