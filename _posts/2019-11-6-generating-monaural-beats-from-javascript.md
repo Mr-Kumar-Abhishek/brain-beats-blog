@@ -21,7 +21,7 @@ These are mainly used for guided meditations. Most popular method of attaining b
 Although, it is the most popular method brainwave entertainment, it is also the least effective from other forms, say as in comparing with monaural beats [Dave Siever](https://mindalive.com/pages/about-dave-siever) said:
 
 <blockquote>
-	<p>"Monural beats do impact thalamus, and therefore the cortex because they are in beat before they strike the ear drum "</p>
+	<p>"Monaural beats do impact thalamus, and therefore the cortex because they are in beat before they strike the ear drum "</p>
 	<cite> - <a href="https://mindalive.com/pages/about-dave-siever">Dave Siever</a></cite>
 </blockquote>
 <br>
