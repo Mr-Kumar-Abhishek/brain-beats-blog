@@ -77,4 +77,4 @@ It will give an output as such:
 Qt Version : 5.9.5
 ```
 
-And that is it your first Qt based C++ program.
+And that is your first Qt based C++ program.
