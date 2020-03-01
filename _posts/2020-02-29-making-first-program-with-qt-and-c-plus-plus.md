@@ -14,14 +14,14 @@ date: 2020-02-29
 keywords: Abhishek Kumar, Software Engineer, C++, Qt, hello world, GUI
 ---
 
-Qt is one of the most robust cross-platform application development framework. Some well known application developed with this is VLC player, google earth, Skype and Maya. It was first released in May 1995 and is dual licensed, which means it can be used for creating open source applications as well as commercial ones. Qt comes with Qt toolkit which is very powerful utility for development of applications. Large number of open source developers use Qt all over world on various projects. 
+Qt is one of the most robust cross-platform application development framework. Some well known application developed with this is VLC player, google earth, Skype and Maya. It was first released in May 1995 and is dual licensed, which means it can be used for creating open source applications as well as commercial ones. Qt comes with Qt toolkit which is a very powerful utility for development of applications. Large number of open source developers use Qt all the over world on various projects. 
 
-**In this tutorial it is assumed that the reader is familiar with the fundamentals of C++ and Linux Commands.**
+**In this tutorial, it is assumed that the reader is familiar with the fundamentals of C++ and Linux Commands.**
 
 <br>
 ### Installing Qt in Debian Based Linux
 
-I am not covering the installation of Qt on other operating systems as it is well documented in Qt's main website. However, for ease of use in debian based linux systems I will go ahead and explain on how to install Qt in your debian based linux system. Since we are talking about debian based linux, we will  be using the `apt` command for installation of Qt.
+I am not covering the installation of Qt on other operating systems as it is well documented in Qt's main website. However, for ease of use in debian based linux system, I will go ahead and explain on how to install Qt in your debian based linux system. Since we are talking about debian based linux, we will  be using the `apt` command for installation of Qt.
 
 The command for installing Qt in your linux system through your terminal is:
 
@@ -65,7 +65,7 @@ After this is done, the last step to do is to compile. Since the `Makefile` was 
 $ make
 ```
 
-After this, you could run the program with it's binary file's name, such as:
+After this, you could run the program with its binary file's name, such as:
 
 ```
 $ ./version
