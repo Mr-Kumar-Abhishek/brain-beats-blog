@@ -22,7 +22,7 @@ I got my answer from [a paper](https://nv-tlabs.github.io/DIB-R/). It talks abou
 
 It means that it could not only generate the light, texture and geometry but when put all this together, it could make a photo out of it from any viewpoint.
 
-These techniques can be used in enhancing depth perception capabilities of robots and wherever we would like to build a virtual world when only have 2D pictures of it. From the application of this, we could quickly get to a starting point from a texture information. Only thing left is the fine details which could be covered by an artist. One may see some discolouration in application of this, however two more papers on this and it would be resolved significantly.
+These techniques can be used in enhancing depth perception capabilities of robots and wherever we would like to build a virtual world when we only have 2D pictures of it. From the application of this, we could quickly get to a starting point from a texture information. Only thing left is the fine details which could be covered by an artist. One may see some discolouration in application of this, however two more papers on this and it would be resolved significantly.
 
 The paper’s name is “Learning to Predict 3D Objects with an Interpolation-based Differentiable Renderer” . [And this is the link to the paper](https://nv-tlabs.github.io/DIB-R/).
 
