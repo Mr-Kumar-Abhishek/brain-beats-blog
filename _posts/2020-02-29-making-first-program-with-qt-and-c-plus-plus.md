@@ -14,7 +14,7 @@ date: 2020-02-29
 keywords: Abhishek Kumar, Software Engineer, C++, Qt, hello world, GUI
 ---
 
-Qt is one of the most robust cross-platform application development framework. Some well known application developed with this is VLC player, google earth, Skype and Maya. It was first released in May 1995 and is dual licensed, which means it can be used for creating open source applications as well as commercial ones. Qt comes with Qt toolkit which is a very powerful utility for development of applications. Large number of open source developers use Qt all the over world on various projects. 
+Qt is one of the most robust cross-platform application development framework. Some well known application developed with this is VLC player, google earth, Skype and Maya. It was first released in May 1995 and is dual licensed, which means it can be used for creating open source applications as well as commercial ones. Qt comes with Qt toolkit which is a very powerful utility for development of applications. Large number of open source developers use Qt all over the world on various projects. 
 
 **In this tutorial, it is assumed that the reader is familiar with the fundamentals of C++ and Linux Commands.**
 
