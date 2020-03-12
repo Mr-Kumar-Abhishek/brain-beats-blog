@@ -51,7 +51,7 @@ int main(){
 
 The above code is self explanatory. `QtCore` is a class based library of Qt whose function named `qVersion()` is called in the `main()` function of the program which gives the version number of the current Qt.
 
-In order to compile this program properly, we need to make it into a project format that will build all the necessary configuration files for compilation. To make this into a project format simply go in your terminal then, to go the directory where you have placed your source file and put this command:
+In order to compile this program properly, we need to make it into a project format that will build all the necessary configuration files for compilation. To make this into a project format simply go in your terminal then, go to the directory where you have placed your source file and put this command:
 
 ```
 $ qmake -project
