@@ -170,6 +170,10 @@ blockquote .small {
   pre {
     color: #000;
   }
+
+  .no-print {
+    display: none;
+  }
 }
 
 /*# sourceMappingURL=main.css.map */
