@@ -161,6 +161,11 @@ blockquote .small {
   text-align: right;
 }
 
+img {
+  width: 99%;
+  text-align: center;
+}
+
 @media print {
   code {
     color: #000;
