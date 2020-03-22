@@ -131,7 +131,7 @@ To edit this file any text editor can be used. For now, I am using the simple co
 
 ```
 $ vi Pages/Index.cshtml
-``
+```
 
 In order to change the code of this Razor page we will remove the following line:
 
