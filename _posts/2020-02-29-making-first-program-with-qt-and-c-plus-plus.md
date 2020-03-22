@@ -3,9 +3,9 @@ layout: post
 title: "Making the first program with Qt library and C++"
 description: This article simply shows on how to make a simple program with Qt and C++. It is assumed that all basic concepts of C++ is already understood by the reader.
 subject: Making the first program with Qt library and C++
-apple-title: Making your first progrmam with Qt library and C++
+apple-title: Making your first program with Qt library and C++
 app-name: First Qt program
-tweet-title: How to make your first program iwht Qt library and C++
+tweet-title: How to make your first program with Qt library and C++
 tweet-description: This article discusses on how to make a simple program with Qt library and C++. It is assumed that the reader is aleady acquainted with the basic fundamentals of C++.
 og-title: Making the first program with Qt library and C++
 og-url: https://mr-kumar.tk/blog/2020/02/29/making-first-program-with-qt-and-c-plus-plus
