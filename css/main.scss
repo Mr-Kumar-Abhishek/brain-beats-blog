@@ -104,12 +104,13 @@ pre {
     padding: 10px;
     overflow: auto;
     line-height: 1.7;
-    background-color: #5f656f;
+    background-color: #000;
     border-radius: 5px;
+    color: #07f31b;
 }
 
 code {
-    background-color: #5f656f;
+    background-color: #000;
     color: #e1ecf3;
     font-weight: bold;
 }
@@ -160,3 +161,13 @@ blockquote .small {
     color: brown;
     text-align: right;
 } 
+
+@media print {
+	code {
+		color: #000;
+		background: #fff;
+	}
+	pre {
+		color: #000;
+	}
+}
