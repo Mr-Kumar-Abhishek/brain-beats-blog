@@ -105,7 +105,7 @@ info: Microsoft.Hosting.Lifetime[0]
 
 As from the above output, we could understand that the development web server is listening on two ports, namely `5000` and `5001`, the latter being in an SSL connection. Pointing our web browser to addresses `http://localhost:5000` or `https://localhost:5001` would yield a demo homepage of the project.
 
-![ASP.NET hello world ! image ]({{ site.url }}/img/2020-03-11-152416_1280x1024_scrot.png "ASP.NET Hello world !")
+![ASP.NET hello world ! image ]({{ site.url }}/img/2020-03-11-150012_1280x1024_scrot.png "ASP.NET Hello world !")
 
 <br>
 
@@ -182,7 +182,7 @@ info: Microsoft.Hosting.Lifetime[0]
 
 Again, this might take a while depending on the speed of your computer. After which you should get an output page as shown below on refreshing the URL.
 
-![Edited razor page image ]({{ site.url }}/img/2020-03-11-150012_1280x1024_scrot.png "Edited razor page image.")
+![Edited razor page image ]({{ site.url }}/img/2020-03-11-152416_1280x1024_scrot.png "Edited razor page image.")
 
 This just covers the starting steps on how to develop an ASP.NET web app over GNU/Linux systems. For further reading, you could always refer to Microsoft’s developer documentation. 
 
