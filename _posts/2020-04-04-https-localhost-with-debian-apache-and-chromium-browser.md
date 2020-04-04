@@ -328,7 +328,7 @@ To double-check, you could also click on the “Certificate (Valid)” text and 
 ![SSL certificate details]({{ site.url }}/img/2020-04-05-020346_1280x800_scrot.png "SSL certificate details")
 
 
-
+Generated SSL files are kept in the [git repository of github named localhostSSL](https://github.com/Mr-Kumar-Abhishek/localhostSSL)
 
 
 
