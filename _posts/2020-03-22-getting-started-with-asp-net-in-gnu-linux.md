@@ -8,7 +8,7 @@ app-name: ASP.NET in ARM systems
 tweet-title: Getting started with ASP.NET in GNU/Linux
 tweet-description: This article is intended for users who understand the fundamentals of Linux and are running their implementation of Linux on a computer with an ARM processor. The readers may still find this useful as an general introduction to ASP.NET.
 og-title: Getting started with ASP.NET in GNU/Linux
-og-url: https://mr-kumar.tk/blog/2020/03/22/making-first-program-with-qt-and-c-plus-plus
+og-url: https://mr-kumar.tk/blog/2020/02/29/getting-started-with-asp-net-in-gnu-linux
 canonical-url: https://mr-kumar.tk/blog/2020/02/29/getting-started-with-asp-net-in-gnu-linux
 date: 2020-03-22
 keywords: Abhishek Kumar, Software Engineer, ASP.NET, Linux, ARM, .NET, core
