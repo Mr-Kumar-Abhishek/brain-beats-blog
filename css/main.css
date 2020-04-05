@@ -167,6 +167,10 @@ img {
 }
 
 @media print {
+  .row {
+    display: block;
+  }
+
   code {
     color: #000;
     background: #fff;
