@@ -63,7 +63,7 @@ $ sudo apt install apache2
 
 After the installation is complete you could verify its installation by pointing your chromium-browser to this address, `http://localhost`. A screenshot in Bodhi Linux is given below. Debian/Ubuntu OSes and its derivatives should show a similar result.
 
-![Installed Apache on Bodhi Linux](https://res.cloudinary.com/mr-kumar-abhishek/image/upload/c_scale,h_393,q_auto,w_629/v1586393995/mr-kumar-abhishek.github.io/img/2020-04-01-150653_1280x800_scrot.png "Installed Apache on Bodhi Linux")
+[![Installed Apache on Bodhi Linux](https://res.cloudinary.com/mr-kumar-abhishek/image/upload/c_scale,h_393,q_auto,w_629/v1586393995/mr-kumar-abhishek.github.io/img/2020-04-01-150653_1280x800_scrot.png "Installed Apache on Bodhi Linux")](https://res.cloudinary.com/mr-kumar-abhishek/image/upload/q_auto/v1586393995/mr-kumar-abhishek.github.io/img/2020-04-01-150653_1280x800_scrot.png)
 
 <br>
 ### Installing OpenSSL in Debian OS (or in its derivatives)
@@ -305,27 +305,27 @@ $ sudo service apache2 restart
 
 To add root CA in your chromium go to `chrome://settings/certificates` from the address bar of the browser. Then choose the “Authorities” tab, and then press on the “Import” button.
 
-![Authorities tab in certificate settings of Chromium](https://res.cloudinary.com/mr-kumar-abhishek/image/upload/c_scale,h_393,q_auto,w_629/v1586393995/mr-kumar-abhishek.github.io/img/2020-04-05-015425_1280x800_scrot.png "Authorities tab in certificate settings of Chromium")
+[![Authorities tab in certificate settings of Chromium](https://res.cloudinary.com/mr-kumar-abhishek/image/upload/c_scale,h_393,q_auto,w_629/v1586393995/mr-kumar-abhishek.github.io/img/2020-04-05-015425_1280x800_scrot.png "Authorities tab in certificate settings of Chromium")](https://res.cloudinary.com/mr-kumar-abhishek/image/upload/q_auto/v1586393995/mr-kumar-abhishek.github.io/img/2020-04-05-015425_1280x800_scrot.png)
 
 
 
 Then navigate to the location where you have kept your `rootCA.crt` file. 
 
-![rootCA.crt file](https://res.cloudinary.com/mr-kumar-abhishek/image/upload/c_scale,h_393,q_auto,w_629/v1586393995/mr-kumar-abhishek.github.io/img/2020-04-05-015904_1280x800_scrot.png "rootCA.crt file")
+[![rootCA.crt file](https://res.cloudinary.com/mr-kumar-abhishek/image/upload/c_scale,h_393,q_auto,w_629/v1586393995/mr-kumar-abhishek.github.io/img/2020-04-05-015904_1280x800_scrot.png "rootCA.crt file")](https://res.cloudinary.com/mr-kumar-abhishek/image/upload/q_auto/v1586393995/mr-kumar-abhishek.github.io/img/2020-04-05-015904_1280x800_scrot.png)
 
 Open it and select the checkbox telling, “Trust this certificate for identifying websites”.
 
-![checkbox for trusting certificate](https://res.cloudinary.com/mr-kumar-abhishek/image/upload/c_scale,h_393,q_auto,w_629/v1586393995/mr-kumar-abhishek.github.io/img/2020-04-05-020001_1280x800_scrot.png "checkbox for trusting certificate")
+[![checkbox for trusting certificate](https://res.cloudinary.com/mr-kumar-abhishek/image/upload/c_scale,h_393,q_auto,w_629/v1586393995/mr-kumar-abhishek.github.io/img/2020-04-05-020001_1280x800_scrot.png "checkbox for trusting certificate")](https://res.cloudinary.com/mr-kumar-abhishek/image/upload/q_auto/v1586393995/mr-kumar-abhishek.github.io/img/2020-04-05-020001_1280x800_scrot.png)
 
 Then press “ok”.
 
 Lastly, navigate to `https://localhost` and see if the certificate exists or not.
 
-![Existance of SSL certificate](https://res.cloudinary.com/mr-kumar-abhishek/image/upload/c_scale,h_393,q_auto,w_629/v1586393995/mr-kumar-abhishek.github.io/img/2020-04-05-020329_1280x800_scrot.png "Existance of SSL certificate")
+[![Existance of SSL certificate](https://res.cloudinary.com/mr-kumar-abhishek/image/upload/c_scale,h_393,q_auto,w_629/v1586393995/mr-kumar-abhishek.github.io/img/2020-04-05-020329_1280x800_scrot.png "Existance of SSL certificate")](https://res.cloudinary.com/mr-kumar-abhishek/image/upload/q_auto/v1586393995/mr-kumar-abhishek.github.io/img/2020-04-05-020329_1280x800_scrot.png)
 
 To double-check, you could also click on the “Certificate (Valid)” text and tally the details of the certificate with what you had put in.
 
-![SSL certificate details](https://res.cloudinary.com/mr-kumar-abhishek/image/upload/c_scale,h_393,q_auto,w_629/v1586393995/mr-kumar-abhishek.github.io/img/2020-04-05-020346_1280x800_scrot.png "SSL certificate details")
+[![SSL certificate details](https://res.cloudinary.com/mr-kumar-abhishek/image/upload/c_scale,h_393,q_auto,w_629/v1586393995/mr-kumar-abhishek.github.io/img/2020-04-05-020346_1280x800_scrot.png "SSL certificate details")](https://res.cloudinary.com/mr-kumar-abhishek/image/upload/q_auto/v1586393995/mr-kumar-abhishek.github.io/img/2020-04-05-020346_1280x800_scrot.png)
 
 
 Generated SSL files are kept in the [git repository of github named localhostSSL](https://github.com/Mr-Kumar-Abhishek/localhostSSL).
