@@ -304,7 +304,7 @@ However, if we twist this a little further and even remove the return value:
 ```
 #include <stdio.h>
 
-main(){
+main(void){
 
 }
 ```
