@@ -20,6 +20,10 @@ h1, h2, h3, h4, nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
+h1, h2, h3, h4, h5, h6 {
+	font-weight: bold;
+}
+
 nav ul, footer ul {
     padding: 0px;
     list-style: none;
