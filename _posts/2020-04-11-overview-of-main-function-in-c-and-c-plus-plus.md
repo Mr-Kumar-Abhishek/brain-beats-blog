@@ -285,7 +285,7 @@ In old standards of C such as C89 and C90, there was a feature which enabled pro
 ```
 #include <stdio.h>
 
-main(){
+main(void){
 	return 0;
 }
 ```
