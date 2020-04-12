@@ -20,7 +20,7 @@ When we talk about the `main` function in C and C++, from a programmer’s persp
 
 It is worth noting that, there is a bulk-load of things that happen before the `main` function is executed, depending on what implementation and/or which compiler you are using.  Say, for example, the GCC C compiler running over Linux/Unix-like OS uses the `_start` function as the entry point of a C program, which makes a call to `main` function. 
 
-Every hosted or freestanding environment has a different way of implementing C ABI (Application Binary Interface). What one needs to do is,  provide the linker with the correct symbol it is expecting. When looking at embedded programming, a programmer may have to put the first instruction of a program at a specific memory address, but in other cases, outside embedded programming, it is usually a jump instruction to where `main` function ends up. 
+Every hosted or freestanding environment has a different way of implementing C ABI ([Application Binary Interface](https://en.wikipedia.org/wiki/Application_binary_interface)). What one needs to do is,  provide the [linker](https://en.wikipedia.org/wiki/Linker_(computing)) with the correct symbol it is expecting. When looking at embedded programming, a programmer may have to put the first instruction of a program at a specific memory address, but in other cases, outside embedded programming, it is usually a jump instruction to where `main` function ends up. 
 
 <br>
 <br>
