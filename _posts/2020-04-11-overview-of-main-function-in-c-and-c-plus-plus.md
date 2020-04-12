@@ -250,7 +250,7 @@ int main(void) {
 	return -1;
 }
 ```  
-Running the above program through GNU debugger gdb, we get the following code:
+Running the above program through GNU debugger (gdb), we get the following code:
 
 ```
 [Inferior 1 (process 7738) exited with code 0377]
