@@ -211,7 +211,7 @@ As we can see from above that it exited with code 0334. Now, when we run the `ma
 int main(void){
 	/* your code here */
 	return 0;
-
+}
 ```
 
 We get this output from GNU debugger (gdb):
