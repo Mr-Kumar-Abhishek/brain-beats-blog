@@ -405,7 +405,7 @@ Another condition while the value of `argc` is greater than 0, is that the strin
 
 Lastly, the parameters, i.e. `argc`, `argv` and the strings pointed by the `argv` array will always be modifiable by the program. On top of it, they will retain their last stored values from the program’s initialization to its termination.
 
-The same concept is followed in writing a `main` program in C++ with two parameters.
+**The same concept is followed in writing a `main` program in C++ with two parameters.**
 
 <br>
 <br>
