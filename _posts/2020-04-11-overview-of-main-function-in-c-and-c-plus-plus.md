@@ -477,6 +477,11 @@ The above program uses token pasting operator `##` (Also called token concatenat
 `m##a##i##n` is replaced with `main`. Then afterward, `starting` is replaced `main`.
 Writing C++ program without the main function following C++ 17 standard
 
+<br>
+<br>
+<br>
+### Writing C++ program without a main function
+
 All the methods used in C can be used in C++ to write a program without a `main` function, however, with C++ we have few more methods.  The first one is by using static initializer:
 
 ```
