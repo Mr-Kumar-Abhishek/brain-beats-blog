@@ -183,6 +183,18 @@ img {
 		color: #000;
 		background: #fff;
 	}
+	footer{
+		font-size: 1em;
+	}
+	footer ul{
+		text-align: justify;
+	}
+	footer ul li {
+		display: block;
+	}
+	footer ul li a:after{
+		content: " (" attr(href) ") ";
+	}
 	.no-print {
 		display: none;
 	}
