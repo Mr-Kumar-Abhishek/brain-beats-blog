@@ -178,7 +178,7 @@ int main(void) {
 
 In the compilation of both the programs from g++  of GCC, the error is the same, i.e.  `error: too many arguments to function "int main()`. Notice here, that the compiler didn’t check for infinite recursions and halted before at the argument checks. So both methods of declaration of `main` function in C++ are correct. However, by writing `int main(void)` we get the same interpretation in both languages. This process of declaring functions (like `int main(void)`) is generally quite handy while making our headers multilingual. Although, for making the code truly cross-language we would also need to wrap them in `extern C` while compiling in C++.
 
-Its also worth to keep in my mind that use of recursive `main` function in C++ is illeagle [refer to Section 6.6.1, Paragraph 3 of C++ 17 standard]. If such a code is compiled with g++ of GCC (following C++17 standard) however, it will not give any errors but you might get segment fault in runtime depending on the code was written. In clang compiler (of C++ 17 standard) in this case will behave correctly and will output a similar response to such compilation:
+Its also worth to keep in my mind that use of recursive `main` function in C++ is illeagle [refer to Section 6.6.1, Paragraph 3 of C++ 17 standard]. If such a code is compiled with g++ of GCC (following C++17 standard) however, it will not give any errors but you might get segment fault in runtime depending on the code was written. In clang compiler (of C++ 17 standard) in this case, **if it behaves correctly**, will output a similar response of error to such compilation:
 
 ```
 /tmp/recur-main-0a1f8b.o: In function `__cxx_global_var_init':
