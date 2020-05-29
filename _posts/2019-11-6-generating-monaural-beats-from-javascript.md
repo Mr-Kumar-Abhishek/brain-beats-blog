@@ -8,8 +8,8 @@ app-name: How to make monaural beats from javascript
 tweet-title: Generating Monaural beats from from javascript
 tweet-description: Demonstration on how to produce monaural beats from javascript.
 og-title: generate monoural beats from javascript
-og-url: https://mr-kumar.tk/blog/2019/11/06/generating-monaural-beats-from-javascript
-canonical-url: https://mr-kumar.tk/blog/2019/11/06/generating-monaural-beats-from-javascript
+og-url: https://abhishek-kumar.tk/blog/2019/11/06/generating-monaural-beats-from-javascript
+canonical-url: https://abhishek-kumar.tk/blog/2019/11/06/generating-monaural-beats-from-javascript
 date: 2019-11-6
 keywords: monaural beats, brain beats, binaural beats, javascript
 ---

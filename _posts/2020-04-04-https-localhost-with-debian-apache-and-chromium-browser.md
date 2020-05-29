@@ -8,8 +8,8 @@ app-name: HTTPS Localhost with Debian, Apache and Chromium Browser
 tweet-title: HTTPS Localhost with Debian, Apache and Chromium Browser
 tweet-description: This article is intended for Debian Linux users who are also web developers. This explains how to setup an https localhost for development of PWA in Apache server.
 og-title: HTTPS Localhost with Debian, Apache and Chromium Browser
-og-url: https://mr-kumar.tk/blog/2020/04/04/https-localhost-with-debian-apache-and-chromium-browser
-canonical-url: https://mr-kumar.tk/blog/2020/04/04/https-localhost-with-debian-apache-and-chromium-browser
+og-url: https://abhishek-kumar.tk/blog/2020/04/04/https-localhost-with-debian-apache-and-chromium-browser
+canonical-url: https://abhishek-kumar.tk/blog/2020/04/04/https-localhost-with-debian-apache-and-chromium-browser
 date: 2020-04-04
 keywords: Abhishek Kumar, Software Engineer, Apache, Linux, localhost, Debian, https, SSL, CA, certificate authority, PWA
 ---
