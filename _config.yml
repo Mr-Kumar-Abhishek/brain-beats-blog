@@ -1,7 +1,7 @@
 name: Abhishek Kumar, Software Developer
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-url: "https://mr-kumar.tk"
+url: "http://abhishek-kumar.tk"
 
 plugins:
   - jekyll-mentions
