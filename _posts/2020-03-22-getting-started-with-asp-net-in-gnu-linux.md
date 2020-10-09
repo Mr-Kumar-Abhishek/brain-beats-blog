@@ -44,7 +44,7 @@ export DOTNET_ROOT=$HOME/dotnet
 export PATH=$PATH:$HOME/dotnet
 ```
 
-The above process of downloading and installing .NET core SDK can also be done with [bash automation provided by Microsoft (archived).](https://web.archive.org/web/20200619175029/https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-install-script). However, keep in mind that, it may not work on systems that don’t follow the usual file/directory structure and package management similar to Debian, Fedora, openSUSE, RHEL, centOS or Alpine. For example, these automations have higher chances of failure on Puppy Linux Systems or Tiny Core Linux, either due to dependency issues or non-supported Linux distribution-specific assets.
+The above process of downloading and installing .NET core SDK can also be done with [bash automation provided by Microsoft (archived)](https://web.archive.org/web/20200619175029/https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-install-script). However, keep in mind that, it may not work on systems that don’t follow the usual file/directory structure and package management similar to Debian, Fedora, openSUSE, RHEL, centOS or Alpine. For example, these automations have higher chances of failure on Puppy Linux Systems or Tiny Core Linux, either due to dependency issues or non-supported Linux distribution-specific assets.
 
 The manual method of installation works on most GNU/Linux systems, including Raspbian running over the ARM SBC.
 
