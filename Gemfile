@@ -12,7 +12,6 @@ group :jekyll_plugins do
     gem "jekyll-mentions"
     gem "jemoji"
     gem "jekyll-redirect-from"
-    gem "jekyll-sitemap"
     gem "jekyll-coffeescript"
     gem "jekyll-gist"
     gem "jekyll-github-metadata"
@@ -21,10 +20,8 @@ group :jekyll_plugins do
     gem "jekyll-optional-front-matter"
     gem "jekyll-readme-index"
     gem "jekyll-titles-from-headings"
-    gem "jekyll-redirect-from"
     gem "jekyll-sitemap"
     gem "jekyll-avatar"
     gem "jekyll-include-cache"
-    gem "jekyll-coffeescript"
 
 end
