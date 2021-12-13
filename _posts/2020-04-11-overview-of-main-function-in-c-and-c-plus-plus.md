@@ -8,8 +8,8 @@ app-name: Overview of main function in C and C++
 tweet-title: Overview of main function in C and C++
 tweet-description: This article is intended for Linux users who are also C / C++ programmers. This gives an overall view and in-depth understanding main function in C and C++ language along with its usage.
 og-title: Overview of main function in C and C++
-og-url: https://abhishek-kumar.tk/blog/2020/04/11/overview-of-main-function-in-c-and-c-plus-plus
-canonical-url: https://abhishek-kumar.tk/blog/2020/04/11/overview-of-main-function-in-c-and-c-plus-plus
+og-url: https://mr-kumar-abhishek.github.io/blog/2020/04/11/overview-of-main-function-in-c-and-c-plus-plus
+canonical-url: https://mr-kumar-abhishek.github.io/blog/2020/04/11/overview-of-main-function-in-c-and-c-plus-plus
 date: 2020-04-11
 keywords: Abhishek Kumar, Software Engineer, C, Linux, C++, main, function, C18, gcc, gdb, clang
 ---

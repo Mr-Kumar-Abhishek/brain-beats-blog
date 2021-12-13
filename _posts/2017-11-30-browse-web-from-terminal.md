@@ -8,8 +8,8 @@ app-name: How to navigate internet from the terminal
 tweet-title: Browse web from the terminal
 tweet-description: This explains how to browse internet from terminal. All the web browsers given here are command line based And they work only with Linux.
 og-title: browse web from terminal
-og-url: https://abhishek-kumar.tk/blog/2017/11/30/browse-web-from-terminal/
-canonical-url: https://abhishek-kumar.tk/blog/2017/11/30/browse-web-from-terminal
+og-url: https://mr-kumar-abhishek.github.io/blog/2017/11/30/browse-web-from-terminal/
+canonical-url: https://mr-kumar-abhishek.github.io/blog/2017/11/30/browse-web-from-terminal
 date: 2017-11-30
 keywords: browse, web, terminal, browse web terminal, web browser, terminal browser ,browsing web terminal, internet terminal, console, console browsing, lynx, elinks, links, w3m, links2
 ---

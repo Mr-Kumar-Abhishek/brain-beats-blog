@@ -8,8 +8,8 @@ app-name: Abhishek Kumar, Re-launces Site
 tweet-title: Abhishek Kumar, Software Developer Re-launches Site
 tweet-description: This is the first post of my blog. In this post I mention which platforms I am using and why I am using it. Some of tthe best platforms for blogging.
 og-title: Abhishek Kumar, Software Developer Re-launches Site
-og-url: https://abhishek-kumar.tk/blog/2016/06/10/abhishek-kumar-site-launched/
-canonical-url: https://abhishek-kumar.tk/blog/2016/06/10/abhishek-kumar-site-launched
+og-url: https://mr-kumar-abhishek.github.io/blog/2016/06/10/abhishek-kumar-site-launched/
+canonical-url: https://mr-kumar-abhishek.github.io/blog/2016/06/10/abhishek-kumar-site-launched
 date: 2016-06-10
 keywords: Abhishek Kumar, Software Engineer, Software Developer, Site Re-launched, blog, Abhishek, Kumar, Site, website
 ---
