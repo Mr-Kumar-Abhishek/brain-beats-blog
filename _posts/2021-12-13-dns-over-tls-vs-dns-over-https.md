@@ -24,7 +24,8 @@ DNS over TLS and DNS over HTTPS may seem like the same thing overall. However, e
 
 ## DNS over TLS
 
-DNS over TLS or DoT is a standard defined in RFC 8484 for encrypting DNS queries to keep them secure and private. DoT uses a security protocol called TLS which HTTPS websites also use to encrypt and authenticate communications. What DoT does is that it adds TLS encryption over UDP which is used for DNS queries. It also sees that the DNS requests and responses are not changed, tampers, or forged via on-path attacks. It also uses TCP as a standard connection protocol and layers it for standard TLS authentication and encryption. DoT uses port number 853. Since it uses a distinct port, anyone on the network level can find them and block them. However, it is a good option if the user doesn't want to deal with clients, which are provided by the DNS referrers or forwarders.
+DNS over TLS or DoT is a standard defined in RFC 8484 for encrypting DNS queries to keep them secure and private. DoT uses a security protocol called TLS which HTTPS websites also use to encrypt and authenticate communications. What DoT does is that it adds TLS encryption over UDP which is used for DNS queries. It also sees that the DNS requests and responses are not changed, tampered with, or forged via on-path attacks. It also uses TCP as a standard connection protocol and layers it for standard TLS authentication and encryption. DoT uses port number 853. Since it uses a distinct port, anyone on the network level can find them and block them. However, it is a good option if the user doesn't want to deal with clients, which are provided by the DNS referrers or forwarders.
+
 
 ## DNS over HTTPS
 
