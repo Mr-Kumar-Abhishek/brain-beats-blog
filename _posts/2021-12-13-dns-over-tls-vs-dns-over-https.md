@@ -13,13 +13,14 @@ canonical-url: https://mr-kumar-abhishek.github.io/blog/2021/12/13/dns-over-tls-
 date: 2021-12-13
 keywords: Abhishek Kumar, Software Engineer, DNS over TLS, DNS over HTTPS, DoT, DoH, network, security, networking, DNS
 ---
+
 The security of the internet heavily relies on the DNS we use. Since DNS is like a phonebook of the internet, tampering in the DNS resolvers can affect the entire security of all the connections that are made through the internet. DNS resolvers are used for getting the IP addresses of the domain. Usually, DNS queries and responses are sent via UDP (User datagram protocol) in plain text. This means that they can be read by network ISP or anyone who has the access to monitor transmissions such as the government. Even if you are using a website that is connected over HTTPS, your DNS queries and responses are still exposed, meaning, authorities who monitors your connection can identify what websites you are visiting even though the traffic between the website is encrypted. 
 
 This lack of privacy has a big impact on security and sometimes even on human rights. There have been cases before that a website is blocked from access by the government or any other censorship organization.  It then also becomes easier for attackers to stalk users' behavior online. 
 
 To encrypt this plain text DNS traffic, there are two standards are developed, that is, DNS over TLS (DoT) and DNS over HTTPS (DoH). This encrypted traffic bars malicious parties, ISPs, and advertisers from interpreting the data. 
 
-DNS over TLS and DNS over HTTPS might seem similar and one may think that these two terms are used interchangeably. However, even though they provide more or less the same functionality i.e DNS encryption, there are differences between them on how they are implemented, and what are their pros and cons are in different situations of network privacy. So let us first understand them one by one, as in what are they.
+DNS over TLS and DNS over HTTPS may seem like the same thing overall. However, even though they provide more or less the same functionality i.e DNS encryption, there are differences between them on how they are implemented, and what are their pros and cons are in different situations of network privacy. So let us first understand them one by one, as in what are they.
 
 ## DNS over TLS
 
@@ -31,7 +32,7 @@ DNS over HTTPS or DoH is another similar standard defined in RFC 8310 and RFC 78
 
 ## So which is better, DoH or DoT?
 
-This is debatable. When we look from a network security perspective, DoT is better. It gives network administrators the ability to monitor and block DNS queries. This is important for identifying and blocking malicious traffic. DoH on the other hand is hidden in regular HTTPS traffic, which means, they cannot be blocked without blocking all HTTPS traffic as well.  From a privacy perspective, DoH is much preferable since DoH traffic is hidden in a larger flow of HTTPS traffic. This gives network administrators less visibility but gives users more privacy.
+This is debatable. When we look from a network security perspective, DoT is better. It gives network administrators the option to monitor and block DNS queries. This is important for identifying and blocking malicious traffic. DoH on the other hand is hidden in the usual HTTPS traffic, which means, they cannot be blocked unless you are blocking all HTTPS traffic along with it as well.  From a privacy perspective, DoH is much preferable since DoH traffic is hidden in a larger flow of HTTPS traffic. This gives network administrators less control but gives users more privacy.
 
 If we look at encryption and security point of view both DoT and DoH are equally secure. However, both function differently. And how secure they are is entirely subjective based on their use cases. For example, DoT can be improved in specific scenarios like DoH.
 
