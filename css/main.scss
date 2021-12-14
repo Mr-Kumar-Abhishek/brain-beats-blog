@@ -176,9 +176,9 @@ img {
 	text-align: center;
 }
 
-.gse-control-cse {
-    padding: 0;
-    width: 240px;
+.gsc-control-cse {
+    padding: 0!important;
+    min-width: 240px!important;
 }
 
 @media print {
