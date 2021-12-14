@@ -28,9 +28,35 @@ keywords: abhishek kumar blog , abhishek's blog, kumar blog, software blogs, sof
 		<h4>Blog Posts :- </h4>
 		<ul class="posts">
 
-		  {% for post in site.posts %}
-		    <li><span><time datetime="{{post.date}}">{{ post.date | date_to_string }}</time></span> » <cite><a href="{{ post.url }}" title="{{post.title}}" >{{ post.title }}</a></cite></li>
-		  {% endfor %}
-		</ul>
-	</section>
+			{% for post in paginator.posts %}
+			  <li><span><time datetime="{{post.date}}">{{ post.date | date_to_string }}</time></span> » <cite><a href="{{ post.url }}" title="{{post.title}}" >{{ post.title }}</a></cite></li>
+			{% endfor %}
+		  </ul>
+	  </section>
+	  <!-- Pagination links -->
+	  <nav>
+		  <ul class="pagination justify-content-center">
+			  {% if paginator.previous_page %}
+				<li class="page-item"><a  class="page-link" href="{{ paginator.previous_page_path }}" class="previous">
+				  Previous
+				</a></li>
+			  {% else %}
+				<li class="page-item"><span class="previous page-link">Previous</span></li>
+			  {% endif %}
+			  <li class="page-item">
+			   <span class="page_number page-link">
+				Page: {{ paginator.page }} of {{ paginator.total_pages }}
+			   </span>
+			  </li>
+			  {% if paginator.next_page %}
+			   <li class="page-item">
+				<a  class="page-link" href="{{ paginator.next_page_path }}" class="next">Next</a>
+			  </li>
+			  {% else %}
+			  <li class="page-item">
+				<span class="next page-link">Next</span>
+			  {% endif %}
+			  </li>
+		  </ul>
+	  </nav>
 </main>
