@@ -19,7 +19,7 @@ Why?
 
 Well, it is to increase the privacy and security of the users. This will prevent eavesdropping and manipulation of DNS traffic by MITM (man in the middle) attacks.
 
-Now, although some browsers such as firefox do have the feature to enable DNS over HTTPS, that only secures your particular web browser and not the other internet connections that your computer is making. Such as when your system connects to the internet for updates or when you use other desktop web apps such as Discord.
+Now, although some browsers such as firefox do have DNS over HTTPS enabled by default, that only secures your particular web browser and not the other internet connections that your computer is making. Such as when your system connects to the internet for updates or when you use other desktop web apps such as Discord.
 
 To enable DNS over TLS in Ubuntu Linux we will use a service of Systemd called `systemd-resolved`.  This service will allow all your DNS request to get tunneled with DNS over TLS. This means that your whole computer will have extra protection 
 and there will be no need to enable this feature in your browsers individually because you are already protected.
