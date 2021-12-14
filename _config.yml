@@ -3,6 +3,10 @@ markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 url: "https://mr-kumar-abhishek.github.io/"
 
+paginate_path: "/blog/page:num/"
+paginate: 1
+
+
 plugins:
   - jekyll-mentions
   - jemoji
