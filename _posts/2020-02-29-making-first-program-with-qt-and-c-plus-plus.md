@@ -8,8 +8,8 @@ app-name: First Qt program
 tweet-title: How to make your first program with Qt library and C++
 tweet-description: This article discusses on how to make a simple program with Qt library and C++. It is assumed that the reader is aleady acquainted with the basic fundamentals of C++.
 og-title: Making the first program with Qt library and C++
-og-url: https://mr-kumar-abhishek.github.io/blog/2020/02/29/making-first-program-with-qt-and-c-plus-plus
-canonical-url: https://mr-kumar-abhishek.github.io/blog/2020/02/29/making-first-program-with-qt-and-c-plus-plus
+og-url: blog/2020/02/29/making-first-program-with-qt-and-c-plus-plus
+canonical-url: blog/2020/02/29/making-first-program-with-qt-and-c-plus-plus
 date: 2020-02-29
 keywords: Abhishek Kumar, Software Engineer, C++, Qt, hello world, GUI
 ---

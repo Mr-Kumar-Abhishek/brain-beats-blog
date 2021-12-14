@@ -8,8 +8,8 @@ app-name: DNS over TLS vs DNS over HTTPS
 tweet-title: DNS over TLS vs DNS over HTTPS
 tweet-description: This article compares the technical aspects of DNS over TLS and DNS over HTTPS. It weighs pros and cons of both and compares which is suitable in which scenario.
 og-title: DNS over TLS vs DNS over HTTPS
-og-url: https://mr-kumar-abhishek.github.io/blog/2021/12/13/dns-over-tls-vs-dns-over-https
-canonical-url: https://mr-kumar-abhishek.github.io/blog/2021/12/13/dns-over-tls-vs-dns-over-https
+og-url: blog/2021/12/13/dns-over-tls-vs-dns-over-https
+canonical-url: blog/2021/12/13/dns-over-tls-vs-dns-over-https
 date: 2021-12-13
 keywords: Abhishek Kumar, Software Engineer, DNS over TLS, DNS over HTTPS, DoT, DoH, network, security, networking, DNS
 ---
