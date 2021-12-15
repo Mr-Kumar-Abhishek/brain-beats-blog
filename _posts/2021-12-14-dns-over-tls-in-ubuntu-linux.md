@@ -8,8 +8,8 @@ app-name: DNS over TLS in Ubuntu Linux
 tweet-title: DNS over TLS in Ubuntu Linux
 tweet-description: This article will show you on how to secure your computer with enabling DNS over TLS in Ubuntu Linux with all the explainations of the commands.
 og-title: DNS over TLS in Ubuntu Linux
-og-url: blog/2021/12/13/dns-over-tls-in-ubuntu-linux
-canonical-url: blog/2021/12/13/dns-over-tls-in-ubuntu-linux
+og-url: blog/2021/12/14/dns-over-tls-in-ubuntu-linux
+canonical-url: blog/2021/12/14/dns-over-tls-in-ubuntu-linux
 date: 2021-12-14
 keywords: Abhishek Kumar, Software Developer, DNS over TLS, DNS over HTTPS, DoT, DoH, network, security, networking, DNS, Ubuntu, Linux
 ---
