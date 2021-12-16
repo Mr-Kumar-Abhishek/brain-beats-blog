@@ -42,8 +42,9 @@ If you would try something like:
 You would get an output as such:
 
 ```
-$ type command
-command is a shell builtin
+# command -?
+-bash: command: -? invalid option
+command: usage: command [-pVv] command [arg ...]
 ```
 
 This does give a hint that there is some usage with `-v` as we have seen before. But nothing to be exact.
@@ -56,6 +57,12 @@ And if you would search its version, like so:
 It will output nothing at all.
 
 So what is this "command"?
+
+```
+$ type command
+command is a shell builtin
+```
+
 
 So the answer is, that "command" is not an external command. But it is a built-in feature of the shell, which is usually bash. One could use,
 
