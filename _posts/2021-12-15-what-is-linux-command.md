@@ -11,7 +11,7 @@ og-title: Stumbled onto Linux "command"? This has all the explanations you need.
 og-url: blog/2021/12/16/what-is-linux-command
 canonical-url: blog/2021/12/16/what-is-linux-command
 date: 2021-12-15
-keywords: Abhishek Kumar, Software Developer, Linux, command, man, help, bash, studying, scripts
+keywords: Abhishek Kumar, Software Developer, Linux, command, man, help, bash, studying, script
 ---
 
 So if you were reading some internal bash scripts of Linux, you may have come across a command called "command" doing something like this:
