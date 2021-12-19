@@ -11,7 +11,7 @@ og-title: How to choose between relative and absolute pathnames while creating s
 og-url: blog/2021/12/18/how-to-choose-between-relative-and-absolute-pathnames-while-creating-symlinks
 canonical-url: blog/2021/12/18/how-to-choose-between-relative-and-absolute-pathnames-while-creating-symlinks
 date: 2021-12-18
-keywords: Abhishek Kumar, Software Developer, Linux, symlinks, absolute, relative, pathname.
+keywords: Abhishek Kumar, Software Developer, Linux, symlinks, absolute, relative, pathname
 ---
 
 You may have read in some books that while making symbolic links it is better to use a relative pathway because if we move the file and link, it will not break. So, for example, if we want to link `/etc/passwd` to the current directory, we would do something like this:
