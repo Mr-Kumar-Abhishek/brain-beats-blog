@@ -8,8 +8,8 @@ app-name: How to save ANSI codes from dialog command to a file
 tweet-title: How to save ANSI codes from dialog command to a file
 tweet-description: How to get the dialog command into a file with all ANSI escape codes so that it can be printed later
 og-title: How to save ANSI codes from dialog command to a file
-og-url: blog/2021/12/16/how-to-save-ansi-codes-from-dialog-command-to-a-file
-canonical-url: blog/2021/12/16/how-to-save-ansi-codes-from-dialog-command-to-a-file
+og-url: blog/2021/12/17/how-to-save-ansi-codes-from-dialog-command-to-a-file
+canonical-url: blog/2021/12/17/how-to-save-ansi-codes-from-dialog-command-to-a-file
 date: 2021-12-17
 keywords: Abhishek Kumar, Software Developer, Linux, command, ANSI, print, bash, dialog, script
 ---
