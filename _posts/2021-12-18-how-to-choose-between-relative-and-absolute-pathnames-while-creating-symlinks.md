@@ -28,7 +28,7 @@ It is usually better to create a relative symlink if any of these below points a
 * when the target is in the same directory tree and the whole directory tree can be moved.
 * when the target is in the same filesystem and it could get mounted in some other mount location such as in a rescue live environment, a container, or another system.
 
-However, if the following conditions which are given below apply, it is better to use an absolute pathway in the symlink."
+However, if the following conditions which are given below apply, it is better to use an absolute pathway in the symlink.
 
 * when the target is radically in a different directory and the right number of `../` sequences are not clear.
 * when the user wants to point to a specific file that is not relative to the current directory
