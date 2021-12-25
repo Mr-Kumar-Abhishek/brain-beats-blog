@@ -49,6 +49,12 @@
                 "src": "https://res.cloudinary.com/mr-kumar-abhishek/image/upload/c_scale,h_512,q_auto,w_512/v1558672504/mr-kumar-abhishek.github.io/flat_550x550_075_f.u4.png",
                 "sizes": "512x512",
                 "type": "image/png"
-            }
+            },
+            {
+                "src": "/img/android-chrome-192x192.png",
+                "sizes": "196x196",
+                "type": "image/png",
+                "purpose": "any maskable"
+              }
     ]
 }
