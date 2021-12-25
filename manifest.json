@@ -4,10 +4,10 @@
     "display" : "standalone",
     "start_url" : "/",
     "short_name" : "Abhishek Kumar",
-    "theme_color" : "transparent",
+    "theme_color" : "#FFFFFF",
     "description" : "Abhishek Kumar, A Software Developer. Autodidact By Nature. Disciplined By Education. Abhishek Kumar develops desktop applications as well as web applications.",
     "orientation" : "any",
-    "background_color" : "transparent",
+    "background_color" : "FFFFFF",
     "generated" : "true",
     "icons" : [
            {
