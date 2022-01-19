@@ -8,9 +8,9 @@ app-name: Hello World program in Visual Basic in Linux with .NET Core
 tweet-title: Hello World program in Visual Basic in Linux with .NET Core
 tweet-description: In this tutorial I will tell how to make your first VB program in Linux with .NET Core.
 og-title: Hello World program in Visual Basic in Linux with .NET Core
-og-url: blog/2022/01/19/hello-world-program-in-visual-basic-in-linux with-dot-net-core
-canonical-url: blog/2022/01/19/hello-world-program-in-visual-basic-in-linux with-dot-net-core
-date: 2022-01-19
+og-url: blog/2022/01/18/hello-world-program-in-visual-basic-in-linux with-dot-net-core
+canonical-url: blog/2022/01/18/hello-world-program-in-visual-basic-in-linux with-dot-net-core
+date: 2022-01-18
 keywords: Abhishek Kumar, Software Developer, .NET, Linux, .NET core, Visual Basic, VB
 ---
 
