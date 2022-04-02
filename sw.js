@@ -1,4 +1,4 @@
-importScripts('https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js');
+importScripts('https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js');
 if (workbox) {
     console.log("Yay! Workbox is loaded !");
     workbox.precaching.precacheAndRoute([]);
@@ -10,14 +10,14 @@ if (workbox) {
         new workbox.strategies.CacheFirst({
             cacheName: "images",
             plugins: [
-                new workbox.expiration.Plugin({
+                new workbox.expiration.ExpirationPlugin({
                     maxEntries: 50,
                     maxAgeSeconds: 30 * 24 * 60 * 60, // 30 Days
                 })
             ]
         })
     );
-    /* Make your JS and CSS âš¡ fast by returning the assets from the cache,
+    /* Make your JS and CSS as fast by returning the assets from the cache,
   while making sure they are updated in the background for the next use.
   */
     workbox.routing.registerRoute(
@@ -35,7 +35,7 @@ if (workbox) {
         new workbox.strategies.CacheFirst({
             cacheName: "google-fonts",
             plugins: [
-                new workbox.cacheableResponse.Plugin({
+                new workbox.cacheableResponse.CacheableResponsePlugin({
                     statuses: [0, 200],
                 }),
             ],
@@ -47,5 +47,5 @@ and control a web page as soon as possible
 workbox.core.skipWaiting();
     workbox.core.clientsClaim();
 } else {
-    console.log("Oops! Workbox didn't load ðŸ‘º");
+    console.log("Oops! Workbox didn't load");
 }
