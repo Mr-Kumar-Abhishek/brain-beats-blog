@@ -118,6 +118,9 @@ $ sudo systemctl restart NetworkManager
 And lastly, check if everything is fine:
 
 ```
+$ resolvectl status
+```
+```
 Global
  LLMNR setting: no
 MulticastDNS setting: no
