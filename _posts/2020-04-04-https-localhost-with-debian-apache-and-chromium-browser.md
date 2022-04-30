@@ -319,6 +319,9 @@ $  systemctl restart apache2
 
 The main difference between a reload and restart is that in reload, Apache advises its threads to exit when idle and then reload the configuration. It doesn't reloads itself, that means statistics are not reset. In restart however, it tells its it process to kill all its threads, exit and then start again. 
 
+Also, `service` is used when dealing with old system V init scripts and `systemctl` is used for `systemd` services. It is adviced to not deal with `service` system V init scripts in newer systems unless it is some legacy application, for which this is not.
+
+
 <br>
 ### Setting up Chromium to use root CA
 
