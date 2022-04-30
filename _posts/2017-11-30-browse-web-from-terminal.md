@@ -23,6 +23,7 @@ I will just go ahead and list their names for you, these are:
 * Links2
 * Elinks
 * w3m
+* browsh
 
 
 So now let's take our time to know a bit more about these browsers.
@@ -50,5 +51,9 @@ Elinks started out as an experimental fork of Links browser, hence the word "ELi
 
 w3m is another text-based web-browser and a terminal pager. Unlike the others it could render images right into your console if you have installed w3m-img package with w3m. Cool isn't ?
 
+### browsh
+
+Browsh is a modern text based browser. It can run HTML5, CSS3, Javascript, Video and WebGL. The main aim of this browser is to be web browser that could run on a remote server accessed via SSH/Mosh or in-browser HTML service. This significantly reduces the bandwidth, which in turn increases browsing speed and decreases bandwidth costs.
 
 All these web browsers are open sourced , so one could easily fork the current version and make another terminal browsers. I have come to love these terminal browsers as it saves a lot of data while navigation and these are also pretty fast than any other browsers such as chromium and firefox. Also these  are quite useful while safely navigating in tor network.
+
