@@ -293,11 +293,31 @@ And enable the site to use the new SSL certificate and keys with the edited defa
 $ sudo a2ensite default-ssl.conf
 ```
 
-Completing this step, we will now do the remaining task which was asked by the system, i.e. to restart the apache2 service:
+Completing this step, we will now do the remaining task which was asked by the system, i.e. to restart the apache2 service. If you have an old system reload apache with following command.
 
 ```
-$ sudo service apache2 restart
+$ sudo service apache2 reload
 ```
+
+If this doesn't work, do a restart instead:
+
+```
+$ sudo service apache2 reload
+```
+
+On the other hand if you have new system do this to reload:
+
+```
+$ systemctl reload apache2
+```
+
+And if it doesn't reloads for some reason, do this:
+
+```
+$  systemctl restart apache2
+```
+
+The main difference between a reload and restart is that in reload, Apache advises its threads to exit when idle and then reload the configuration. It doesn't reloads itself, that means statistics are not reset. In restart however, it tells its it process to kill all its threads, exit and then start again. 
 
 <br>
 ### Setting up Chromium to use root CA
