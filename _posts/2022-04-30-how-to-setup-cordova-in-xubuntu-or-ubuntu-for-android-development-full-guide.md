@@ -15,7 +15,7 @@ keywords: Abhishek Kumar, Software Developer, android, development, android deve
 
 ---
 
-So, in this guide, I will walk you through how to set up Cordova for android development. Cordova is important as it lets developers develop android apps in HTML, CSS, and Javascript rather than Java.
+So, in this guide, I will walk you through on how to set up Cordova for android development. Cordova is important as it lets developers develop android apps in HTML, CSS, and Javascript rather than in Java.
 
 <br>
 <br>
