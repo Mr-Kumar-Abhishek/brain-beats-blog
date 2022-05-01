@@ -69,6 +69,8 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
 ```
+
+The latest node version could be found from [here](https://github.com/nvm-sh/nvm).
 <br>
 <br>
 
