@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "How to setup Cordova in Xubuntu or Ubuntu for Android developement (full guide)"
-description: In this guide I will walk you through how to setup cordova for android development step by step
+description: In this guide I will walk you through on how to setup cordova for android development step by step
 subject: Setup Cordova in Xubuntu or Ubuntu for Android developement
 apple-title: Setup Cordova in Xubuntu or Ubuntu for Android developement
 app-name: Setup Cordova in Xubuntu or Ubuntu for Android developement
 tweet-title: How to setup Cordova in Xubuntu or Ubuntu for android developement (full guide)
-tweet-description: In this guide I will walk you through how to setup cordova for android development step by step
+tweet-description: In this guide I will walk you through on how to setup cordova for android development step by step
 og-title: How to setup Cordova in xubuntu or Ubuntu for Android developement (full guide)
 og-url: blog/2022/04/30/how-to-setup-cordova-in-xubuntu-or-ubuntu-for-android-development-full-guide
 canonical-url: blog/2022/04/30/how-to-setup-cordova-in-xubuntu-or-ubuntu-for-android-development-full-guide
