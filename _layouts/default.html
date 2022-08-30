@@ -30,13 +30,13 @@ layout: compress
 		<meta name="twitter:image" content="/img/favicon-32x32.png" >
 		<meta property="og:title" content="{{ page.og-title }}" >
 		<meta property="og:type" content="website" />
-		<meta property="og:url" content="{{site.url}}{{ page.og-url }}" >
+		<meta property="og:url" content="{{site.url}}{{ page.url|remove:'index.html' }}" >
 		<meta property="og:image" content="/img/favicon-32x32.png" >
 		<meta name="google-site-verification" content="8VeRYbfmuXRpmWpX9bx5shd8ReHh05WvB_1i8R-qZes" >
 		<meta name="msvalidate.01" content="FA22539947E5CA518A74ABD193C59C65" >
 		<meta name="msapplication-TileColor" content="#da532c">
 		<meta name="theme-color" content="#FFFFFF" />
-		<link rel="canonical" href="{{site.url}}{{ page.canonical-url }}" >
+		<link rel="canonical" href="{{site.url}}{{ page.url|remove:'index.html'}}" >
 		<link href='https://plus.google.com/u/0/107840251139801164863' rel='publisher' >
 		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 		<script src="/js/serviceLoader.js"></script>
