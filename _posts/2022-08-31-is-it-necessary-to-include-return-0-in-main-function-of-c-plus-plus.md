@@ -13,7 +13,7 @@ keywords: Abhishek Kumar, Software Developer, C++, main, main function, return 0
 ---
 
 Well, the inclusion of `return 0;` in `main` function of a typical C++ program is mentioned by the [C++ standard](https://isocpp.org/std/the-standard). It is there to indicate that there was successful completion of the program.
-We should keep it in `main` program of C++ regardless if we do something else or not in the program or not:
+We should keep it in `main` program of C++ regardless if we do something else or not in the program:
 
 ```
 #include <iostream>
@@ -37,6 +37,6 @@ Here, the compiler is required to automatically insert a `return 0;` in the `mai
 
 ### Conclusion
 
-**We should `return 0;` in `main` function of a C++ program as per the [standard](https://isocpp.org/std/the-standard) but no, it is not necessary. **
+**We should `return 0;` in `main` function of a C++ program as per the [standard](https://isocpp.org/std/the-standard) but no, it is not necessary.**
 
 More details on writing `main` function can be found [here](https://mr-kumar-abhishek.github.io/blog/2020/04/11/overview-of-main-function-in-c-and-c-plus-plus).
