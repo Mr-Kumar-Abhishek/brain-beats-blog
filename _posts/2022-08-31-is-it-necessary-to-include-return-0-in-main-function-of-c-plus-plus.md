@@ -12,7 +12,7 @@ date: 2022-08-31
 keywords: Abhishek Kumar, Software Developer, C++, main, main function, return 0, necessity
 ---
 
-Well, the inclusion of `return 0;` in `main` function of a typical C++ program is mentioned by the [C++ standard](https://isocpp.org/std/the-standard). It is there to indicate that there was successful completion of the program.
+The inclusion of `return 0;` in `main` function of a typical C++ program is mentioned by the [C++ standard](https://isocpp.org/std/the-standard). It is there to indicate that there was successful completion of the program.
 We should keep it in `main` program of C++ regardless if we do something else or not in the program:
 
 ```
@@ -23,7 +23,7 @@ int main() {
 }
 ```
 
-You may now ask, where the `0` value is returned to? Well, it is returned to OS. The OS will be expecting a program to return 0 if everything went correctly and smoothly. Whereas if it gets a non-0 value, it understands that the program has got errors.
+You may now ask, where the `0` value is returned to? Well, it is returned to the OS. The OS will be expecting a program to return `0` if everything went correctly and smoothly. Whereas if it gets a non-0 value, it understands that the program has got errors.
 
 However, C++ allows you to exit the `main` function without explicitly returning anything. 
 
