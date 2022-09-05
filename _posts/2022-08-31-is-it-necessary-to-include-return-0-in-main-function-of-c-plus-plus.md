@@ -4,10 +4,10 @@ title: "Is it necessary to include return 0; in main function of C++ ?"
 description: We should include return 0; in main function of a C++ program as per the standard but no, it is not necessary.
 subject: Should we include return 0 in C++ main function?
 apple-title:  is it necessary to include return 0?
-app-name: Difference between /n or endl in C++
+app-name: Should we include return 0 in C++ main function?
 tweet-title: Is it necessary to include return 0; in main function of C++ ?
 tweet-description: We should include return 0; in main function of a C++ program as per the standard but no, it is not necessary.
-og-title: Difference between /n or endl in C++
+og-title: Should we include return 0 in C++ main function?
 date: 2022-08-31
 keywords: Abhishek Kumar, Software Developer, C++, main, main function, return 0, necessity
 ---
