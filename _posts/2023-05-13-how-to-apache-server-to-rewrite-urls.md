@@ -63,7 +63,7 @@ To enable .htaccess files for your Apache server, we'll need to modify the main 
 </Directory>
 ```
 
-Replace "/path/to/your/directory" with the path to the directory we want to allow .htaccess files in. Save the file and restart the Apache server. After making these changes, Apache should now allow .htaccess files to override the server configuration in the specified directory.
+Replace "/path/to/your/directory" with the path to the directory we want to allow .htaccess files in. Save the file and then restart the Apache server. After making these changes, Apache should now allow .htaccess files to override the server configuration in the specified directory.
 
 After setting this up and restarting Apache with:
 
@@ -82,7 +82,7 @@ sudo apache2ctl -M | grep rewrite
 ```
 If mod_rewrite is not listed, you'll need to enable it in your Apache configuration file. 
 
-3. Check the server error log: The internal server error may be caused by another issue that is unrelated to the .htaccess file. Check the server error log for more information about the error. The error log can usually be found in the Apache logs directory (e.g. /var/log/apache2/error.log).
+3. Check the server error log: The internal server error may be caused by another issue that is unrelated to the .htaccess file. Check the server error logs for finding out more information about the error. The error log can usually be found in the Apache logs directory (e.g. /var/log/apache2/error.log).
 
 Usually, you will find the answer in the 3rd step. So, in my setup, I got this error by checking `/var/log/apache2/error.log`
 
