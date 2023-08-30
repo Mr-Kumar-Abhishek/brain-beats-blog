@@ -1,60 +1,48 @@
-{"dir" : "ltr",
-    "lang" : "en",
-    "name" : "Abhishek Kumar, Software Developer",
+{"name" : "brain beats",
+    "short_name" : "brain beats",
+    "description" : "A guided meditation blog.",
+    "start_url" : "./",
     "display" : "standalone",
-    "start_url" : "/",
-    "short_name" : "Abhishek Kumar",
-    "theme_color" : "#FFFFFF",
-    "description" : "Abhishek Kumar, A Software Developer. Autodidact By Nature. Disciplined By Education. Abhishek Kumar develops desktop applications as well as web applications.",
-    "orientation" : "any",
-    "background_color" : "#FFFFFF",
-    "generated" : "true",
-    "icons" : [
-           {
-                "src": "https://res.cloudinary.com/mr-kumar-abhishek/image/upload/c_scale,h_72,q_auto,w_72/v1558672504/mr-kumar-abhishek.github.io/flat_550x550_075_f.u4.png",
-                "sizes": "72x72",
-                "type": "image/png"
-            },
-            {
-                "src": "https://res.cloudinary.com/mr-kumar-abhishek/image/upload/c_scale,h_96,q_auto,w_96/v1558672504/mr-kumar-abhishek.github.io/flat_550x550_075_f.u4.png",
-                "sizes": "96x96",
-                "type": "image/png"
-            },
-            {
-                "src": "https://res.cloudinary.com/mr-kumar-abhishek/image/upload/c_scale,h_128,q_auto,w_128/v1558672504/mr-kumar-abhishek.github.io/flat_550x550_075_f.u4.png",
-                "sizes": "128x128",
-                "type": "image/png"
-            },
-            {
-                "src": "https://res.cloudinary.com/mr-kumar-abhishek/image/upload/c_scale,h_144,q_auto,w_144/v1558672504/mr-kumar-abhishek.github.io/flat_550x550_075_f.u4.png",
-                "sizes": "144x144",
-                "type": "image/png"
-            },
-            {
-                "src": "https://res.cloudinary.com/mr-kumar-abhishek/image/upload/c_scale,h_152,q_auto,w_152/v1558672504/mr-kumar-abhishek.github.io/flat_550x550_075_f.u4.png",
-                "sizes": "152x152",
-                "type": "image/png"
-            },
-            {
-                "src": "https://res.cloudinary.com/mr-kumar-abhishek/image/upload/c_scale,h_192,q_auto,w_192/v1558672504/mr-kumar-abhishek.github.io/flat_550x550_075_f.u4.png",
-                "sizes": "192x192",
-                "type": "image/png"
-            },
-            {
-                "src": "https://res.cloudinary.com/mr-kumar-abhishek/image/upload/c_scale,h_384,q_auto,w_384/v1558672504/mr-kumar-abhishek.github.io/flat_550x550_075_f.u4.png",
-                "sizes": "384x384",
-                "type": "image/png"
-            },
-            {
-                "src": "https://res.cloudinary.com/mr-kumar-abhishek/image/upload/c_scale,h_512,q_auto,w_512/v1558672504/mr-kumar-abhishek.github.io/flat_550x550_075_f.u4.png",
-                "sizes": "512x512",
-                "type": "image/png"
-            },
-            {
-                "src": "/img/android-chrome-192x192.png",
-                "sizes": "196x196",
-                "type": "image/png",
-                "purpose": "any maskable"
-            }
-    ]
+    "orientation" : "portrait-primary",
+    "lang" : "English",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "icons" : [{
+      "src": "./img/128x128-mandala-1757304_1280.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "any"
+    }, {
+      "src": "./img/144x144-mandala-1757304_1280.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+    }, {
+      "src": "./img/152x152-mandala-1757304_1280.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "any"
+    }, {
+      "src": "./img/192x192-mandala-1757304_1280.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    }, {
+      "src": "./img/256x256-mandala-1757304_1280.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any"
+    }, {
+      "src": "./img/512x512-mandala-1757304_1280.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./img/maskable_icon.png",
+      "sizes": "196x196",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
 }
