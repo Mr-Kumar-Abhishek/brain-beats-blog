@@ -1,8 +1,8 @@
-name: Abhishek Kumar, Software Developer
+name: Brain Beats Blog | Brainwave Entrainment
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-url: "https://mr-kumar-abhishek.github.io"
-repository: Mr-Kumar-Abhishek/Mr-Kumar-Abhishek.github.io
+url: "https://blog.brain-beats.in"
+repository: Mr-Kumar-Abhishek/brain-beats-blog
 
 paginate_path: "/blog/page:num/"
 paginate: 5
@@ -16,7 +16,6 @@ plugins:
   - jekyll-feed
   - jekyll-coffeescript
   - jekyll-gist
-  - jekyll-github-metadata
   - jekyll-paginate
   - jekyll-relative-links
   - jekyll-optional-front-matter
