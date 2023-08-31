@@ -8,7 +8,7 @@ app-name: Will listening to frequencies while you sleep will work
 tweet-title: Will listening to frequencies while you sleep will work
 tweet-description: Listening to frequencies while you sleep is a personal choice that may or may not work for you. There is no definitive answer to whether it will help you sleep better or not. The best way to find out is to try it yourself and see how it affects your sleep quality and overall wellbeing 
 og-title: Will listening to frequencies while you sleep will work
-date: 2023-01-02
+date: 2023-01-03
 keywords: Brain Beats, Frequencies, White noise, Brain wave entrainment, sound therapy, binaural beats youtube
 ---
 If you are looking for a way to improve your sleep quality, you might have heard of listening to frequencies while you sleep. Frequencies are sounds that have a certain number of vibrations per second, measured in Hertz (Hz). Some people believe that listening to frequencies can influence your brain waves, which are the patterns of electrical activity in your brain.
