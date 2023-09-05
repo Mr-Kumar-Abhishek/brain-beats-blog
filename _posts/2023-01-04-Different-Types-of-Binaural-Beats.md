@@ -21,31 +21,26 @@ In this blog post, we will explore the five types of brain waves and how they re
 
 Delta waves are the lowest frequency brain waves and are dominant during deep sleep. They are also linked to healing, pain relief, anti-aging, and access to the unconscious mind. Listening to binaural beats in the delta range can help you fall asleep faster, sleep deeper, and wake up refreshed. They can also enhance your meditation and promote physical and emotional healing.
 
-Example: [DEEP Healing Sleep l THETA to DELTA Brain Waves l Sleeping Music ...](https://www.youtube.com/watch?v=4XFAxX9qNHA)
 
 ## Theta Waves (4-8 Hz)
 
 Theta waves are associated with deep relaxation, creativity, intuition, and dreaming. They occur during REM sleep, hypnosis, and meditation. Listening to binaural beats in the theta range can help you enter a state of calmness, imagination, and insight. They can also improve your memory, learning, and problem-solving skills.
 
-Example: [Binaural Beats: Relaxation & Deep Sleep (please read description carefully)](https://www.youtube.com/watch?v=UX1lJFQh6fs)
 
 ## Alpha Waves (8-14 Hz)
 
 Alpha waves are related to a state of relaxed alertness, focus, and positive thinking. They occur when you are awake but not engaged in any demanding mental task. Listening to binaural beats in the alpha range can help you reduce stress, enhance your mood, and increase your learning capabilities. They can also help you prepare for meditation or other activities that require concentration.
 
-Example: [Alpha Binaural Beats - Chakra Balancing Root to Crown](https://www.youtube.com/watch?v=6yKOc0j7M9I)
 
 ## Beta Waves (13-30 Hz)
 
 Beta waves are indicative of a state of high alertness, attention, and cognition. They occur when you are engaged in active thinking, problem-solving, or decision-making. Listening to binaural beats in the beta range can help you improve your focus, memory, and mental performance. They can also boost your energy and motivation.
 
-Example: [Study Music Alpha Waves: Relaxing Studying Music, Brain Power ...](https://www.youtube.com/watch?v=WPni755-Krg)
 
 ## Gamma Waves (30-50 Hz)
 
 Gamma waves are the highest frequency brain waves and are associated with a state of peak performance, awareness, and perception. They occur when you are processing complex information or experiencing intense emotions. Listening to binaural beats in the gamma range can help you enhance your cognitive abilities, sensory integration, and emotional intelligence. They can also foster positive energy and creativity.
 
-Example: [Gamma Binaural Beats 40 Hz - Pure Frequency - Brain Stimulation ...](https://www.youtube.com/watch?v=KxO64Pn8Qog)
 
 ## Summary
 
