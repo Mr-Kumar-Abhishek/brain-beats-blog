@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "4096 hz - Pure Tone Galactic Chakra Frequency"
-description: Have you ever heard of the solfeggio frequencies? They are a set of musical tones that are said to have healing and spiritual effects on the human body and mind. One of these frequencies is 1740 Hz, which is associated with the chakra of upper homes.
+description: If you are interested in exploring the higher realms of consciousness, you may have heard of the galactic chakra. This is the ninth chakra in the 12-chakra system, and it is located about a foot above the crown chakra. It is associated with a pure tone of 4096 hz, which is said to activate and balance this energy center.
 subject: 1740 Hz - The Solfeggio Frequency for Upper Homes
 apple-title: 4096 hz - Pure Tone Galactic Chakra Frequency
 app-name: 4096 hz - Pure Tone Galactic Chakra Frequency
 tweet-title: 4096 hz - Pure Tone Galactic Chakra Frequency
-tweet-description: Have you ever heard of the solfeggio frequencies? They are a set of musical tones that are said to have healing and spiritual effects on the human body and mind. One of these frequencies is 1740 Hz, which is associated with the chakra of upper homes.. 
+tweet-description: If you are interested in exploring the higher realms of consciousness, you may have heard of the galactic chakra. This is the ninth chakra in the 12-chakra system, and it is located about a foot above the crown chakra. It is associated with a pure tone of 4096 hz, which is said to activate and balance this energy center.
 og-title: 1740 Hz - The Solfeggio Frequency for Upper Homes
 date: 2023-01-10
 keywords: solfeggio frequency, pure tones, theta waves, delta waves, Brain Beats, Frequencies, White noise, Brain wave entrainment, sound therapy, binaural beats youtube
