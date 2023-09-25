@@ -6,26 +6,3 @@ repository: Mr-Kumar-Abhishek/brain-beats-blog
 
 paginate_path: "/blog/page:num/"
 paginate: 5
-
-
-plugins:
-  - jekyll-mentions
-  - jemoji
-  - jekyll-redirect-from
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-coffeescript
-  - jekyll-gist
-  - jekyll-paginate
-  - jekyll-relative-links
-  - jekyll-optional-front-matter
-  - jekyll-readme-index
-  - jekyll-titles-from-headings
-  - jekyll-feed
-  - jekyll-redirect-from
-#  - jekyll-sitemap
-  - jekyll-avatar
-  - jekyll-mentions
-  - jekyll-include-cache
-  - jekyll-coffeescript
-  - jekyll-seo-tag
