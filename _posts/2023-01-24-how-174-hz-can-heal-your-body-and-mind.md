@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How 174 Hz Can Heal Your Body and Mind"
-description:If you are looking for a natural way to relieve pain, stress, and anxiety, you might want to try listening to 174 Hz. This is one of the Solfeggio frequencies, a set of ancient tones that have been used for centuries for healing and spiritual purposes.
+description: If you are looking for a natural way to relieve pain, stress, and anxiety, you might want to try listening to 174 Hz. This is one of the Solfeggio frequencies, a set of ancient tones that have been used for centuries for healing and spiritual purposes.
 subject: How 174 Hz Can Heal Your Body and Mind
 apple-title: How 174 Hz Can Heal Your Body and Mind
 app-name: How 174 Hz Can Heal Your Body and Mind
