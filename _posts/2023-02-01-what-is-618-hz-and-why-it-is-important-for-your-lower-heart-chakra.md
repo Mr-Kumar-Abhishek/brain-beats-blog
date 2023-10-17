@@ -8,7 +8,7 @@ app-name: What is 618 Hz and why is it important for your lower heart chakra?
 tweet-title: What is 618 Hz and why is it important for your lower heart chakra?
 tweet-description: If you are interested in sound healing, you may have heard of solfeggio frequencies. These are a set of tones that are believed to have beneficial effects on the body, mind and spirit. One of these frequencies is 618 Hz, which is associated with the lower heart chakra.
 date: 2023-02-01
-keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, lower heart Chakra, 618 Hz, Brain wave entrainment, sound therapy, 
+keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, lower heart Chakra, 618 Hz, Brain wave entrainment, sound therapy 
 ---
 
 
