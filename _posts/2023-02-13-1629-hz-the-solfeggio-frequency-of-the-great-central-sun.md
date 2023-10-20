@@ -15,7 +15,7 @@ Have you ever wondered what it would be like to connect with the highest levels 
 
 ## What is the great central sun frequency?
 
-The great central sun frequency is one of the solfeggio frequencies, a set of ancient sound frequencies that are said to have healing and spiritual properties. The solfeggio frequencies are based on a six-tone scale that was used in sacred music, such as the Gregorian chants. Each frequency corresponds to a specific aspect of human life and consciousness, such as love, intuition, transformation, and so on.
+The great central sun frequency is one of the solfeggio frequencies, a set of ancient sound frequencies that are said to have healing and spiritual properties. The solfeggio frequencies are based on a scale that was used in sacred music, such as the Gregorian chants. Each frequency corresponds to a specific aspect of human life and consciousness, such as love, intuition, transformation, and so on.
 
 The great central sun frequency is one of the highest of the solfeggio frequencies, and it is associated with the super-solar chakra, which is located above the crown chakra. The super-solar chakra is also called the great central sun chakra, because it connects us to the source of all creation, the great central sun. The great central sun is not a physical star, but a spiritual center of light and energy that emanates from the heart of God.
 
