@@ -39,4 +39,4 @@ Here are some steps to use 1074 Hz solfeggio frequency to balance your upper ear
 9. When you are ready, gently open your eyes and return to your normal awareness. Take some time to ground yourself by drinking some water, eating something healthy or walking in nature.
 10. Repeat this process regularly to maintain your upper earth chakra health and harmony.
 
-I hope this blog post has helped you understand the importance of your upper earth chakra and how to use 1074 Hz solfeggio frequency to balance it. If you have any questions or comments, please feel free to share them below. Thank you for reading!
+I hope this blog post has helped you understand the importance of your upper earth chakra and how to use 1074 Hz solfeggio frequency to balance it. Thank you for reading!
