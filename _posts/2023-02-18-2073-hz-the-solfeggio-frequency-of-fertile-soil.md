@@ -35,7 +35,7 @@ The chakra of fertile soil is related to harmony, compassion, co-operation and c
 
 To use 2073 Hz for healing and meditation, you can listen to music or sounds that are tuned to this frequency. You can find many examples on YouTube or Spotify or on our site [brain beats](https://brain-beats.in/solfeggio-frequency.html). You can also use tuning forks or singing bowls that produce this tone. You can either listen to them or place them on your body.
 
-As you listen to 2073 Hz, you can focus on your breathing and relax your mind and body. You can also visualize a golden light filling your chest and radiating outwards to your surroundings. You can affirm positive statements such as:
+As you listen to 2073 Hz, you can focus on your breathing and relax your mind and body. You can also visualize a golden light filling few feet on top of your head and radiating outwards to your surroundings. You can affirm positive statements such as:
 
 - I am connected to the source of all life
 - I am compassionate and kind to myself and others
