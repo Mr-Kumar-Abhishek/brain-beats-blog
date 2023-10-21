@@ -8,7 +8,7 @@ app-name: 1782 Hz - The Solfeggio Frequency of the 5th Dimension
 tweet-title: 1782 Hz - The Solfeggio Frequency of the 5th Dimension
 tweet-description: If so, you might be interested in learning about the solfeggio frequency of 1782 Hz, which is associated with the chakra sometimes called the 16th chakra.
 date: 2023-02-16
-keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, 16th chakra, 1851 Hz, Brain wave entrainment, sound therapy
+keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, 16th chakra, 1782 Hz, Brain wave entrainment, sound therapy
 ---
 
 
@@ -18,7 +18,7 @@ Have you ever wondered what it would be like to explore the higher dimensions of
 
 Solfeggio frequencies are a set of tones that were originally used in ancient sacred music, such as the Gregorian chants. They are based on a mathematical system that derives from the Pythagorean theorem, and they are said to have healing and spiritual properties. Each frequency corresponds to a specific aspect of human consciousness, such as love, intuition, transformation, etc.
 
-The solfeggio frequencies are:
+The basic 9 solfeggio frequencies are:
 
 - 174 Hz - The lowest of the tones, it is said to relieve pain and stress, and promote a sense of security and safety.
 - 285 Hz - This tone is said to heal tissue and organs, and restore balance to the body.
@@ -26,7 +26,7 @@ The solfeggio frequencies are:
 - 417 Hz - This tone is associated with the sacral chakra, and it helps to facilitate change and release negative emotions and patterns.
 - 528 Hz - This tone is associated with the solar plexus, and it helps us to realize our life's purpose. It is also known as the miracle tone, as it is said to repair DNA and restore health.
 - 639 Hz - This tone is associated with the hearth chakra, and it helps us to have compassion and love towards others, life and to ourselves.
-- 741 Hz - 
+- 741 Hz - It is associated with throat chakra and could restore our ability to good communication, forgiveness and networking with people.
 - 852 Hz - This tone is associated with the third eye chakra, and it helps to awaken intuition, creativity, and insight. 
 - 963 Hz - This tone is associated with the crown chakra, and it helps to connect with the divine source, spiritual wisdom, and enlightenment.
 
