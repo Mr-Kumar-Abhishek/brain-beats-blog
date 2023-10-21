@@ -29,7 +29,7 @@ The solfeggio frequency of 2406 Hz can help you to:
 - Expand your awareness and perception of reality
 - Enhance your creativity and expression
 
-To listen to the solfeggio frequency of 2406 Hz, you can use a tuning fork, a singing bowl, a sound healing device, or a meditation app. You can also chant or sing the syllable "OM" or "AUM", which is the sacred sound of creation that corresponds to this frequency.
+To listen to the solfeggio frequency of 2406 Hz, you can use a tuning fork, a singing bowl, a sound healing device, or a meditation app such as [brain beats](https://brain-beats.in/solfeggio-frequency.html). You can also chant or sing the syllable "OM" or "AUM", which is the sacred sound of creation that corresponds to this frequency.
 
 You can listen to the solfeggio frequency of 2406 Hz for as long as you feel comfortable, but ideally for at least 15 minutes a day. You can also combine it with other solfeggio frequencies or other healing modalities for a more holistic approach.
 
