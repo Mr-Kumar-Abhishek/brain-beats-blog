@@ -4,7 +4,7 @@ title: "1962 Hz - The Solfeggio Frequency of Solar Swords"
 description: The solar swords chakra is the chakra of warriors and fighters, who have the courage, drive and determination to realize their ideas and visions. It is the most yang or masculine chakra, and it brings the archetype of the 'father figure', who provides protection, guidance and leadership.
 subject: 1962 Hz - The Solfeggio Frequency of Solar Swords
 apple-title: 1962 Hz - The Solfeggio Frequency of Solar Swords
-app-name: 1782 Hz - The Solfeggio Frequency of the 5th Dimension
+app-name: 1962 Hz - The Solfeggio Frequency of Solar Swords
 tweet-title: 1962 Hz - The Solfeggio Frequency of Solar Swords
 tweet-description: The solar swords chakra is the chakra of warriors and fighters, who have the courage, drive and determination to realize their ideas and visions. It is the most yang or masculine chakra, and it brings the archetype of the 'father figure', who provides protection, guidance and leadership.
 date: 2023-02-17
