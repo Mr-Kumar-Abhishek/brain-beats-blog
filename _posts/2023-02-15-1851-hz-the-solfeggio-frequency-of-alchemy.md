@@ -19,7 +19,7 @@ Solfeggio frequencies are a set of ancient musical tones that were used in sacre
 
 ## What is the 1851 Hz Solfeggio Frequency?
 
-The 1851 Hz solfeggio frequency is one of the nine extended solfeggio frequencies that go beyond the original six. It is associated with the ninth chakra, which is located above the crown chakra and is also called the soul star chakra. This chakra is the gateway to higher dimensions and realms of existence, where anything is possible.
+The 1851 Hz solfeggio frequency is one of the 24 extended solfeggio frequencies that go beyond the original 9. It is associated with the ninth chakra, which is located above the crown chakra and is also called the soul star chakra. This chakra is the gateway to higher dimensions and realms of existence, where anything is possible.
 
 The 1851 Hz solfeggio frequency is the frequency of alchemy, which means the ability to transform matter and energy. It rules over alchemical transmutations, the rule of eternal change, metamorphosis and transformation. It teaches us that everything is in a constant state of flux and that nothing is fixed or permanent. It also rules over appearance and disappearance on a micro-level, such as quantum physics and teleportation.
 
