@@ -8,7 +8,7 @@ app-name: How to Experience the Power of 2517 Hz - The Solfeggio Frequency of Un
 tweet-title: How to Experience the Power of 2517 Hz - The Solfeggio Frequency of Unity
 tweet-description: 2517 Hz is not just a frequency for seeing. It is also a frequency for becoming. When we listen to 2517 Hz, we are not only opening our third eye, but also aligning ourselves with the universal wisdom and intelligence that pervades all creation.
 date: 2023-02-22
-keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, chakra of I AM, 2406 Hz, Brain wave entrainment, sound therapy
+keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, ajna chakra, 3rd eye, 2517 Hz, Brain wave entrainment, sound therapy
 ---
 
 If you are familiar with the concept of solfeggio frequencies, you may know that they are a set of sound vibrations that correspond to different aspects of our physical, mental, emotional and spiritual well-being. Each frequency has a specific effect on our energy field and can help us heal, balance and harmonize ourselves.
