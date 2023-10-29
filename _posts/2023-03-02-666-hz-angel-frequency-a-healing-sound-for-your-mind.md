@@ -125,7 +125,7 @@ The most important thing is to use it with intention and gratitude, and to liste
 
 It is not a solfeggio frequency, but a frequency that is derived from the sacred numbers of the solfeggio scale. It is a frequency that can transform your life for the better, if you allow it to.
 
-I hope this article has helped you understand more about 666 Hz frequency and how to use it for your benefit. If you have any questions or comments, please feel free to share them below. I would love to hear from you.
+I hope this article has helped you understand more about 666 Hz frequency and how to use it for your benefit.
 
 Thank you for reading and listening. May you be blessed with peace, joy, and abundance.
 
