@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "144 Hz - Pure Tone - A Natural Remedy for Headaches and Migraines"
-description: One way to heal and balance your throat chakra is to use sound therapy, specifically a pure tone of 141.27 Hz. This frequency corresponds to the orbit of Mercury, the planet of communication and intellect 
+description: 144 Hz is the frequency of the pure tone that we are interested in. It is equivalent to the note F# in the musical scale, and it is slightly higher than the average human voice.
 subject: 144 Hz - Pure Tone - A Natural Remedy for Headaches and Migraines
 apple-title: 144 Hz - Pure Tone - A Natural Remedy for Headaches and Migraines
 app-name: 144 Hz - Pure Tone - A Natural Remedy for Headaches and Migraine
 tweet-title: 144 Hz - Pure Tone - A Natural Remedy for Headaches and Migraine
-tweet-description: One way to heal and balance your throat chakra is to use sound therapy, specifically a pure tone of 141.27 Hz. This frequency corresponds to the orbit of Mercury, the planet of communication and intellect
+tweet-description: 144 Hz is the frequency of the pure tone that we are interested in. It is equivalent to the note F# in the musical scale, and it is slightly higher than the average human voice.
 date: 2023-03-15
 keywords: frequency benefits, Brain Beats, Frequencies, headaches, migranes, 144 hz, pure tone, Brain wave entrainment, sound therapy
 ---
