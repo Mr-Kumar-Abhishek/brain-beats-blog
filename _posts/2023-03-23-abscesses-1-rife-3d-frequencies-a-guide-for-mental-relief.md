@@ -51,4 +51,9 @@ You will also need to follow these steps:
 4) Focus on your intention of mental relief from abscesses 1 and visualize the frequencies healing your body and mind.
 5) Repeat this process daily or as often as you need until you feel better.
 
+## Disclaimer
+
+**Rife 3D frequencies are not a substitute for medical advice or treatment.** They are not proven by scientific research and may not work for everyone. They may also have side effects or interactions with other medications or devices. 
+
+
 I hope this blog post has been helpful and informative for you. If you have any questions or comments, please feel free to leave them below. Thank you for reading and have a wonderful day!

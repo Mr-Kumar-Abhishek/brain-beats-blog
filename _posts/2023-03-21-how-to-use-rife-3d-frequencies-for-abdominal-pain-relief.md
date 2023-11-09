@@ -26,4 +26,8 @@ To use this preset, simply play it for at least 15 minutes a day, preferably bef
 
 Rife 3D frequencies are a safe and natural way to relieve your abdominal pain without any side effects or drugs. However, they are not intended to replace medical advice or treatment. If you have any serious or chronic health condition, please consult your doctor before using them. Also, if your abdominal pain persists or worsens, please seek medical attention as soon as possible.
 
+## Disclaimer
+
+**Rife 3D frequencies are not a substitute for medical advice or treatment.** They are not proven by scientific research and may not work for everyone. They may also have side effects or interactions with other medications or devices. 
+
 We hope this article has helped you understand how to use Rife 3D frequencies for abdominal pain relief. Thank you for reading!

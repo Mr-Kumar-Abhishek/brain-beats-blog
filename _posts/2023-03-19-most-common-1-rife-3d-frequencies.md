@@ -49,7 +49,7 @@ You should use this preset at least once a day for optimal results. You can use 
 
 ## Disclaimer
 
-Please note that Rife frequencies are not a substitute for medical advice or treatment. They are intended to complement and enhance your health and wellness. You should always consult your doctor before using any alternative therapies or devices.
+**Please note that Rife frequencies are not a substitute for medical advice or treatment.** They are intended to complement and enhance your health and wellness. You should always consult your doctor before using any alternative therapies or devices.
 
 Rife frequencies are generally safe and have no known side effects when used properly. However, some people may experience mild discomfort, such as tingling, itching, or warmth in the area of application. This is normal and should subside after a few minutes. If you experience any severe or lasting pain, discomfort, or adverse reactions, you should stop using the frequencies and seek medical attention.
 
