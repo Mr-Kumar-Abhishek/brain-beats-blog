@@ -23,8 +23,8 @@ In this blog post, I will show you how to use Rife 3D frequencies preset for men
 
 Before you start using Rife 3D frequencies, you need to make sure that your Rife machine is working properly and that you have a comfortable and quiet environment. You will need:
 
-- A Rife machine that can generate Rife 3D frequencies. You can buy one online or build your own. Make sure that it has the preset for abscesses secondary or that you can program it manually with the frequencies listed above.
-- Electrodes or speakers to deliver the sound waves to your body. If you use electrodes, you will need to attach them to the skin near the affected area or on the acupuncture points that correspond to it. If you use speakers, you will need to place them close to your ears or around your head.
+- A Brain Beats Rife machine that can generate Rife 3D frequencies. You can use it online or build your own from a the generator. Make sure that it has the preset for abscesses secondary or that you can program it manually with the frequencies listed above.
+- Speakers to deliver the sound waves to your body. If you use speakers, you will need to place them close to your ears or around your head.
 - A timer or a stopwatch to keep track of the duration of each session.
 - A comfortable chair or bed where you can relax and listen to the sound waves.
 - A dim light or a blindfold to block out any visual distractions.
