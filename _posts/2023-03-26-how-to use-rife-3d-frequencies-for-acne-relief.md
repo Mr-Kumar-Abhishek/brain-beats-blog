@@ -27,7 +27,7 @@ Acne Rife 3D frequencies
 
 This is Rife 3D frequencies preset for mental relief from Acne (run 564 for 6 min). The frequencies in this preset are: 2720 hz, 2170 hz, 1800 hz, 1600 hz, 1550 hz, 1552 hz, 1500 hz, 802 hz, 880 hz, 778 hz, 787 hz, 760 hz, 741 hz, 727 hz, 660 hz, 564 hz, 465 hz, 450 hz, 444 hz, 428 hz
 
-To use this preset, you will need to visit [brain beats](https://brain-beats.in) to your device. Then go the the rife 3D machine and search this preset there from the search box. You will also need to connect your device to a speaker or headphones.
+To use this preset, you will need to visit [brain beats](https://brain-beats.in) in your device. Then go the the rife 3D machine and search this preset there from the search box. You will also need to connect your device to a speaker or headphones.
 
 Once you have everything ready, you can start playing the preset. You should listen to it at a comfortable volume level and in a quiet environment. You can close your eyes and relax while listening to the frequencies. You can also visualize your skin healing and clearing up.
 

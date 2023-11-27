@@ -21,6 +21,6 @@ In this blog post, I will share with you a Rife 3D frequencies preset that I hav
 - 5611 hz: This frequency is associated with the hypothalamus, which is the master gland that regulates many functions in the body, such as mood, appetite, sleep, and stress. This frequency can help balance your hormones and emotions and reduce anxiety and depression.
 - 2791 hz: This frequency is associated with the pineal gland, which is the seat of intuition and spirituality. This frequency can help activate your third eye and enhance your psychic abilities and awareness.
 
-To use this preset, you will need a [brain beats](https://brain-beats.in) that can generate these frequencies and apply them to your body. You can either use headphones or speakers to listen to the frequencies. You should use this preset for at least 15 minutes a day, preferably before bedtime, to achieve optimal results.
+To use this preset, you will need [brain beats](https://brain-beats.in) that can generate these frequencies and apply them to your body. You can either use headphones or speakers to listen to the frequencies. You should use this preset for at least 15 minutes a day, preferably before bedtime, to achieve optimal results.
 
 Disclaimer: This blog post is for informational purposes only and does not constitute medical advice. Rife 3D frequencies are not intended to diagnose, treat, cure, or prevent any disease. You should consult your doctor before using any alternative therapy or device.
