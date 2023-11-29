@@ -21,7 +21,7 @@ In this blog post, I will show you how to use Rife 3D frequencies for actinomyce
 
 There are many different frequencies that are claimed to be effective for actinomyces israelii. However, there is no scientific evidence to support these claims, and the results may vary from person to person. Therefore, you should use caution and experiment with different frequencies to find what works best for you.
 
-One of the sources that provides a list of frequencies for actinomyces israelii is the Rife 3D software. This software allows you to create your own presets of frequencies and run them on your device. According to the Rife 3D software, the frequencies for actinomyces israelii are: 23 hz, 222 hz, 262 hz, 2154 hz, 465 hz, 488 hz, 567 hz, 7880 hz, 10000 hz, 787 hz, 747 hz, 727 hz, 20 hz, 660 hz, 690 hz, 160 hz, 73 hz, 1.1 hz
+One of the sources that provides a list of frequencies for actinomyces israelii is the Brain Beats website. This website allows you to create your own presets of frequencies and run them on your device. According to the Rife 3D software, the frequencies for actinomyces israelii are: 23 hz, 222 hz, 262 hz, 2154 hz, 465 hz, 488 hz, 567 hz, 7880 hz, 10000 hz, 787 hz, 747 hz, 727 hz, 20 hz, 660 hz, 690 hz, 160 hz, 73 hz, 1.1 hz
 
 These frequencies are based on the work of Dr. Royal Raymond Rife, who was a pioneer in the field of frequency therapy in the early 20th century. He claimed to have discovered the frequencies that could kill various pathogens, including bacteria, viruses, fungi, and parasites. However, his work was controversial and never accepted by the mainstream medical community.
 
