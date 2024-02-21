@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Binaural Beats for Organ and Muscle Resonances - Phase 1"
-description: At an ultra-low frequency of **0.1 Hz**, we enter the realm of Epsilon brainwaves. These waves are associated with deep relaxation, enhanced intuition, and profound meditative states. 
+description: At an ultra-low frequency of 0.1 Hz, we enter the realm of Epsilon brainwaves. These waves are associated with deep relaxation, enhanced intuition, and profound meditative states. 
 subject: Binaural Beats for Organ and Muscle Resonances - Phase 1
 apple-title: Binaural Beats for Organ and Muscle Resonances - Phase 1
 app-name: Binaural Beats for Organ and Muscle Resonances - Phase 1
 tweet-title: Binaural Beats for Organ and Muscle Resonances - Phase 1
-tweet-description: At an ultra-low frequency of **0.1 Hz**, we enter the realm of Epsilon brainwaves. These waves are associated with deep relaxation, enhanced intuition, and profound meditative states. 
+tweet-description: At an ultra-low frequency of 0.1 Hz, we enter the realm of Epsilon brainwaves. These waves are associated with deep relaxation, enhanced intuition, and profound meditative states. 
 date: 2023-04-12
 keywords: frequency benefits, Brain Beats, Frequencies, DMT, organ, muscle resonances, Brain wave entrainment, sound therapy
 ---
