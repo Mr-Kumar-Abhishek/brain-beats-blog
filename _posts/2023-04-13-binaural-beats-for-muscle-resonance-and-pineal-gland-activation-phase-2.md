@@ -45,4 +45,4 @@ You could find this preset in [brain beats](https://brain-beats.in) .
 
 ### **Disclaimer**
 
-While binaural beats offer incredible potential, always consult with a healthcare professional before making significant changes to your
+While binaural beats offer incredible potential, always consult with a healthcare professional before making significant changes.
