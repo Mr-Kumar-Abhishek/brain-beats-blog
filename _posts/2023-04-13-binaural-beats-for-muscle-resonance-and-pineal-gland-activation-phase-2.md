@@ -7,7 +7,7 @@ apple-title: Binaural Beats for Organ and Muscle Resonances - Phase 1
 app-name: Binaural Beats for Organ and Muscle Resonances - Phase 1
 tweet-title: Binaural Beats for Organ and Muscle Resonances - Phase 1
 tweet-description: At an ultra-low frequency of 0.1 Hz, we enter the realm of Epsilon brainwaves with healing of 285 hz.
-date: 2023-04-12
+date: 2023-04-13
 keywords: frequency benefits, Brain Beats, Frequencies, DMT, organ, muscle resonances, Brain wave entrainment, sound therapy
 ---
 
