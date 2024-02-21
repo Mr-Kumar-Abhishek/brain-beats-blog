@@ -45,6 +45,8 @@ To harness the benefits of this phase:
 
 Remember that consistency is key when working with sound therapy. Regular exposure amplifies the effects over time.
 
+You could find this preset in [brain beats](https://brain-beats.in).
+
 ## **Conclusion**
 
 As you explore the world of binaural beats and solfeggio frequencies, consider integrating this powerful combination into your wellness practices. Whether you're an athlete aiming for muscle gains or seeking deeper meditative experiences, 0.1 Hz binaural beats over Solfeggio 174 Hz offer a unique pathway toward holistic health.
