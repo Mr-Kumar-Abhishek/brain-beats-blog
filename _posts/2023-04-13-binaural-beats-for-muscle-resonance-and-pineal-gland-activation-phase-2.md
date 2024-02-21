@@ -41,6 +41,8 @@ The pineal gland, often referred to as the "third eye," plays a crucial role in 
 
 Remember that consistency is key! Incorporate these frequencies into your daily routine for maximum benefits.
 
+You could find this preset in [brain beats](https://brain-beats.in) . 
+
 ### **Disclaimer**
 
 While binaural beats offer incredible potential, always consult with a healthcare professional before making significant changes to your
