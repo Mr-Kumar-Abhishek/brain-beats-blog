@@ -15,7 +15,7 @@ In recent years, interest in alternative therapies for managing stress, anxiety,
 
 ## Understanding Binaural Beats
 
-Binaural beats occur when two slightly different frequencies are presented separately to each ear. The brain perceives the difference between these frequencies as a single beat. For example, if one ear receives a tone at 200 Hz and the other at 200.20 Hz, the perceived binaural beat is 0.20 Hz.
+Binaural beats occur when two slightly different frequencies are presented separately to each ear. The brain perceives the difference between these frequencies as a single beat. For example, if one ear receives a tone at 396 Hz and the other at 396.20 Hz, the perceived binaural beat is 0.20 Hz.
 
 ## The Science Behind 0.20 Hz
 
