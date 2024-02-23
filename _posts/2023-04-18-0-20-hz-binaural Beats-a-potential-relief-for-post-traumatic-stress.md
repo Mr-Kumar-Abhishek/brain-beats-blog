@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "0.20 Hz Binaural Beats: A Potential Relief for Post-Traumatic Stress"
-description: One such approach gaining attention is the use of **binaural beats**, specifically those at a frequency of 0.20 Hz. These auditory illusions have been studied for their potential to alleviate symptoms associated with post-traumatic stress disorder (PTSD).
+description: One such approach gaining attention is the use of binaural beats, specifically those at a frequency of 0.20 Hz. These auditory illusions have been studied for their potential to alleviate symptoms associated with post-traumatic stress disorder (PTSD).
 subject: 0.20 Hz Binaural Beats - A Potential Relief for Post-Traumatic Stress
 apple-title: 0.20 Hz Binaural Beats - A Potential Relief for Post-Traumatic Stress
 app-name: 0.20 Hz Binaural Beats - A Potential Relief for Post-Traumatic Stress
 tweet-title: 0.20 Hz Binaural Beats - A Potential Relief for Post-Traumatic Stress
-tweet-description: One such approach gaining attention is the use of **binaural beats**, specifically those at a frequency of 0.20 Hz. These auditory illusions have been studied for their potential to alleviate symptoms associated with post-traumatic stress disorder (PTSD).
+tweet-description: One such approach gaining attention is the use of binaural beats, specifically those at a frequency of 0.20 Hz. These auditory illusions have been studied for their potential to alleviate symptoms associated with post-traumatic stress disorder (PTSD).
 date: 2023-04-18
 keywords: frequency benefits, Brain Beats, Frequencies, 0.20 hz, Brain wave entrainment, sound therapy, PTSD, post-traumatic stress disorder (PTSD), mild depression, healing
 ---
