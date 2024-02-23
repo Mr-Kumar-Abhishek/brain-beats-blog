@@ -16,7 +16,7 @@ In the quest for alternative therapies for mental health, binaural beats have em
 
 **Understanding Binaural Beats**
 
-Binaural beats are an auditory illusion perceived when two different pure-tone sine waves, both with frequencies lower than 1500 Hz and with less than a 40 Hz difference between them, are presented to a listener dichotically, meaning one through each ear. For instance, if the left ear receives a 250 Hz tone and the right ear a 250.15 Hz tone, the brain will process and interpret the auditory input as a single 0.15 Hz beat.
+Binaural beats are an auditory illusion perceived when two different pure-tone sine waves, both with frequencies lower than 1500 Hz and with less than a 40 Hz difference between them, are presented to a listener dichotically, meaning one through each ear. For instance, if the left ear receives a 417 Hz tone and the right ear a 417.15 Hz tone, the brain will process and interpret the auditory input as a single 0.15 Hz beat.
 
 **The Science Behind 0.15 Hz Binaural Beats**
 
