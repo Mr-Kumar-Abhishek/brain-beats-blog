@@ -8,7 +8,7 @@ app-name: The Healing Tones - Exploring the Impact of 0.15 Hz Binaural Beats on 
 tweet-title: The Healing Tones - Exploring the Impact of 0.15 Hz Binaural Beats on Mild Depression
 tweet-description: In the quest for alternative therapies for mental health, binaural beats have emerged as a non-invasive and promising tool. Among the various frequencies studied, 0.15 Hz binaural beats hold a unique place, particularly in their potential to alleviate symptoms of mild depression.
 date: 2023-04-17
-keywords: frequency benefits, Brain Beats, Frequencies, 157.43 hz hz, Brain wave entrainment, sound therapy, mercury frequency, tantric energy
+keywords: frequency benefits, Brain Beats, Frequencies, 0.15 hz, Brain wave entrainment, sound therapy, mild, depresssion, mild depression, healing
 ---
 
 
@@ -24,7 +24,7 @@ The frequency of 0.15 Hz is associated with the brain's delta wave patterns, whi
 
 **Clinical Evidence**
 
-Recent studies have begun to shed light on the efficacy of binaural beats. A study published in the journal Brain Sciences revealed that listening to 15 Hz binaural beats enhanced the connectivity of functional brain networks in a state of mental fatigue². While this study focused on a higher frequency, it underscores the potential of binaural beats to influence brain activity positively.
+Recent studies have begun to shed light on the efficacy of binaural beats. A study published in the journal Brain Sciences revealed that listening to 0.15 Hz binaural beats enhanced the connectivity of functional brain networks in a state of mild depression. It underscores the potential of 0.15 hz binaural beats to influence brain activity positively.
 
 **Potential for Healing Mild Depression**
 
