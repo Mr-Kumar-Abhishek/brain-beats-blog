@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Use White Noise for Better Sleep and Productivity"
+title: "How to Use White Noise for Enhanced Sleep and Productivity"
 description: White noise is a type of sound that contains equal amounts of all frequencies within the human hearing range. It can mask other sounds and create a soothing or relaxing environment. White noise can also help you sleep better, improve your focus, and reduce stress.
 subject: How to Use White Noise for Better Sleep and Productivity 
 apple-title: How to Use White Noise for Better Sleep and Productivity
