@@ -20,7 +20,7 @@ group :jekyll_plugins do
     gem "jekyll-optional-front-matter"
     gem "jekyll-readme-index"
     gem "jekyll-titles-from-headings"
-    gem "jekyll-sitemap"
+#   gem "jekyll-sitemap"
     gem "jekyll-avatar"
     gem "jekyll-include-cache"
     gem "webrick"
