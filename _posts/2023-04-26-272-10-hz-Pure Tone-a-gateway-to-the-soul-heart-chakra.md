@@ -7,7 +7,7 @@ apple-title: 272.10 Hz - Pure Tone - A Gateway to the Soul Heart Chakra
 app-name: 272.10 Hz - Pure Tone - A Gateway to the Soul Heart Chakra
 tweet-title: 272.10 Hz - Pure Tone - A Gateway to the Soul Heart Chakra
 tweet-description: 272.10 Hz, a pure tone that resonates with the soul heart chakra. This frequency is believed to deepen the connection to one's higher self and spiritual essence, fostering emotional and spiritual harmony.
-date: 2023-04-25
+date: 2023-04-26
 keywords: frequency benefits, Brain Beats, Frequencies, 272.10 hz, Brain wave entrainment, sound therapy, soul heart chakra, meditation, healing
 ---
 
