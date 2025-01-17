@@ -7,7 +7,7 @@ apple-title: 282 Hz - Pure Tone - A Sonic Sanctuary for Gemini
 app-name: 282 Hz - Pure Tone - A Sonic Sanctuary for Gemini
 tweet-title: 282 Hz - Pure Tone - A Sonic Sanctuary for Gemini
 tweet-description: For Gemini, the versatile and communicative sign of the zodiac, the pure tone of 282 Hz offers a harmonious retreat.
-date: 2023-04-27
+date: 2023-04-28
 keywords: frequency benefits, Brain Beats, Frequencies, 282 hz, Brain wave entrainment, sound therapy, gemini, meditation, healing
 ---
 
