@@ -12,6 +12,7 @@ keywords: frequency benefits, Brain Beats, Frequencies, 298 Hz, Brain wave entra
 ---
 
 **Harness the cosmic power of sound to align with your zodiac energy.**  
+
 As a Cancer (June 21–July 22), your intuitive and empathetic nature makes you a natural healer, but it can also leave you emotionally drained. The 311.13 Hz pure tone, paired with the musical note D#, is a celestial tool designed to help you recharge, focus, and embrace your inner peace. Let’s dive into how this unique frequency can elevate your daily rituals.
 
 ---
@@ -67,7 +68,7 @@ Your nurturing spirit often extends to creative or caregiving work. This frequen
 Search for “311.13 Hz Pure Tone for Cancer” or “D# Frequency Meditation” on:  
 - YouTube (try channels like *Meditative Mind* or *PowerThoughts Meditation Club*)  
 - Spotify playlists for zodiac-specific sound healing  
-- Apps like **Insight Timer** or **Calm**  
+- Wep Apps like **Brain Beats**  
 
 **Pro Tip:** Look for versions layered with ambient sounds—like rain, ocean waves, or soft piano—to deepen immersion.  
 
@@ -79,4 +80,4 @@ As a Cancer, your emotional depth is your gift. The 311.13 Hz frequency isn’t 
 
 **Ready to harmonize with the cosmos?** Press play, close your eyes, and let the vibrations of D# carry you to calm.  
 
-*Have you tried sound healing for your zodiac sign? Share your story below—we’d love to hear it!* 🌙✨  
+*Have you tried sound healing for your zodiac sign? 🌙✨  
