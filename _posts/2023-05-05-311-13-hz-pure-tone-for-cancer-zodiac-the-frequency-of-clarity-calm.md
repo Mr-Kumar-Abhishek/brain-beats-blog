@@ -8,7 +8,7 @@ app-name: 311.13 Hz Pure Tone for Cancer Zodiac - The Frequency of Clarity & Cal
 tweet-title: 311.13 Hz Pure Tone for Cancer Zodiac - The Frequency of Clarity & Calm
 tweet-description: The 311.13 Hz pure tone, paired with the musical note D#, is a celestial tool designed to help you recharge, focus, and embrace your inner peace.
 date: 2023-05-05
-keywords: frequency benefits, Brain Beats, Frequencies, 298 Hz, Brain wave entrainment, sound therapy, 311.13 Hz, meditation, healing
+keywords: frequency benefits, Brain Beats, Frequencies, Brain wave entrainment, sound therapy, 311.13 Hz, meditation, healing
 ---
 
 **Harness the cosmic power of sound to align with your zodiac energy.**  
