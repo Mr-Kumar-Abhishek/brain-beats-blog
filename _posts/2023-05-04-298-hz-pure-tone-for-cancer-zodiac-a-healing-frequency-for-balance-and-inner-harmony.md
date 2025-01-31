@@ -65,7 +65,7 @@ Integrating this frequency into your daily life is simple:
 
 ## Where to Find 298 Hz Tracks
 
-Look for “298 Hz Pure Tone for Cancer (V2)” on platforms like YouTube, Spotify, or meditation apps like Insight Timer. Version 2 (V2) often refers to an enhanced recording with binaural beats or nature sounds (e.g., ocean waves) tailored for deeper immersion.
+Look for “298 Hz Pure Tone for Cancer (V2)” on platforms like YouTube, Spotify, Brain Beats. Version 2 (V2) often refers to an enhanced recording with binaural beats for deeper immersion.
 
 ---
 
