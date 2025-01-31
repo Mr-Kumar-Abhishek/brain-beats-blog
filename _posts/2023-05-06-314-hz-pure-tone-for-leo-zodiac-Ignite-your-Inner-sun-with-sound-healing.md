@@ -82,4 +82,4 @@ Leos aren’t just leaders—they’re heart-centered visionaries. The 314 Hz pu
 
 **Ready to embrace your cosmic rhythm?** Press play, stand tall, and let 314 Hz fuel your fire—without burning out.  
 
-*Have you tried zodiac-specific sound healing? Share your Leo-sized wins in the comments below!* 🦁✨  
+*Have you tried zodiac-specific sound healing?* 🦁✨  
