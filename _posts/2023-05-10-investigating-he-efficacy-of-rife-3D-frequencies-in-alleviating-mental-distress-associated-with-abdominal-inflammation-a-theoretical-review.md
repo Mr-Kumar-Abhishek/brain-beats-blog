@@ -13,13 +13,13 @@ keywords: frequency benefits, Brain Beats, Frequencies, Brain wave entrainment, 
 
 
 ## Abstract  
-*This paper explores the potential application of Rife 3D frequencies as a non-invasive therapy for mental relief in individuals suffering from abdominal inflammation. A preset of 28 frequencies (e.g., 2720 Hz, 2489 Hz, 1.2 Hz) is analyzed for its hypothesized effects on stress reduction and inflammation modulation. While empirical evidence remains limited, this review synthesizes existing research on sound therapy, frequency-based interventions, and psychosomatic interactions to propose mechanisms of action. Critical gaps in clinical validation are highlighted.*  
+*This article explores the potential application of Rife 3D frequencies as a non-invasive therapy for mental relief in individuals suffering from abdominal inflammation. A preset of 28 frequencies (e.g., 2720 Hz, 2489 Hz, 1.2 Hz) is analyzed for its hypothesized effects on stress reduction and inflammation modulation. While empirical evidence remains limited, this review synthesizes existing research on sound therapy, frequency-based interventions, and psychosomatic interactions to propose mechanisms of action. Critical gaps in clinical validation are highlighted.*  
 
 ---
 
 
 ## 1. Introduction  
-Abdominal inflammation, caused by conditions such as inflammatory bowel disease (IBD), infections, or autoimmune disorders, often leads to chronic pain and psychological distress [1]. Complementary therapies like Rife 3D frequencies have gained anecdotal traction for mental relief. This paper evaluates the theoretical basis of a 28-frequency preset (Table 1) and its potential role in mitigating inflammation-related psychological symptoms.  
+Abdominal inflammation, caused by conditions such as inflammatory bowel disease (IBD), infections, or autoimmune disorders, often leads to chronic pain and psychological distress [1]. Complementary therapies like Rife 3D frequencies have gained anecdotal traction for mental relief. This article evaluates the theoretical basis of a 28-frequency preset (Table 1) and its potential role in mitigating inflammation-related psychological symptoms.  
 
 ---
 
@@ -86,4 +86,4 @@ While Rife 3D frequencies represent an intriguing complementary approach for abd
 
 ---
 
-*Note: This paper synthesizes theoretical and preliminary evidence. The frequencies listed are not substitutes for medical treatment. Consult healthcare providers before use.*  
+*Note: This article synthesizes theoretical and preliminary evidence. The frequencies listed are not substitutes for medical treatment. Consult healthcare providers before use.*  
