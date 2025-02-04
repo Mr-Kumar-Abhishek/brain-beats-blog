@@ -1,11 +1,11 @@
 name: Brain Beats Blog | Brainwave Entrainment
 markdown: kramdown
 kramdown:
+  math_engine: mathjax
+  parse_block_html: true
   input: GFM
-  hard_wrap: false
-  gfm_quirks: []
-
-
+  syntax_highlighter_opts:
+    disable : true
 
 permalink: /blog/:year/:month/:day/:title.html
 url: "https://brain-beats.in"
