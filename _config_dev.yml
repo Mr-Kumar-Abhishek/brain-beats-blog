@@ -1,2 +1,14 @@
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  gfm_quirks: []
+
+
+name: Brain Beats Blog | Brainwave Entrainment
 url: ""
 baseurl: ""
+repository: Mr-Kumar-Abhishek/brain-beats-blog
+
+paginate_path: "/blog/page:num/"
+paginate: 5

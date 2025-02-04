@@ -1,5 +1,12 @@
 name: Brain Beats Blog | Brainwave Entrainment
 markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  gfm_quirks: []
+
+
+
 permalink: /blog/:year/:month/:day/:title.html
 url: "https://brain-beats.in"
 baseurl: "/blog"
