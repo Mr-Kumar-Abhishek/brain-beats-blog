@@ -25,5 +25,4 @@ group :jekyll_plugins do
     gem "jekyll-avatar"
     gem "jekyll-include-cache"
     gem "webrick"
-    
 end
