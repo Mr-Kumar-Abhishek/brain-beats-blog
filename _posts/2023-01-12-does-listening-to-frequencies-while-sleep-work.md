@@ -8,7 +8,7 @@ app-name: Does Listening to Frequencies While Sleeping Work?
 tweet-title: Does Listening to Frequencies While Sleeping Work?
 tweet-description: Binaural beats can help you sleep by entraining your brain waves to the delta frequency range, which is between 0.1 and 4 Hz. By listening to binaural beats at this frequency, you can induce a state of deep sleep that is restorative and rejuvenating for your body and mind.
 date: 2023-01-12
-keywords: solar chakra, solfeggio frequency, pure tones, theta waves, delta waves, Brain Beats, Frequencies, White noise, Brain wave entrainment, sound therapy, binaural beats youtube
+keywords: solar chakra, solfeggio frequency, pure tones, theta waves, delta waves, Brain Beats, Frequencies, White noise, Brain wave entrainment, sound therapy, binaural beats youtube, frequency benefits
 ---
 
 

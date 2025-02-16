@@ -8,7 +8,7 @@ app-name: How to Use 396 Hz Solfeggio Frequency to Release Guilt and Fear
 tweet-title: How to Use 396 Hz Solfeggio Frequency to Release Guilt and Fear
 tweet-description: Do you feel guilty or fearful about something in your life? Do you want to overcome these negative emotions and achieve your goals more easily? If so, you might want to try listening to 396 Hz solfeggio frequency, a sound that can help you release guilt and fear and activate your root chakra.
 date: 2023-01-17
-keywords: pure tones, frequency benefits, Brain Beats, Frequencies, White noise, Brain wave entrainment, sound therapy, binaural beats youtube, mooldhara chakra, root chakra, 396 Hz, solfeggio frequency
+keywords: pure tones, frequency benefits, Brain Beats, Frequencies, White noise, Brain wave entrainment, sound therapy, binaural beats youtube, mooldhara chakra, root chakra, 396 Hz, solfeggio frequency, 396 Hz frequency benefits
 ---
 
 Do you feel guilty or fearful about something in your life? Do you want to overcome these negative emotions and achieve your goals more easily? If so, you might want to try listening to 396 Hz solfeggio frequency, a sound that can help you release guilt and fear and activate your root chakra.

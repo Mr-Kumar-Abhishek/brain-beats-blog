@@ -9,7 +9,7 @@ tweet-title: Binaural Beats - What Are They and How Can They Help You?
 tweet-description: Binaural beats are a type of sound that can induce different states of mind, such as relaxation, focus, creativity, or sleep. 
 og-title: Binaural Beats - What Are They and How Can They Help You?
 date: 2023-01-02
-keywords: Brain Beats, White noise, Brain wave entrainment, sound therapy, binaural beats youtube
+keywords: Brain Beats, Brain wave entrainment, sound therapy, binaural beats youtube, binaural beats benefits
 ---
 
 Binaural beats are a type of sound that can induce different states of mind, such as relaxation, focus, creativity, or sleep. They are created by playing two slightly different frequencies in each ear, which the brain perceives as a single pulsing tone. The difference between the two frequencies determines the effect of the binaural beats on the brain.

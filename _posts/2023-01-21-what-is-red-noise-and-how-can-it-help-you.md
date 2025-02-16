@@ -8,7 +8,7 @@ app-name:  What is Red Noise and How Can It Help You?
 tweet-title:  What is Red Noise and How Can It Help You?
 tweet-description: Red noise has a power spectrum that decreases by 6.02 decibels (dB) per octave, which means that for every doubling of frequency, the power is reduced by half. This results in a sound that is dominated by low frequencies and has a deep, rumbling quality.
 date: 2023-01-21
-keywords: frequency benefits, Brain Beats, Frequencies, Pink noise, Brown Noise, Blue Noise, red noise, White Noise, Brain wave entrainment, sound therapy, Colors of noise
+keywords: frequency benefits, Brain Beats, Frequencies, Pink noise, Brown Noise, Blue Noise, red noise, White Noise, Brain wave entrainment, sound therapy, Colors of noise, red noise benefits
 ---
 
 

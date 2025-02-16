@@ -8,7 +8,7 @@ app-name: What is Pink Noise and How Can It Help You?
 tweet-title: What is Pink Noise and How Can It Help You?
 tweet-description: Pink noise is a type of sound that has equal energy per octave, meaning that it has the same amount of power in every frequency range. This makes it sound more balanced and natural than white noise, which has equal energy per frequency and sounds more hissing or static-like.
 date: 2023-01-19
-keywords: frequency benefits, Brain Beats, Frequencies, Pink noise, Brain wave entrainment, sound therapy, Colors of noise
+keywords: frequency benefits, Brain Beats, Frequencies, Pink noise, Brain wave entrainment, sound therapy, Colors of noise, pink noise benefits
 ---
 
 

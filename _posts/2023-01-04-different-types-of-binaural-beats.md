@@ -9,7 +9,7 @@ tweet-title: Different Types of Binaural Beats
 tweet-description: Different types of binaural beats are, delta waves, theta waves, alpha waves and gamma waves. Binaural beats are a form of sound wave therapy that can influence your brain activity and mental state. They are created by the brain when you listen to two tones with slightly different frequencies at the same time. 
 og-title: Different Types of Binaural Beats
 date: 2023-01-04
-keywords: Brain Beats, Frequencies, White noise, Brain wave entrainment, sound therapy, binaural beats youtube
+keywords: Brain Beats, Frequencies, Brain wave entrainment, sound therapy, binaural beats youtube, binaural beats benefits, benefits
 ---
 Binaural beats are a form of sound wave therapy that can influence your brain activity and mental state. They are created by the brain when you listen to two tones with slightly different frequencies at the same time. The brain perceives a third tone, which is the difference between the two frequencies, and synchronizes with it. This is called the frequency-following effect.
 

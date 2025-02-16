@@ -9,7 +9,7 @@ tweet-title: Listening to Frequencies
 tweet-description: One of the most popular forms of brainwave entrainment is listening to frequencies that correspond to different brainwave patterns. These frequencies are usually measured in hertz (Hz), and they range from delta (0.5-4 Hz) to gamma (40-100 Hz).
 og-title: Listening to Frequencies
 date: 2023-01-08
-keywords: theta waves, delta waves, Brain Beats, Frequencies, White noise, Brain wave entrainment, sound therapy, binaural beats youtube
+keywords: theta waves, delta waves, Brain Beats, Frequencies, White noise, Brain wave entrainment, sound therapy, binaural beats youtube, frequency benefits
 ---
 
 

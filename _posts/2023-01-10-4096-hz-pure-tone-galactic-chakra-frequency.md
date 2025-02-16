@@ -9,7 +9,7 @@ tweet-title: 4096 hz - Pure Tone Galactic Chakra Frequency
 tweet-description: If you are interested in exploring the higher realms of consciousness, you may have heard of the galactic chakra. This is the ninth chakra in the 12-chakra system, and it is located about a foot above the crown chakra. It is associated with a pure tone of 4096 hz, which is said to activate and balance this energy center.
 og-title: 1740 Hz - The Solfeggio Frequency for Upper Homes
 date: 2023-01-10
-keywords: solfeggio frequency, pure tones, theta waves, delta waves, Brain Beats, Frequencies, White noise, Brain wave entrainment, sound therapy, binaural beats youtube
+keywords: solfeggio frequency, pure tones, Brain Beats, Frequencies, Brainwave entrainment, sound therapy, binaural beats youtube, 4096 Hz frequency benefits, frequency benefits
 ---
 If you are interested in exploring the higher realms of consciousness, you may have heard of the galactic chakra. This is the ninth chakra in the 12-chakra system, and it is located about a foot above the crown chakra. It is associated with a pure tone of 4096 hz, which is said to activate and balance this energy center.
 

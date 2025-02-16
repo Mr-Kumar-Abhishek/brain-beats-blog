@@ -8,7 +8,7 @@ app-name: 11 Hz Binaural Beats Frequency Benefits
 tweet-title: 11 Hz Binaural Beats Frequency Benefits
 tweet-description: 11 Hz binaural beats can help you stay focused on a task without getting distracted or stressed. They can also enhance your cognitive performance, memory and creativity by stimulating a different way of thinking.
 date: 2023-01-13
-keywords: frequency benefits, binaural beats, 11 hz, solfeggio frequency, pure tones, theta waves, delta waves, Brain Beats, Frequencies, White noise, Brain wave entrainment, sound therapy, binaural beats youtube
+keywords: frequency benefits, binaural beats, 11 hz, solfeggio frequency, pure tones, alpha waves, Brain Beats, Frequencies, White noise, Brain wave entrainment, sound therapy, binaural beats youtube, 11 Hz binaural beats benefits
 ---
 
 Binaural beats are a type of sound therapy that involves listening to two tones with slightly different frequencies at the same time. The brain interprets the difference between the two tones as a third tone, called a binaural beat, and synchronizes its brain waves to match the frequency of the beat. This can influence the brain's state of consciousness and mood.

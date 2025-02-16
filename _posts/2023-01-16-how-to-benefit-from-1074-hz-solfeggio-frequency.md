@@ -8,7 +8,7 @@ app-name: How to Benefit from the 1074 Hz Solfeggio Frequency
 tweet-title: How to Benefit from the 1074 Hz Solfeggio Frequency
 tweet-description: If you are interested in sound healing, you may have heard of the solfeggio frequencies. These are a set of tones that are said to have various effects on the body, mind and spirit. One of these frequencies is 1074 Hz, which is associated with the upper earth chakra or global chakra.
 date: 2023-01-16
-keywords: pure tones, frequency benefits, Brain Beats, Frequencies, White noise, Brain wave entrainment, sound therapy, binaural beats youtube, global chakra, upper earth chakra, 1074 Hz
+keywords: pure tones, frequency benefits, Brain Beats, Frequencies, White noise, Brain wave entrainment, sound therapy, binaural beats youtube, global chakra, upper earth chakra, 1074 Hz, 1074 Hz benefits
 ---
 
 

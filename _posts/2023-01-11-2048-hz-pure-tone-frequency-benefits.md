@@ -8,7 +8,7 @@ app-name: 2048 Hz - Pure Tone Frequency Benefits
 tweet-title: 2048 Hz - Pure Tone Frequency Benefits
 tweet-description: Have you ever heard of the pure tone frequency of 2048 Hz? This is a special sound that can help you activate your solar chakra, also known as the stellar gateway. The solar chakra is located above your head, and it is the source of your masculine energy.
 date: 2023-01-11
-keywords: solar chakra, solfeggio frequency, pure tones, theta waves, delta waves, Brain Beats, Frequencies, White noise, Brain wave entrainment, sound therapy, binaural beats youtube
+keywords: solar chakra, solfeggio frequency, pure tones, Brain Beats, Frequencies, White noise, Brain wave entrainment, sound therapy, binaural beats youtube, 2048 Hz frequency benefits
 ---
 
 Have you ever heard of the pure tone frequency of 2048 Hz? This is a special sound that can help you activate your solar chakra, also known as the stellar gateway. The solar chakra is located above your head, and it is the source of your masculine energy. It governs your ability to live your dreams, to focus your will, and to remove any blockages that prevent you from fulfilling your purpose. It also plays an important role in shaping your destiny and divine creativity.

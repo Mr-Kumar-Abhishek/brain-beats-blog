@@ -8,7 +8,7 @@ app-name:  What is Brown Noise and How Can It Help You Sleep Better?
 tweet-title:  What is Brown Noise and How Can It Help You Sleep Better?
 tweet-description: Brown noise, or brownian noise, is a type of noise that has a power density that increases 6 dB per octave with increasing frequency. This means that it has more energy at lower frequencies and less energy at higher frequencies. The result is a deep, rumbling sound that resembles a waterfall, a strong wind, or a distant thunderstorm.
 date: 2023-01-20
-keywords: frequency benefits, Brain Beats, Frequencies, Pink noise, Brown Noise, Blue Noise, White Noise, Brain wave entrainment, sound therapy, Colors of noise
+keywords: frequency benefits, Brain Beats, Frequencies, Pink noise, Brown Noise, Blue Noise, White Noise, Brain wave entrainment, sound therapy, Colors of noise, Brown Noise Benefits
 ---
 
 If you have trouble falling asleep or staying asleep, you might have tried various methods to improve your sleep quality. Some people use meditation, aromatherapy, or melatonin supplements to relax and drift off. Others rely on sound machines or apps that play soothing sounds like rain, ocean waves, or white noise.

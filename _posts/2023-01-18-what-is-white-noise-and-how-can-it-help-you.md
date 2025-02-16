@@ -8,7 +8,7 @@ app-name: What is White Noise and How Can It Help You?
 tweet-title: What is White Noise and How Can It Help You?
 tweet-description: White noise is a type of sound that has a constant amplitude and frequency. It is called white noise because it is analogous to white light, which contains all the colors of the visible spectrum. White noise can be produced by various sources, such as fans, air conditioners, rain, or electronic devices.
 date: 2023-01-18
-keywords: frequency benefits, Brain Beats, Frequencies, White noise, Brain wave entrainment, sound therapy, Colors of noise
+keywords: frequency benefits, Brain Beats, Frequencies, White noise, Brain wave entrainment, sound therapy, Colors of noise, White Noise Benefits
 ---
 
 White noise is a type of sound that has a constant amplitude and frequency. It is called white noise because it is analogous to white light, which contains all the colors of the visible spectrum. White noise can be produced by various sources, such as fans, air conditioners, rain, or electronic devices.
