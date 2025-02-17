@@ -8,7 +8,7 @@ app-name: 1518 Hz - The Solfeggio Frequency of Universal Consciousness
 tweet-title: 1518 Hz - The Solfeggio Frequency of Universal Consciousness
 tweet-description: If you have, then you might be interested in learning about the solfeggio frequency of 1518 Hz. This is a special sound vibration that is associated with the universal chakra.
 date: 2023-02-12
-keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, galactic chakra, 1518 Hz, Brain wave entrainment, sound therapy
+keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, galactic chakra, 1518 Hz, Brain wave entrainment, sound therapy, 1518 Hz frequency benefits
 ---
 
 Have you ever wondered what it feels like to be enlightened? To experience the ultimate state of awareness and connection with the divine? To transcend the limitations of the physical world and access the higher realms of existence?

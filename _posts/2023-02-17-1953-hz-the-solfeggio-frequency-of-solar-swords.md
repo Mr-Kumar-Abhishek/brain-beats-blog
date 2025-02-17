@@ -8,7 +8,7 @@ app-name: 1953 Hz - The Solfeggio Frequency of Solar Swords
 tweet-title: 1953 Hz - The Solfeggio Frequency of Solar Swords
 tweet-description: The solar swords chakra is the chakra of warriors and fighters, who have the courage, drive and determination to realize their ideas and visions. It is the most yang or masculine chakra, and it brings the archetype of the 'father figure', who provides protection, guidance and leadership.
 date: 2023-02-17
-keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, solar swords chakra, 1953 Hz, Brain wave entrainment, sound therapy
+keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, solar swords chakra, 1953 Hz, Brain wave entrainment, sound therapy, 1953 Hz frequency benefits
 ---
 
 Have you ever heard of the solfeggio frequencies? They are a set of musical tones that are said to have healing and spiritual effects on the human body and mind. They are based on an ancient six-tone scale that was used in sacred music, such as the Gregorian chants.

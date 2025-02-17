@@ -8,7 +8,7 @@ app-name: 1407 Hz - The Solfeggio Frequency of Galactic Chakra
 tweet-title: 1407 Hz - The Solfeggio Frequency of Galactic Chakra
 tweet-description: If you answered yes to any of these questions, then you might be interested in learning about the 1407 Hz solfeggio frequency. This is a special sound vibration that is associated with the galactic chakra, also known as the eighth chakra or the soul star chakra.
 date: 2023-02-11
-keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, galactic chakra, 1407 Hz, Brain wave entrainment, sound therapy
+keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, galactic chakra, 1407 Hz, Brain wave entrainment, sound therapy, 1407 Hz frequency benefits
 ---
 
 Have you ever wondered what it would be like to transcend the limitations of space and time? To access the cosmic library of all the information that ever existed and ever will exist? To tap into the hidden powers of your mind and spirit?

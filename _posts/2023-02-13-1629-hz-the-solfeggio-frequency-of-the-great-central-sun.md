@@ -8,7 +8,7 @@ app-name: 1629 Hz - The Solfeggio Frequency of the Great Central Sun
 tweet-title: 1629 Hz - The Solfeggio Frequency of the Great Central Sun
 tweet-description: Have you ever wondered what it would be like to connect with the highest levels of consciousness and intelligence in the universe? To communicate with beings from other star systems and dimensions, and even with some super-angels? If so, you might be interested in learning about the 1629 Hz solfeggio frequency, also known as the great central sun frequency.
 date: 2023-02-13
-keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, super-solar chakra, great central sun frequency, 1629 Hz, Brain wave entrainment, sound therapy
+keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, super-solar chakra, great central sun frequency, 1629 Hz, Brain wave entrainment, sound therapy, 1629 Hz frequency benefits
 ---
 
 Have you ever wondered what it would be like to connect with the highest levels of consciousness and intelligence in the universe? To communicate with beings from other star systems and dimensions, and even with some super-angels? If so, you might be interested in learning about the 1629 Hz solfeggio frequency, also known as the great central sun frequency.

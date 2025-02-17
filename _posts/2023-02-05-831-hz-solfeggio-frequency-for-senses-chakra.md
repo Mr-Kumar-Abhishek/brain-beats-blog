@@ -8,7 +8,7 @@ app-name: 831 Hz - Solfeggio Frequency for Senses Chakra
 tweet-title: 831 Hz - Solfeggio Frequency for Senses Chakra
 tweet-description: One way to balance and activate this chakra is to listen to the solfeggio frequency of 831 Hz. This frequency helps us to awaken our senses and enhance our perception. It also helps us to connect with our inner voice and our divine guidance. It can also stimulate our creativity and imagination.
 date: 2023-02-05
-keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, senses Chakra, 831 Hz, Brain wave entrainment, sound therapy
+keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, senses Chakra, 831 Hz, Brain wave entrainment, sound therapy, 831 Hz frequency benefits
 ---
 
 Have you ever heard of the solfeggio frequencies? They are a set of tones that were used in ancient Gregorian chants and are believed to have healing and spiritual benefits. One of these frequencies is 831 Hz, which corresponds to the senses chakra.

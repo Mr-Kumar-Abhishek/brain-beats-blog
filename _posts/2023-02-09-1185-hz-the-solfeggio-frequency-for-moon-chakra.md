@@ -8,7 +8,7 @@ app-name: 1185 Hz - The Solfeggio Frequency for the Moon Chakra
 tweet-title: 1185 Hz - The Solfeggio Frequency for the Moon Chakra
 tweet-description: One of these frequencies is 1185 Hz, which is associated with the moon chakra, also known as the lunar chakra, the bindu chakra or the mouth of God. This chakra is located at the back of the head, where the skull meets the neck. It is a minor chakra that is often overlooked, but it has a powerful influence on our life.
 date: 2023-02-09
-keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, bindu Chakra, moon chakra, 1185 Hz, Brain wave entrainment, sound therapy
+keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, bindu Chakra, moon chakra, 1185 Hz, Brain wave entrainment, sound therapy, 1185 Hz frequency benefits
 ---
 
 Have you ever heard of the solfeggio frequencies? They are a set of musical tones that were originally derived from a medieval hymn and are said to have healing and spiritual benefits. Each frequency corresponds to a different aspect of our physical, mental and emotional well-being.

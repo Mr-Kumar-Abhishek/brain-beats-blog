@@ -8,7 +8,7 @@ app-name: How to Activate The Chakra of Fiery Tree with 2073 hz solfeggio freque
 tweet-title: How to Activate The Chakra of Fiery Tree with 2073 hz solfeggio frequency
 tweet-description: One of these solfeggio frequencies is 2073 Hz, which is associated with the 18th chakra, also known as the chakra of fiery tree. This is a very powerful and rare chakra that can unlock your super-creativity, love and clear guidance from higher powers.
 date: 2023-02-20
-keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, chakra of fiery tree, 2073 hz, Brain wave entrainment, sound therapy
+keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, chakra of fiery tree, 2073 hz, Brain wave entrainment, sound therapy, 2073 Hz frequency benefits
 ---
 
 If you are interested in exploring the higher dimensions of your consciousness, you may have heard of the solfeggio frequencies. These are special sound vibrations that can help you tune into different aspects of your being, such as your physical, emotional, mental and spiritual levels. 

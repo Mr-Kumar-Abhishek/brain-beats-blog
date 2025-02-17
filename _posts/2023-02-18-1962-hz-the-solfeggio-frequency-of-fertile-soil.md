@@ -8,7 +8,7 @@ app-name: 1962 Hz - The Solfeggio Frequency of Fertile Soil
 tweet-title: 1962 Hz - The Solfeggio Frequency of Fertile Soil
 tweet-description: 1962 Hz is one of the solfeggio frequencies that is not part of the original six-tone scale. It is also known as the frequency of fertile soil, because it is associated with the quantum level of genetics and archangel Metatron.
 date: 2023-02-18
-keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, chakra of fertile soil, 1962 Hz, Brain wave entrainment, sound therapy
+keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, chakra of fertile soil, 1962 Hz, Brain wave entrainment, sound therapy, 1962 Hz frequency benefits
 ---
 
 Have you ever wondered what is the meaning and significance of 1962 Hz, one of the solfeggio frequencies? In this blog post, I will explain what this frequency is, how it is related to the chakra of fertile soil, and what benefits it can bring to your life.

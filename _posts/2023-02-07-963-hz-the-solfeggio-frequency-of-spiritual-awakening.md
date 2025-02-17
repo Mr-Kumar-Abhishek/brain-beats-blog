@@ -8,7 +8,7 @@ app-name: 963 Hz - The Solfeggio Frequency of Spiritual Awakening
 tweet-title: 963 Hz - The Solfeggio Frequency of Spiritual Awakening
 tweet-description: 963 Hz is the highest of the solfeggio frequencies and is associated with the crown chakra, or sahasara chakra, which is located at the top of the head. The crown chakra is the gateway to the divine and the source of universal consciousness. It is where we connect with our higher self and our true purpose.
 date: 2023-02-07
-keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, crown Chakra, 963 Hz, Brain wave entrainment, sound therapy
+keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, crown Chakra, 963 Hz, Brain wave entrainment, sound therapy, 963 Hz frequency benefits
 ---
 
 Have you ever wondered what it would be like to connect with the spirit of the world and experience its non-vibrational energy? If you are interested in exploring the spiritual realm and awakening your crown chakra, you might want to try listening to 963 Hz, one of the solfeggio frequencies.

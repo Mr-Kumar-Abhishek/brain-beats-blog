@@ -8,7 +8,7 @@ app-name: 1782 Hz - The Solfeggio Frequency of Alchemy
 tweet-title: 1782 Hz - The Solfeggio Frequency of Alchemy
 tweet-description: Have you ever wondered what it would be like to transform yourself or your reality? To change something that you don't like or that limits you? To create something new and amazing out of thin air? If you have, then you might be interested in learning about the 1782 Hz solfeggio frequency, also known as the frequency of alchemy.
 date: 2023-02-15
-keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, chakra of alchemy, 1782 Hz, Brain wave entrainment, sound therapy
+keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, chakra of alchemy, 1782 Hz, Brain wave entrainment, sound therapy, 1782 Hz frequency benefits
 ---
 
 Have you ever wondered what it would be like to transform yourself or your reality? To change something that you don't like or that limits you? To create something new and amazing out of thin air? If you have, then you might be interested in learning about the 1782 Hz solfeggio frequency, also known as the frequency of alchemy.

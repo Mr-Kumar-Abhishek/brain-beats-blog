@@ -8,7 +8,7 @@ app-name: 1740 Hz - Solfeggio Frequency for Upper Homes Chakra
 tweet-title: 1740 Hz - Solfeggio Frequency for Upper Homes Chakra
 tweet-description: Have you ever heard of the solfeggio frequencies? They are a set of musical tones that are said to have healing and spiritual effects on the human body and mind. One of these frequencies is 1740 Hz, which is associated with the chakra of upper homes.
 date: 2023-02-14
-keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, chakra of upper-homes, great central sun frequency, 1740 Hz, Brain wave entrainment, sound therapy
+keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, chakra of upper-homes, great central sun frequency, 1740 Hz, Brain wave entrainment, sound therapy, 1740 Hz frequency benefits
 ---
 
 Have you ever heard of the solfeggio frequencies? They are a set of musical tones that are said to have healing and spiritual effects on the human body and mind. One of these frequencies is 1740 Hz, which is associated with the chakra of upper homes.

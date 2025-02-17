@@ -8,7 +8,7 @@ app-name: How to Use 1074 Hz Solfeggio Frequency to Balance Your Upper Earth Cha
 tweet-title: How to Use 1074 Hz Solfeggio Frequency to Balance Your Upper Earth Chakra
 tweet-description: If you are interested in chakra healing, you may have heard of the solfeggio frequencies. These are a set of sounds that correspond to different energy centers in the body and can help you achieve harmony and balance. One of these frequencies is 1074 Hz, which is associated with the upper earth chakra or global chakra.
 date: 2023-02-08
-keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, upper earth Chakra, 1074 Hz, Brain wave entrainment, sound therapy
+keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, upper earth Chakra, 1074 Hz, Brain wave entrainment, sound therapy, 1074 Hz frequency benefits
 ---
 
 If you are interested in chakra healing, you may have heard of the solfeggio frequencies. These are a set of sounds that correspond to different energy centers in the body and can help you achieve harmony and balance. One of these frequencies is 1074 Hz, which is associated with the upper earth chakra or global chakra.

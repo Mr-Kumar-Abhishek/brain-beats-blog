@@ -8,7 +8,7 @@ app-name: 2085 Hz - The Solfeggio Frequency of I AM
 tweet-title: 2085 Hz - The Solfeggio Frequency of I AM
 tweet-description: One way to explore these questions is to tune into the solfeggio frequency of 2085 Hz. This is a sound vibration that resonates with the one of upper chakras, the chakra of I AM. This chakra is associated with the concept of I AM, which is the essence of your connection with God.
 date: 2023-02-21
-keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, chakra of I AM, 2085 Hz, Brain wave entrainment, sound therapy
+keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, chakra of I AM, 2085 Hz, Brain wave entrainment, sound therapy, 2085 Hz frequency benefits
 ---
 
 Have you ever wondered what it means to be connected with God? How can you experience the divine presence in your life? How can you co-create your reality with the source of all that is?
