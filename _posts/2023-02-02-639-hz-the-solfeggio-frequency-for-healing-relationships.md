@@ -8,7 +8,7 @@ app-name: 639 Hz - The Solfeggio Frequency for Healing Relationships
 tweet-title: 639 Hz - The Solfeggio Frequency for Healing Relationships
 tweet-description: The 639 Hz frequency is also related to the heart chakra, or anahata chakra, which is the fourth energy center in the body. The heart chakra is responsible for love, compassion, empathy and forgiveness. When the heart chakra is balanced, we feel connected to ourselves and others, and we experience harmony and peace.
 date: 2023-02-02
-keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, heart Chakra, 639 Hz, Brain wave entrainment, sound therapy
+keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, heart Chakra, 639 Hz, Brain wave entrainment, sound therapy, 639 Hz frequency benefits
 ---
 
 
