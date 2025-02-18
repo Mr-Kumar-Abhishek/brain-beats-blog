@@ -8,7 +8,7 @@ app-name: 666 Hz - Angel Frequency - A Healing Sound for Your Mind
 tweet-title: 666 Hz - Angel Frequency - A Healing Sound for Your Mind
 tweet-description: 666 Hz is a sound frequency that is derived from the sacred numbers of the Solfeggio scale, a set of ancient tones that have been used for centuries for healing and spiritual purposes.
 date: 2023-03-02
-keywords: frequency benefits, Brain Beats, Frequencies, Angel Frequency, 666 hz, Brain wave entrainment, sound therapy
+keywords: frequency benefits, Brain Beats, Frequencies, Angel Frequency, 666 hz, Brain wave entrainment, sound therapy, 666 Hz frequency benefits
 ---
 
 You may have heard of the 666 Hz frequency and wondered what it is and how it can benefit you. Some people associate this frequency with satan or evil, but this is a misconception. In fact, 666 Hz is an angelic frequency that can help you heal your mind and balance your thoughts.

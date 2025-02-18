@@ -8,7 +8,7 @@ app-name: 222 Hz - The Angel Frequency
 tweet-title: 222 Hz - The Angel Frequency
 tweet-description: The 222 Hz frequency is one of the angelic frequencies, a set of musical tones that have been used for centuries for healing and spiritual purposes.
 date: 2023-02-26
-keywords: frequency benefits, Brain Beats, Frequencies, Angel Frequency, 222 hz, Brain wave entrainment, sound therapy
+keywords: frequency benefits, Brain Beats, Frequencies, Angel Frequency, 222 hz, Brain wave entrainment, sound therapy, 222 Hz frequency benefits
 ---
 
 Have you ever felt like you need a miracle in your life? Maybe you are struggling with your health, your relationships, or your finances. Maybe you have lost touch with your true self and your purpose. Maybe you are feeling stressed, anxious, or depressed.

@@ -8,7 +8,7 @@ app-name: 888 Hz - Angel Frequency - A Guide to Healing, Meditation and Manifest
 tweet-title: 888 Hz - Angel Frequency - A Guide to Healing, Meditation and Manifestation
 tweet-description: The 888 Hz frequency is a part of a set of frequencies that are believed to have spiritual and healing properties. It corresponds to the note B.
 date: 2023-03-04
-keywords: frequency benefits, Brain Beats, Frequencies, Angel Frequency, 888 hz, Brain wave entrainment, sound therapy
+keywords: frequency benefits, Brain Beats, Frequencies, Angel Frequency, 888 hz, Brain wave entrainment, sound therapy, 888 Hz frequency benefits
 ---
 
 Have you ever wondered what it would be like to connect with the angelic realm? To experience the divine guidance and love of your guardian angels? To tap into the infinite possibilities of the universe and manifest your dreams?
