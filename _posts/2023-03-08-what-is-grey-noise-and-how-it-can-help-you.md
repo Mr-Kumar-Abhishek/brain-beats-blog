@@ -8,7 +8,7 @@ app-name: What is Grey Noise and How Can It Help You?
 tweet-title: What is Grey Noise and How Can It Help You?
 tweet-description: Grey noise is a type of noise that has a constant power spectrum, meaning that it has the same amount of energy in every frequency band.
 date: 2023-03-08
-keywords: frequency benefits, Brain Beats, Frequencies, colors of noise, grey noise, Brain wave entrainment, sound therapy
+keywords: frequency benefits, Brain Beats, Frequencies, colors of noise, grey noise, Brain wave entrainment, sound therapy, grey noise benefits
 ---
 
 

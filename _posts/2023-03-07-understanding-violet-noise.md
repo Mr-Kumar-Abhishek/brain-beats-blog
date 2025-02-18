@@ -8,7 +8,7 @@ app-name: Understanding Violet Noise
 tweet-title: Understanding Violet Noise
 tweet-description: Violet noise, often referred to as purple noise, is an intriguing type of sound characterized by its energy distribution across frequencies.
 date: 2023-03-07
-keywords: frequency benefits, Brain Beats, Frequencies, colors of noise, violet noise, Brain wave entrainment, sound therapy
+keywords: frequency benefits, Brain Beats, Frequencies, colors of noise, violet noise, Brain wave entrainment, sound therapy, violet noise benefits
 ---
 
 

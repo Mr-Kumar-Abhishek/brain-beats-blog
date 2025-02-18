@@ -8,7 +8,7 @@ app-name: What is Blue Noise and Why is it Useful?
 tweet-title: What is Blue Noise and Why is it Useful?
 tweet-description: Blue noise is a type of noise that has more high-frequency components than low-frequency ones. It sounds like a hiss with no bass, and it has a power spectrum that increases with frequency.
 date: 2023-03-06
-keywords: frequency benefits, Brain Beats, Frequencies, colors of noise, blue noise, Brain wave entrainment, sound therapy
+keywords: frequency benefits, Brain Beats, Frequencies, colors of noise, blue noise, Brain wave entrainment, sound therapy, blue noise benefits
 ---
 
 You may have heard of white noise, which is a type of noise that has equal power at all frequencies. White noise sounds like a constant hiss or static, and it can be used to mask other sounds or create a relaxing ambience. But did you know that there are other types of noise, such as pink noise, brown noise, and blue noise? In this post, we will focus on blue noise, which is a type of noise that has more power at higher frequencies than lower ones. Blue noise sounds like a hiss with no bass, and it has a power spectrum that increases with frequency. Blue noise is named after the color of light that has a similar spectrum, which is on the higher end of the visible range.
