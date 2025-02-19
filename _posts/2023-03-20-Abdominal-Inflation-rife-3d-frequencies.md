@@ -8,7 +8,7 @@ app-name: Abdominal Inflammation Rife 3D frequencies
 tweet-title: Abdominal Inflammation Rife 3D frequencies
 tweet-description: Abdominal inflammation is a condition that causes swelling and pain in the abdomen. It can be caused by various factors, such as infections, allergies, autoimmune diseases, or injuries. Abdominal inflammation can affect the digestive system, the reproductive system, or other organs in the abdomen.
 date: 2023-03-20
-keywords: frequency benefits, Brain Beats, Frequencies, Abdominal Inflammation Rife 3D frequencies, Brain wave entrainment, sound therapy
+keywords: frequency benefits, Brain Beats, Frequencies, Abdominal Inflammation Rife 3D frequencies, Brain wave entrainment, sound therapy, Abdominal Inflammation Rife 3D frequencies benefits, rife frequency
 ---
 
 Abdominal inflammation is a condition that causes swelling and pain in the abdomen. It can be caused by various factors, such as infections, allergies, autoimmune diseases, or injuries. Abdominal inflammation can affect the digestive system, the reproductive system, or other organs in the abdomen.

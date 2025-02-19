@@ -8,7 +8,7 @@ app-name: How to Use 210.42 Hz Pure Tone for Healing and Balancing Your Svadisth
 tweet-title: How to Use 210.42 Hz Pure Tone for Healing and Balancing Your Svadisthan Chakra
 tweet-description: If you are looking for a natural way to enhance your well-being, you might want to try listening to a 210.42 Hz pure tone. This is the frequency of the synodic moon, which is the time it takes for the moon to complete one orbit around the Earth.
 date: 2023-03-18
-keywords: frequency benefits, Brain Beats, Frequencies, sacral chakra, 210.42 hz, pure tone, Brain wave entrainment, sound therapy
+keywords: frequency benefits, Brain Beats, Frequencies, sacral chakra, 210.42 hz, pure tone, Brain wave entrainment, sound therapy, 210.42 Hz frequency benefits
 ---
 
 If you are looking for a natural way to enhance your well-being, you might want to try listening to a 210.42 Hz pure tone. This is the frequency of the synodic moon, which is the time it takes for the moon to complete one orbit around the Earth. The musical note that corresponds to this frequency is G#, and the aura color is orange.

@@ -8,7 +8,7 @@ app-name: 144 Hz - Pure Tone - A Natural Remedy for Headaches and Migraine
 tweet-title: 144 Hz - Pure Tone - A Natural Remedy for Headaches and Migraine
 tweet-description: 144 Hz is the frequency of the pure tone that we are interested in. It is equivalent to the note F# in the musical scale, and it is slightly higher than the average human voice.
 date: 2023-03-15
-keywords: frequency benefits, Brain Beats, Frequencies, headaches, migranes, 144 hz, pure tone, Brain wave entrainment, sound therapy
+keywords: frequency benefits, Brain Beats, Frequencies, headaches, migranes, 144 hz, pure tone, Brain wave entrainment, sound therapy, 144 Hz frequency benefits
 ---
 
 If you suffer from frequent or severe headaches and migraines, you know how debilitating they can be. You may have tried various medications, therapies, or lifestyle changes, but nothing seems to work. Or maybe you are worried about the side effects or long-term consequences of taking drugs for your pain.

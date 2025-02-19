@@ -8,7 +8,7 @@ app-name: Abscesses 1 Rife 3D Frequencies - A Guide for Mental Relief
 tweet-title: Abscesses 1 Rife 3D Frequencies - A Guide for Mental Relief
 tweet-description: If you suffer from abscesses, you know how painful and frustrating they can be. Abscesses are pus-filled infections that can occur anywhere in the body, but are most common in the skin, gums, or teeth.
 date: 2023-03-23
-keywords: frequency benefits, Brain Beats, Frequencies, Abscesses 1 Rife 3D Frequencies, Brain wave entrainment, sound therapy
+keywords: frequency benefits, Brain Beats, Frequencies, Abscesses 1 Rife 3D Frequencies, Brain wave entrainment, sound therapy, Abscesses 1 Rife 3D Frequencies benefits, rife frequency
 ---
 
 
