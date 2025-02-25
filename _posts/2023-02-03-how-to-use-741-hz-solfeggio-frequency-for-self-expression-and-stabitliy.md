@@ -8,7 +8,7 @@ app-name: How to Use 741 Hz Solfeggio Frequency for Self-Expression and Stabilit
 tweet-title: How to Use 741 Hz Solfeggio Frequency for Self-Expression and Stability
 tweet-description: 741 Hz is the fifth tone of the solfeggio scale, and it corresponds to the note F#. It is also called the frequency of self-expression, because it helps us to express ourselves freely and authentically. It also helps us to cleanse our cells from toxins and electromagnetic radiation, as well as to solve problems and overcome challenges.
 date: 2023-02-03
-keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, throat Chakra, 741 Hz, Brain wave entrainment, sound therapy, 741 Hz frequency benefits
+keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, throat Chakra, 741 Hz, brainwave entrainment, sound therapy, 741 Hz frequency benefits
 ---
 
 Have you ever heard of solfeggio frequencies? They are a set of musical tones that are said to have healing and spiritual benefits. One of them is 741 Hz, which is also known as the frequency of self-expression.

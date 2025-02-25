@@ -8,7 +8,7 @@ app-name: 396 Hz - The Solfeggio Frequency for Liberation from Guilt and Fear
 tweet-title: 396 Hz - The Solfeggio Frequency for Liberation from Guilt and Fear
 tweet-description: By listening to the 396 Hz solfeggio frequency, you can free yourself from these negative emotions and create a positive mindset that allows you to pursue your goals with courage and determination.
 date: 2023-01-26
-keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, Root Chakra, 396 Hz, Brain wave entrainment, sound therapy, Colors of noise, 396 Hz frequency benefits
+keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, Root Chakra, 396 Hz, brainwave entrainment, sound therapy, Colors of noise, 396 Hz frequency benefits
 ---
 
 Have you ever felt guilty or fearful about something that you did or didn't do? Have you ever wondered how to overcome these negative emotions and achieve your goals more easily? If so, you might want to try listening to the 396 Hz solfeggio frequency, a sound that can help you release guilt and fear and activate your root chakra.

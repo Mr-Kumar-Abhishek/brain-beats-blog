@@ -8,7 +8,7 @@ app-name: How to Use 126.22 Hz Pure Tone for Manipura Chakra Meditation
 tweet-title: How to Use 126.22 Hz Pure Tone for Manipura Chakra Meditation
 tweet-description: One way to balance and activate the Manipura chakra is to use sound healing with a pure tone of 126.22 Hz. This frequency resonates with the vibration of the Manipura chakra, and it can help to clear any blockages and restore harmony in this energy center.
 date: 2023-03-13
-keywords: frequency benefits, Brain Beats, Frequencies, manipura chakra, solar plexus chakra, pure tone, Brain wave entrainment, sound therapy, 126.22 Hz frequency benefits
+keywords: frequency benefits, Brain Beats, Frequencies, manipura chakra, solar plexus chakra, pure tone, brainwave entrainment, sound therapy, 126.22 Hz frequency benefits
 ---
 
 

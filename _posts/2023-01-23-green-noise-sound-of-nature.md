@@ -8,7 +8,7 @@ app-name: Green Noise - The Sound of Nature
 tweet-title: Green Noise - The Sound of Nature
 tweet-description: Green noise is a type of sound that simulates the spectra of natural settings without human-made noise. It is the mid-midfrequency component of white noise, which is a random signal that contains equal power across all frequencies.
 date: 2023-01-23
-keywords: frequency benefits, Brain Beats, Frequencies, green noise, Black Noise, Pink noise, Brown Noise, Blue Noise, red noise, White Noise, Brain wave entrainment, sound therapy, Colors of noise, green noise benefits
+keywords: frequency benefits, Brain Beats, Frequencies, green noise, Black Noise, Pink noise, Brown Noise, Blue Noise, red noise, White Noise, brainwave entrainment, sound therapy, Colors of noise, green noise benefits
 ---
 
 Have you ever wondered what the natural world sounds like without human interference? How would it feel to listen to the pure sounds of the wind, the water, the birds and the insects? If you are curious about this, you might want to try green noise.

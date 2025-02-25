@@ -8,7 +8,7 @@ app-name: How to Use Rife 3D Frequencies for Acute Pain Relief
 tweet-title: How to Use Rife 3D Frequencies for Acute Pain Relief
 tweet-description: Acute pain is a type of pain that lasts for a short time and usually has a clear cause, such as an injury, infection, or surgery. Acute pain can be mild, moderate, or severe, and it can affect any part of the body.
 date: 2023-04-02
-keywords: frequency benefits, Brain Beats, Frequencies, Acute Pain, Brain wave entrainment, sound therapy
+keywords: frequency benefits, Brain Beats, Frequencies, Acute Pain, brainwave entrainment, sound therapy, rife frequency
 ---
 
 

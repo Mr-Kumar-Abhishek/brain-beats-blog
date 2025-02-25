@@ -8,7 +8,7 @@ app-name: The Soothing Power of 259 Hz - A Pure Tone for Taurus Meditation
 tweet-title: The Soothing Power of 259 Hz - A Pure Tone for Taurus Meditation
 tweet-description: The 259 Hz tone complements traits of taurus by promoting a sense of inner peace and well-being. 
 date: 2023-04-23
-keywords: frequency benefits, Brain Beats, Frequencies, 259 hz, Brain wave entrainment, sound therapy, taurus, meditation, healing
+keywords: frequency benefits, Brain Beats, Frequencies, 259 hz, Brainwave entrainment, sound therapy, taurus, meditation, healing, pure tones
 ---
 
 

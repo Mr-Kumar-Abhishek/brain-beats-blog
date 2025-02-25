@@ -8,7 +8,7 @@ app-name: 4096 Hz Pure Tone - 'Galactic' Chakra
 tweet-title: 4096 Hz Pure Tone - 'Galactic' Chakra
 tweet-description: The Galactic chakra is said to be the gateway to your higher self, your soul, and your divine purpose. It allows you to access the wisdom and guidance of the higher realms, such as your spirit guides, angels, and ascended masters.
 date: 2023-01-14
-keywords: 4096 hz, galactic chakra, pure tones, frequency benefits, Brain Beats, Frequencies, White noise, Brain wave entrainment, sound therapy, binaural beats youtube, 4096 hz pure tone benefits
+keywords: 4096 hz, galactic chakra, pure tones, frequency benefits, Brain Beats, Frequencies, White noise, brainwave entrainment, sound therapy, binaural beats youtube, 4096 hz pure tone benefits
 ---
 
 Have you ever wondered what it would be like to tune into the frequency of the galaxy? To feel the cosmic vibrations that connect us all to the source of creation? If so, you might be interested in trying out the 4096 Hz pure tone, also known as the 'Galactic' chakra.

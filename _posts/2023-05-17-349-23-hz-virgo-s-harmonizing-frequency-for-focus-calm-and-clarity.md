@@ -8,7 +8,7 @@ app-name: 349.23 Hz - Virgo’s Harmonizing Frequency for Focus, Calm, and Clari
 tweet-title: 349.23 Hz - Virgo’s Harmonizing Frequency for Focus, Calm, and Clarity
 tweet-description: Ruled by Mercury, Virgos thrive on order, analysis, and productivity. However, their sharp minds can lead to overthinking or burnout. The 349.23 Hz tone acts as a stabilizing force, helping Virgos balance their intellectual rigor with moments of restorative calm.
 date: 2023-05-17
-keywords: frequency benefits, Brain Beats, Frequencies, Brain wave entrainment, sound therapy, pure tone, 349.23 Hz, Virgo, Astrology
+keywords: frequency benefits, Brain Beats, Frequencies, brainwave entrainment, sound therapy, pure tone, 349.23 Hz, Virgo, Astrology
 ---    
 
 

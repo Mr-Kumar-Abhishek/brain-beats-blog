@@ -8,7 +8,7 @@ app-name: Aconite Rife 3D Frequencies for Mental Relief
 tweet-title: Aconite Rife 3D Frequencies for Mental Relief
 tweet-description: Aconite is a plant that has been used in traditional medicine for various purposes, such as stimulating lymphocyte production, reducing inflammation, and relieving pain.
 date: 2023-03-27
-keywords: frequency benefits, Brain Beats, Frequencies, Aconite 3D frequencies, Brain wave entrainment, sound therapy
+keywords: frequency benefits, Brain Beats, Frequencies, Aconite 3D frequencies, brainwave entrainment, sound therapy, rife frequency
 ---
 
 Aconite is a plant that has been used in traditional medicine for various purposes, such as stimulating lymphocyte production, reducing inflammation, and relieving pain. However, aconite can also be toxic and cause serious side effects if taken in large doses or for a long time. Therefore, it is not recommended to use aconite without proper guidance from a qualified practitioner.

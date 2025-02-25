@@ -8,7 +8,7 @@ app-name: 314 Hz Pure Tone for Leo Zodiac - Ignite Your Inner Sun with Sound Hea
 tweet-title: 314 Hz Pure Tone for Leo Zodiac - Ignite Your Inner Sun with Sound Healing
 tweet-description: The 314 Hz pure tone, crafted for Leos (V2), is your sonic ally for balancing fiery energy, deepening meditation, and recharging your radiant spirit.
 date: 2023-05-06
-keywords: frequency benefits, Brain Beats, Frequencies, Brain wave entrainment, sound therapy, 314 Hz, meditation, healing
+keywords: frequency benefits, Brain Beats, Frequencies, brainwave entrainment, sound therapy, 314 Hz, meditation, healing, pure tones
 ---
 
 **Channel the roar of your zodiac sign with a frequency made for royalty.**  

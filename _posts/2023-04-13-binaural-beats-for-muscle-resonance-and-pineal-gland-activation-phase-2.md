@@ -8,7 +8,7 @@ app-name: Binaural Beats for Organ and Muscle Resonances - Phase 1
 tweet-title: Binaural beats for Muscle Resonance And Pineal Gland Activation - Phase 2
 tweet-description: At an ultra-low frequency of 0.1 Hz, we enter the realm of Epsilon brainwaves with healing of 285 hz.
 date: 2023-04-13
-keywords: frequency benefits, Brain Beats, Frequencies, DMT, organ, muscle resonances, Brain wave entrainment, sound therapy
+keywords: frequency benefits, Brain Beats, Frequencies, DMT, organ, muscle resonances, brainwave entrainment, sound therapy, binaural beats
 ---
 
 ## *Unlock Your Potential with 0.1 hz binaural beats over 285 Hz Frequency*

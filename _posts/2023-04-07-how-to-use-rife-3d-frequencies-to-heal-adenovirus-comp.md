@@ -8,7 +8,7 @@ app-name: How to Use Rife 3D Frequencies to Heal Adenovirus Comp
 tweet-title: How to Use Rife 3D Frequencies to Heal Adenovirus Comp
 tweet-description: Adenovirus comp is a term used to describe a complex of adenoviruses, which are a group of viruses that can cause respiratory, gastrointestinal, and eye infections.
 date: 2023-04-07
-keywords: frequency benefits, Brain Beats, Frequencies, Adenovirus comp, Brain wave entrainment, sound therapy
+keywords: frequency benefits, Brain Beats, Frequencies, Adenovirus comp, brainwave entrainment, sound therapy, rife frequency
 ---
 
 Adenovirus comp is a term used to describe a complex of adenoviruses, which are a group of viruses that can cause respiratory, gastrointestinal, and eye infections. Adenoviruses are very common and can affect anyone, but they are more likely to cause serious illness in people with weakened immune systems, such as children, elderly, or transplant recipients.

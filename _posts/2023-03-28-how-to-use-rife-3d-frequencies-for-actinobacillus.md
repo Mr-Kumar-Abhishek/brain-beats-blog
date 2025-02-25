@@ -8,7 +8,7 @@ app-name: How to Use Rife 3D Frequencies for Actinobacillus
 tweet-title: How to Use Rife 3D Frequencies for Actinobacillus
 tweet-description: Actinobacillus is a genus of bacteria that can cause various infections in mammals, such as respiratory, urinary, and reproductive diseases.
 date: 2023-03-28
-keywords: frequency benefits, Brain Beats, Frequencies, Actinobacillus 3D frequencies, Brain wave entrainment, sound therapy
+keywords: frequency benefits, Brain Beats, Frequencies, Actinobacillus 3D frequencies, brainwave entrainment, sound therapy, rife frequency
 ---
 
 Actinobacillus is a genus of bacteria that can cause various infections in mammals, such as respiratory, urinary, and reproductive diseases. Some of the most common species of Actinobacillus are A. actinomycetemcomitans, A. pleuropneumoniae, A. suis, and A. equuli. These bacteria can be difficult to treat with conventional antibiotics, and may lead to chronic or fatal conditions.

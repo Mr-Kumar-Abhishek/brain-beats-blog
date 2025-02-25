@@ -8,7 +8,7 @@ app-name: How to Use Rife 3D Frequencies for Adenovirus HC
 tweet-title: How to Use Rife 3D Frequencies for Adenovirus HC
 tweet-description: Adenovirus HC is a common viral infection that causes respiratory symptoms such as cough, sore throat, fever, and runny nose. It can also affect the eyes, causing conjunctivitis or pink eye. Adenovirus HC is usually mild and self-limiting, but it can sometimes lead to complications such as pneumonia, bronchitis, or ear infections.
 date: 2023-04-08
-keywords: frequency benefits, Brain Beats, Frequencies, Adenovirus HC, Brain wave entrainment, sound therapy
+keywords: frequency benefits, Brain Beats, Frequencies, Adenovirus HC, brainwave entrainment, sound therapy, rife frequency
 ---
 
 

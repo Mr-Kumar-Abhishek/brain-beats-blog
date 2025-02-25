@@ -8,7 +8,7 @@ app-name: Exploring the Effects of 60 Hz Binaural Beats on Cognitive Abilities
 tweet-title: Exploring the Effects of 60 Hz Binaural Beats on Cognitive Abilities
 tweet-description: This article explores the theoretical underpinnings and existing research on the effects of 60 Hz binaural beats on cognitive abilities, highlighting the need for empirical studies and presenting a conceptual framework for future research. 
 date: 2023-05-09
-keywords: frequency benefits, Brain Beats, Frequencies, Brain wave entrainment, sound therapy, 60 Hz, cognition, intelligence
+keywords: frequency benefits, Brain Beats, Frequencies, brainwave entrainment, sound therapy, 60 Hz, cognition, intelligence, binaural beats
 ---  
 
 ## Abstract

@@ -8,7 +8,7 @@ app-name: 444 Hz - Angel Frequency
 tweet-title: 444 Hz - Angel Frequency
 tweet-description: One of the most popular and widely used frequencies in music is 444 Hz, also known as the angel frequency. This frequency is said to have many spiritual and healing benefits, as well as being pleasing to the ear and the mind.
 date: 2023-02-28
-keywords: frequency benefits, Brain Beats, Frequencies, Angel Frequency, 444 hz, Brain wave entrainment, sound therapy, 444 Hz frequency benefits
+keywords: frequency benefits, Brain Beats, Frequencies, Angel Frequency, 444 hz, brainwave entrainment, sound therapy, 444 Hz frequency benefits
 ---
 
 Have you ever wondered why some music sounds more heavenly than others? Why some songs make you feel closer to the divine? The answer may lie in the frequency of the sound waves, or the pitch of the notes. 

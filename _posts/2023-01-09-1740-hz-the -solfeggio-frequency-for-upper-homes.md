@@ -9,7 +9,7 @@ tweet-title: 1740 Hz - The Solfeggio Frequency for Upper Homes
 tweet-description: Have you ever heard of the solfeggio frequencies? They are a set of musical tones that are said to have healing and spiritual effects on the human body and mind. One of these frequencies is 1740 Hz, which is associated with the chakra of upper homes.. 
 og-title: 1740 Hz - The Solfeggio Frequency for Upper Homes
 date: 2023-01-09
-keywords: solfeggio frequency, pure tones, theta waves, delta waves, Brain Beats, Frequencies, White noise, Brain wave entrainment, sound therapy, binaural beats youtube, frequency benefits, 1740 hz frequency benefits
+keywords: solfeggio frequency, pure tones, theta waves, delta waves, Brain Beats, Frequencies, White noise, brainwave entrainment, sound therapy, binaural beats youtube, frequency benefits, 1740 hz frequency benefits
 ---
 
 Have you ever heard of the solfeggio frequencies? They are a set of musical tones that are said to have healing and spiritual effects on the human body and mind. One of these frequencies is 1740 Hz, which is associated with the chakra of upper homes.

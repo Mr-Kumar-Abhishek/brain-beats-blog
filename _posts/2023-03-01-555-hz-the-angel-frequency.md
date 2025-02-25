@@ -8,7 +8,7 @@ app-name: 555 Hz - The Angel Frequency
 tweet-title: 555 Hz - The Angel Frequency
 tweet-description: The 555 Hz frequency is one of the many frequencies that have been used for healing and spiritual purposes since ancient times. The 555 Hz frequency is associated with the angel number 555, which is a sign of change, transformation and divine guidance.
 date: 2023-03-01
-keywords: frequency benefits, Brain Beats, Frequencies, Angel Frequency, 555 hz, Brain wave entrainment, sound therapy, 555 Hz frequency benefits
+keywords: frequency benefits, Brain Beats, Frequencies, Angel Frequency, 555 hz, brainwave entrainment, sound therapy, 555 Hz frequency benefits
 ---
 
 Have you ever felt like you needed a change in your life? A new direction, a new purpose, a new vision? If you have, then you might be interested in learning about the 555 Hz frequency, also known as the angel frequency.

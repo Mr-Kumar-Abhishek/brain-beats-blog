@@ -8,7 +8,7 @@ app-name: Exploring the 256 Hz Frequency - A Journey Through Sound Healing and t
 tweet-title: Exploring the 256 Hz Frequency - A Journey Through Sound Healing and the Root Chakra
 tweet-description: The 256 Hz frequency is said to resonate with the root chakra's energy, located at the base of the spine.
 date: 2023-04-22
-keywords: frequency benefits, Brain Beats, Frequencies, 256 hz, Brain wave entrainment, sound therapy, root chakra, muladhara chakra, healing
+keywords: frequency benefits, Brain Beats, Frequencies, 256 hz, Brainwave entrainment, sound therapy, root chakra, muladhara chakra, healing, pure tones
 ---
 
 

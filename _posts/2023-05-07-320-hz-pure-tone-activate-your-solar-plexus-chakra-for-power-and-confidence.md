@@ -8,7 +8,7 @@ app-name: 320 Hz Pure Tone - Activate Your Solar Plexus Chakra for Power & Confi
 tweet-title: 320 Hz Pure Tone - Activate Your Solar Plexus Chakra for Power & Confidence
 tweet-description: The 320 Hz pure tone is a vibrational key to balancing your navel chakra (solar plexus), the energy center that fuels your courage, drive, and sense of self.
 date: 2023-05-07
-keywords: frequency benefits, Brain Beats, Frequencies, Brain wave entrainment, sound therapy, 320 Hz, meditation, healing, solar plexus, chakra
+keywords: frequency benefits, Brain Beats, Frequencies, brainwave entrainment, sound therapy, 320 Hz, meditation, healing, solar plexus, chakra, pure tones
 ---
 
 **Unlock your inner fire with the frequency of personal empowerment.**  

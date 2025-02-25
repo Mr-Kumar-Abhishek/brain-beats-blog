@@ -8,7 +8,7 @@ app-name: What is Turquoise Noise and How to Use It?
 tweet-title: What is Turquoise Noise and How to Use It?
 tweet-description: Turquoise noise is a type of noise that has a flat frequency spectrum, except for a narrow band of frequencies that are boosted or attenuated. It is similar to white noise, which has equal power across all frequencies, but with a slight coloration. 
 date: 2023-03-12
-keywords: frequency benefits, Brain Beats, Frequencies, colors of noise, turquoise noise, Brain wave entrainment, sound therapy, turquoise noise benefits
+keywords: frequency benefits, Brain Beats, Frequencies, colors of noise, turquoise noise, brainwave entrainment, sound therapy, turquoise noise benefits
 ---
 
 Noise is a term that describes random or unwanted sound. Noise can have different characteristics depending on its frequency distribution, or how the power of the sound varies across different pitches. In this blog post, we will explore one type of noise that has a unique and interesting property: turquoise noise.

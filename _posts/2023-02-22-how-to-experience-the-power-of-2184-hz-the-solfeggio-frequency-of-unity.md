@@ -8,7 +8,7 @@ app-name: How to Experience the Power of 2184 Hz - The Solfeggio Frequency of Un
 tweet-title: How to Experience the Power of 2184 Hz - The Solfeggio Frequency of Unity
 tweet-description: 2184 Hz is not just a frequency for seeing. It is also a frequency for becoming. When we listen to 2184 Hz, we are not only opening our third eye, but also aligning ourselves with the universal wisdom and intelligence that pervades all creation.
 date: 2023-02-22
-keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, ajna chakra, 3rd eye, 2184 Hz, Brain wave entrainment, sound therapy, 2184 Hz frequency benefits
+keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, ajna chakra, 3rd eye, 2184 Hz, brainwave entrainment, sound therapy, 2184 Hz frequency benefits
 ---
 
 If you are familiar with the concept of solfeggio frequencies, you may know that they are a set of sound vibrations that correspond to different aspects of our physical, mental, emotional and spiritual well-being. Each frequency has a specific effect on our energy field and can help us heal, balance and harmonize ourselves.

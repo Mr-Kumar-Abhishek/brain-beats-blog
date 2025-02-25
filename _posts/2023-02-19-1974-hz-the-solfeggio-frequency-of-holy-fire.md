@@ -8,7 +8,7 @@ app-name: 1974 Hz - The Solfeggio Frequency of Holy Fire
 tweet-title: 1974 Hz - The Solfeggio Frequency of Holy Fire
 tweet-description: One of the solfeggio frequencies is 1974 Hz, which is associated with the chakra of holy fire. This is a very special and powerful chakra that is not often talked about. It is located above the chakra of fertile soil, which is few feets above the head.
 date: 2023-02-19
-keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, chakra of holy fire, 1974 Hz, Brain wave entrainment, sound therapy, 1974 Hz frequency benefits
+keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, chakra of holy fire, 1974 Hz, brainwave entrainment, sound therapy, 1974 Hz frequency benefits
 ---
 
 Have you ever heard of the solfeggio frequencies? They are a set of musical tones that are said to have healing and spiritual properties. Each frequency corresponds to a different aspect of our being, such as physical, emotional, mental, or spiritual.

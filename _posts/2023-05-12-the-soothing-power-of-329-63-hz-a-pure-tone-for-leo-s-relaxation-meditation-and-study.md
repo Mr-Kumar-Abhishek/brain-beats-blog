@@ -8,7 +8,7 @@ app-name: The Soothing Power of 329.63 Hz - A Pure Tone for Leo’s Relaxation, 
 tweet-title: The Soothing Power of 329.63 Hz - A Pure Tone for Leo’s Relaxation, Meditation, and Study
 tweet-description: In astrology, Leos are known for their vibrant energy, creativity, and leadership qualities. However, even the boldest Lions need moments of calm to recharge. The 329.63 Hz tone aligns with Leo’s fiery spirit by offering a grounding yet uplifting auditory experience. 
 date: 2023-05-12
-keywords: frequency benefits, Brain Beats, Frequencies, Brain wave entrainment, sound therapy, pure tone, 329.63 Hz
+keywords: frequency benefits, Brain Beats, Frequencies, brainwave entrainment, sound therapy, pure tone, 329.63 Hz
 ---    
 
 ## What is 329.63 Hz?  

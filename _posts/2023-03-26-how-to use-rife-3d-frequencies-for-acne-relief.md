@@ -8,7 +8,7 @@ app-name: How to Use Rife 3D Frequencies for Acne Relief
 tweet-title: How to Use Rife 3D Frequencies for Acne Relief
 tweet-description: Acne is a common skin condition that affects many people, especially teenagers and young adults. It can cause inflammation, redness, pimples, and scars on the face and other parts of the body. Acne can also affect one's self-esteem and mental health.
 date: 2023-03-26
-keywords: frequency benefits, Brain Beats, Frequencies, Acne Rife 3D frequencies, Brain wave entrainment, sound therapy
+keywords: frequency benefits, Brain Beats, Frequencies, Acne Rife 3D frequencies, brainwave entrainment, sound therapy, rife frequency 
 ---
 
 Acne is a common skin condition that affects many people, especially teenagers and young adults. It can cause inflammation, redness, pimples, and scars on the face and other parts of the body. Acne can also affect one's self-esteem and mental health.

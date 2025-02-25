@@ -8,7 +8,7 @@ app-name: Exploring the Astral Plane -A Guide to Binaural Beats and Meditation [
 tweet-title: Exploring the Astral Plane -A Guide to Binaural Beats and Meditation [updated]
 tweet-description: In the realm of astral projection, binaural beats and Solfeggio frequencies are tools that can potentially assist individuals in achieving the various stages of this experience. 
 date: 2023-04-21
-keywords: frequency benefits, Brain Beats, Frequencies, 4 hz, 6.30 hz, 7 hz, 27 hz, 63 hz , 70 hz, Brain wave entrainment, sound therapy, Astral projection, Astral realm, healing
+keywords: frequency benefits, Brain Beats, Frequencies, 4 hz, 6.30 hz, 7 hz, 27 hz, 63 hz , 70 hz, brainwave entrainment, sound therapy, Astral projection, Astral realm, healing, binaural beats
 ---
 
 

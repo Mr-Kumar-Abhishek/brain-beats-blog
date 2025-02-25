@@ -8,7 +8,7 @@ app-name: The Healing Power of 285 Hz - A Journey to Emotional Health and Creati
 tweet-title: The Healing Power of 285 Hz - A Journey to Emotional Health and Creative Expression
 tweet-description: One such source of healing is the resonant frequency of 285 Hz. This pure tone, part of the solfeggio frequencies, offers a profound connection to our inner selves, specifically targeting the sacral chakra.
 date: 2023-04-29
-keywords: frequency benefits, Brain Beats, Frequencies, 285 hz, Brain wave entrainment, sound therapy, gemini, meditation, healing
+keywords: frequency benefits, Brain Beats, Frequencies, 285 hz, Brainwave entrainment, sound therapy, gemini, meditation, healing, pure tones
 ---
 
 The journey to emotional well-being and creative brilliance can often be found in the unlikeliest of places. One such source of healing is the resonant frequency of 285 Hz. This pure tone, part of the solfeggio frequencies, offers a profound connection to our inner selves, specifically targeting the sacral chakra. Join us as we explore the significance of 285 Hz, its relationship with the sacral chakra, and how it can enhance our emotional and creative lives.

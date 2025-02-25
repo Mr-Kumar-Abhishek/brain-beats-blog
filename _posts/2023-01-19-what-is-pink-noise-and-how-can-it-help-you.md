@@ -8,7 +8,7 @@ app-name: What is Pink Noise and How Can It Help You?
 tweet-title: What is Pink Noise and How Can It Help You?
 tweet-description: Pink noise is a type of sound that has equal energy per octave, meaning that it has the same amount of power in every frequency range. This makes it sound more balanced and natural than white noise, which has equal energy per frequency and sounds more hissing or static-like.
 date: 2023-01-19
-keywords: frequency benefits, Brain Beats, Frequencies, Pink noise, Brain wave entrainment, sound therapy, Colors of noise, pink noise benefits
+keywords: frequency benefits, Brain Beats, Frequencies, Pink noise, brainwave entrainment, sound therapy, Colors of noise, pink noise benefits
 ---
 
 
@@ -26,7 +26,7 @@ Pink noise has been shown to have various benefits for your health and well-bein
 
 - **It can improve your sleep quality and duration.** Studies have found that listening to pink noise while sleeping can enhance your deep sleep stages, which are crucial for your physical and mental recovery. Pink noise can also help you fall asleep faster and stay asleep longer by blocking out disturbing noises and creating a relaxing environment.
 - **It can reduce your stress and anxiety levels.** Pink noise can have a calming effect on your nervous system, lowering your blood pressure, heart rate, and breathing rate. It can also help you cope with negative emotions and thoughts by distracting you from them and providing you with a soothing stimulus.
-- **It can enhance your memory and cognition.** Research has suggested that pink noise can boost your memory and learning abilities by stimulating your brain waves and synchronizing them with your sleep cycles. Pink noise can also improve your concentration and focus by reducing distractions and background noises.
+- **It can enhance your memory and cognition.** Research has suggested that pink noise can boost your memory and learning abilities by stimulating your brainwaves and synchronizing them with your sleep cycles. Pink noise can also improve your concentration and focus by reducing distractions and background noises.
 - **It can treat hyperacusis and tinnitus.** Hyperacusis is a condition where you become overly sensitive to sounds, making them seem louder and more painful than they are. Tinnitus is a condition where you hear ringing or buzzing sounds in your ears that are not caused by external sources. Both conditions can interfere with your daily life and cause distress. Pink noise can help you cope with these conditions by masking the unwanted sounds and desensitizing your ears to them.
 
 ## How to Use Pink Noise?

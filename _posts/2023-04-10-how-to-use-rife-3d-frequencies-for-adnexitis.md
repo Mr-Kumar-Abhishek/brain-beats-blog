@@ -8,7 +8,7 @@ app-name: How to Use Rife 3D Frequencies for Adnexitis
 tweet-title: How to Use Rife 3D Frequencies for Adnexitis
 tweet-description: Adnexitis is a condition that causes inflammation and pain in the ovaries or Fallopian tubes. It can be caused by infections, endometriosis, tumors, or other factors. Adnexitis can affect fertility and increase the risk of complications such as ectopic pregnancy or pelvic abscess.
 date: 2023-04-10
-keywords: frequency benefits, Brain Beats, Frequencies, Adnexitis, Brain wave entrainment, sound therapy
+keywords: frequency benefits, Brain Beats, Frequencies, Adnexitis, brainwave entrainment, sound therapy, rife frequency
 ---
 
 Adnexitis is a condition that causes inflammation and pain in the ovaries or Fallopian tubes. It can be caused by infections, endometriosis, tumors, or other factors. Adnexitis can affect fertility and increase the risk of complications such as ectopic pregnancy or pelvic abscess.

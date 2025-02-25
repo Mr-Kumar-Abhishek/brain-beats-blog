@@ -8,7 +8,7 @@ app-name: Most common 1 Rife 3D frequencies
 tweet-title: Most common 1 Rife 3D frequencies
 tweet-description: The most common 1 Rife 3D frequencies preset is a set of nine frequencies that are commonly used for various health issues.
 date: 2023-03-19
-keywords: frequency benefits, Brain Beats, Frequencies, Most common 1 Rife 3D frequencies, Brain wave entrainment, sound therapy, common 1 Rife 3D frequency benefits, rife frequency
+keywords: frequency benefits, Brain Beats, Frequencies, Most common 1 Rife 3D frequencies, brainwave entrainment, sound therapy, common 1 Rife 3D frequency benefits, rife frequency
 ---
 
 If you are looking for a simple and effective way to use Rife frequencies, you might want to try the most common 1 Rife 3D frequencies preset. This preset is designed to cover a wide range of health issues and boost your immune system. In this blog post, I will explain what Rife frequencies are, how they work, and how to use this preset.

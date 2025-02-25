@@ -8,7 +8,7 @@ app-name: How to Use Rife 3D Frequencies for Adenoma Cervical
 tweet-title: How to Use Rife 3D Frequencies for Adenoma Cervical
 tweet-description: One of the conditions that Rife 3D frequencies can help with is adenoma cervical, which is a type of epithelial tumor of the cervix that can be either benign or malignant.
 date: 2023-04-04
-keywords: frequency benefits, Brain Beats, Frequencies, Adenoma Cervical, Brain wave entrainment, sound therapy
+keywords: frequency benefits, Brain Beats, Frequencies, Adenoma Cervical, brainwave entrainment, sound therapy, rife frequency
 ---
 
 Rife 3D frequencies are a type of sound therapy that uses specific frequencies to target different health conditions. They are based on the work of Dr. Royal Rife, who claimed to have discovered the resonant frequencies of various pathogens and diseases in the 1930s.

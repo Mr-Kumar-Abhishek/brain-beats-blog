@@ -8,7 +8,7 @@ app-name: 361 Hz - Libra’s Harmonizing Frequency for Balance, Meditation, and 
 tweet-title: 361 Hz - Libra’s Harmonizing Frequency for Balance, Meditation, and Inner Peace
 tweet-description: 361 Hz is a pure tone frequency meticulously tuned to align with Libra (V2), the zodiac’s sign of balance, harmony, and partnership.
 date: 2023-05-19
-keywords: frequency benefits, Brain Beats, Frequencies, Brain wave entrainment, sound therapy, pure tone, 361 Hz, Libra, Astrology
+keywords: frequency benefits, Brain Beats, Frequencies, brainwave entrainment, sound therapy, pure tone, 361 Hz, Libra, Astrology, pure tones
 ---    
 
 

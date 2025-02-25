@@ -8,7 +8,7 @@ app-name: The Tranquil Tones of 293.66 Hz - A Harmonious Journey for Geminis
 tweet-title: The Tranquil Tones of 293.66 Hz - A Harmonious Journey for Geminis
 tweet-description: 293.66 Hz pure tone is aligned with the musical note D, serves as a powerful tool for relaxation, music, and study, offering a unique sanctuary for the curious and dynamic Geminis.
 date: 2023-05-02
-keywords: frequency benefits, Brain Beats, Frequencies, 293.66 hz, Brain wave entrainment, sound therapy, gemini, meditation, healing
+keywords: frequency benefits, Brain Beats, Frequencies, 293.66 hz, Brainwave entrainment, sound therapy, gemini, meditation, healing, pure tones
 ---
 
 In the world of astrology and sound healing, frequencies hold the key to unlocking a myriad of benefits for the mind, body, and soul. One such frequency that resonates deeply with the sign of Gemini is 293.66 Hz. This pure tone, aligned with the musical note D, serves as a powerful tool for relaxation, music, and study, offering a unique sanctuary for the curious and dynamic Geminis. Join us as we delve into the significance of 293.66 Hz, its harmonious connection to Gemini, and how it can enhance various aspects of life.

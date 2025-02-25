@@ -8,7 +8,7 @@ app-name: 157.43 Hz - Pure Tone for Tantric Energy
 tweet-title: 157.43 Hz - Pure Tone for Tantric Energy
 tweet-description: 157.43 Hz is a pure tone that resonates with the frequency of your sacral chakra. It is also known as the "tantric frequency" because it can stimulate and awaken your kundalini energy, which is the primal life force that lies dormant at the base of your spine.
 date: 2023-03-16
-keywords: frequency benefits, Brain Beats, Frequencies, tantric energy, 157.43 hz, pure tone, Brain wave entrainment, sound therapy, 157.43 Hz frequency benefits
+keywords: frequency benefits, Brain Beats, Frequencies, tantric energy, 157.43 hz, pure tone, brainwave entrainment, sound therapy, 157.43 Hz frequency benefits
 ---
 
 Have you ever wondered what is the secret behind the ancient practice of tantra? How can you tap into the powerful energy of your sacral chakra and unleash your creativity, passion and joy? In this blog post, I will share with you the benefits of listening to a pure tone of 157.43 Hz, which is one of the sacred frequencies that can activate and balance your sacral chakra.

@@ -8,7 +8,7 @@ app-name: 111 Hz - The Angel Frequency
 tweet-title: 111 Hz - The Angel Frequency
 tweet-description: The 111 Hz frequency is a low-pitched sound that is close to the natural frequency of the Earth. It is also a harmonic of the Schumann resonance, which is the electromagnetic pulse of the planet. The 111 Hz frequency is believed to be an ancient sacred sound that was used by ancient civilizations for healing and spiritual purposes.
 date: 2023-02-25
-keywords: frequency benefits, Brain Beats, Frequencies, Angel Frequency, 111 hz, Brain wave entrainment, sound therapy, 111 Hz frequency benefits
+keywords: frequency benefits, Brain Beats, Frequencies, Angel Frequency, 111 hz, brainwave entrainment, sound therapy, 111 Hz frequency benefits
 ---
 
 Have you ever wondered if there is a sound that can heal your body and mind? A sound that can connect you with your higher self and the divine? A sound that can make you feel happy, peaceful and energized?

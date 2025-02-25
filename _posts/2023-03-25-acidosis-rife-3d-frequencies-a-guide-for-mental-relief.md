@@ -8,7 +8,7 @@ app-name: Acidosis Rife 3D Frequencies - A Guide for Mental Relief
 tweet-title: Acidosis Rife 3D Frequencies - A Guide for Mental Relief
 tweet-description: Acidosis is a condition where the body's pH level becomes too acidic, which can cause various health problems such as fatigue, inflammation, pain, and depression. 
 date: 2023-03-25
-keywords: frequency benefits, Brain Beats, Frequencies, Acidosis Rife 3D Frequencies, Brain wave entrainment, sound therapy Acidosis Rife 3D Frequencies benefits, rife frequency
+keywords: frequency benefits, Brain Beats, Frequencies, Acidosis Rife 3D Frequencies, brainwave entrainment, sound therapy Acidosis Rife 3D Frequencies benefits, rife frequency
 ---
 
 Acidosis is a condition where the body's pH level becomes too acidic, which can cause various health problems such as fatigue, inflammation, pain, and depression. One of the possible causes of acidosis is poor diet, especially consuming too much processed foods, sugar, alcohol, and caffeine. To restore the body's pH balance, it is recommended to eat more alkaline foods, such as fruits, vegetables, nuts, and seeds, and to drink plenty of water.

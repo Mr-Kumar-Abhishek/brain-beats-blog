@@ -8,7 +8,7 @@ app-name: Adrenal Stimulant Rife 3D Frequencies
 tweet-title: Adrenal Stimulant Rife 3D Frequencies
 tweet-description: One of the benefits of Rife 3D frequencies is that they can help stimulate the adrenal glands, which are responsible for producing hormones that regulate stress, energy, metabolism, and immunity.
 date: 2023-04-11
-keywords: frequency benefits, Brain Beats, Frequencies, Adrenal Stimulant, Brain wave entrainment, sound therapy
+keywords: frequency benefits, Brain Beats, Frequencies, Adrenal Stimulant, brainwave entrainment, sound therapy, rife frequency
 ---
 
 Rife 3D frequencies are a type of sound therapy that uses specific frequencies to stimulate the body's natural healing processes. Rife 3D frequencies are based on the work of Dr. Royal Raymond Rife, who discovered that certain frequencies could destroy harmful microorganisms and restore health.
@@ -19,7 +19,7 @@ To use Rife 3D frequencies for adrenal stimulant, you will need a device that ca
 
 The frequencies for adrenal stimulant are:
 
-- 10 hz: This frequency helps to balance the brain waves and induce a state of relaxation and calmness. It also stimulates the production of serotonin, a neurotransmitter that regulates mood, sleep, and appetite.
+- 10 hz: This frequency helps to balance the brainwaves and induce a state of relaxation and calmness. It also stimulates the production of serotonin, a neurotransmitter that regulates mood, sleep, and appetite.
 - 20 hz: This frequency helps to increase energy and alertness. It also stimulates the production of beta-endorphin, a natural painkiller and mood enhancer.
 - 2250 hz: This frequency helps to stimulate the adrenal glands and boost their function. It also helps to detoxify the body and improve blood circulation.
 

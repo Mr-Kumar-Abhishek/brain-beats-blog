@@ -8,7 +8,7 @@ app-name: 1803 Hz - The Solfeggio Frequency of the 5th Dimension
 tweet-title: 1803 Hz - The Solfeggio Frequency of the 5th Dimension
 tweet-description: If so, you might be interested in learning about the solfeggio frequency of 1803 Hz, which is associated with the chakra sometimes called the 16th chakra.
 date: 2023-02-16
-keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, 16th chakra, 1803 Hz, Brain wave entrainment, sound therapy, 1803 Hz frequency benefits
+keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, 16th chakra, 1803 Hz, brainwave entrainment, sound therapy, 1803 Hz frequency benefits
 ---
 
 

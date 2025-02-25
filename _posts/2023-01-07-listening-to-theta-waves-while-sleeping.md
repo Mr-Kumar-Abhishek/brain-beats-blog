@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Listening to Theta Waves While Sleeping"
-description: Delta waves are the slowest and deepest brain waves that occur during sleep. They are associated with many benefits for your physical and mental health, such as better quality sleep, increased energy, improved immunity, reduced inflammation, and enhanced memory.
+description: Delta waves are the slowest and deepest brainwaves that occur during sleep. They are associated with many benefits for your physical and mental health, such as better quality sleep, increased energy, improved immunity, reduced inflammation, and enhanced memory.
 subject: Listening to Theta Waves While Sleeping
 apple-title: Listening to Theta Waves While Sleeping
 app-name: Listening to Theta Waves While Sleeping
 tweet-title: Listening to Theta Waves While Sleeping
-tweet-description: Delta waves are the slowest and deepest brain waves that occur during sleep. They are associated with many benefits for your physical and mental health, such as better quality sleep, increased energy, improved immunity, reduced inflammation, and enhanced memory. 
+tweet-description: Delta waves are the slowest and deepest brainwaves that occur during sleep. They are associated with many benefits for your physical and mental health, such as better quality sleep, increased energy, improved immunity, reduced inflammation, and enhanced memory. 
 og-title: Listening to Theta Waves While Sleeping
 date: 2023-01-07
-keywords: theta waves, delta waves, Brain Beats, Frequencies, White noise, Brain wave entrainment, sound therapy, binaural beats youtube, theta binaural beats, theta binaural beats benefits
+keywords: theta waves, delta waves, Brain Beats, Frequencies, White noise, brainwave entrainment, sound therapy, binaural beats youtube, theta binaural beats, theta binaural beats benefits
 ---
 
 Theta waves are a type of brainwave that occur during deep relaxation, meditation, and the early stages of sleep. They are associated with creativity, intuition, and emotional healing. Some people claim that listening to theta waves while sleeping can enhance their dreams, memory, and learning.

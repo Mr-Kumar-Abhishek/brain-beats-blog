@@ -8,7 +8,7 @@ app-name: How to Use Rife 3D Frequencies for Actinomyces Israelii
 tweet-title: How to Use Rife 3D Frequencies for Actinomyces Israelii
 tweet-description: Actinomyces israelii is a type of bacteria that normally lives in the mouth, throat, and intestines. It usually does not cause any problems, but sometimes it can invade other tissues and organs, causing serious infections.
 date: 2023-04-01
-keywords: frequency benefits, Brain Beats, Frequencies, Actinomyces Israelii, Brain wave entrainment, sound therapy
+keywords: frequency benefits, Brain Beats, Frequencies, Actinomyces Israelii, brainwave entrainment, sound therapy, rife frequency
 ---
 
 Actinomyces israelii is a type of bacteria that normally lives in the mouth, throat, and intestines. It usually does not cause any problems, but sometimes it can invade other tissues and organs, causing serious infections. These infections are called actinomycosis, and they can affect the lungs, abdomen, pelvis, bones, joints, skin, and brain. Actinomycosis can cause abscesses, fistulas, inflammation, and tissue damage.

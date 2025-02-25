@@ -8,7 +8,7 @@ app-name: Solar Plexus Chakra - The Tone of the Sun
 tweet-title: Solar Plexus Chakra - The Tone of the Sun
 tweet-description: At a frequency of 126.22 Hz, the Solar Plexus Chakra resonates with the tone of the Sun itself. The Sun serves as a powerful transmitter and receiver of energies between Earth and the Cosmos.
 date: 2023-04-14
-keywords: frequency benefits, Brain Beats, Frequencies, 126.22 hz, Brain wave entrainment, sound therapy
+keywords: frequency benefits, Brain Beats, Frequencies, 126.22 hz, Brainwave entrainment, sound therapy, pure tones
 ---
 
 

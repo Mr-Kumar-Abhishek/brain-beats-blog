@@ -8,7 +8,7 @@ app-name: 298 Hz Pure Tone for Cancer Zodiac - A Healing Frequency for Balance &
 tweet-title: 298 Hz Pure Tone for Cancer Zodiac - A Healing Frequency for Balance & Inner Harmony
 tweet-description: The 298 Hz pure tone, specifically tuned for Cancer (V2), offers a transformative tool for meditation, relaxation, and balancing your sensitive energy.
 date: 2023-05-04
-keywords: frequency benefits, Brain Beats, Frequencies, 298 Hz, Brain wave entrainment, sound therapy, Cancer Zodiac, meditation, healing
+keywords: frequency benefits, Brain Beats, Frequencies, 298 Hz, brainwave entrainment, sound therapy, Cancer Zodiac, meditation, healing, pure tones
 ---
 
 **Unlock the power of sound healing tailored to your zodiac sign.**  

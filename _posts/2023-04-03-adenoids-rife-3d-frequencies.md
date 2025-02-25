@@ -8,7 +8,7 @@ app-name: Adenoids Rife 3D frequencies
 tweet-title: Adenoids Rife 3D frequencies
 tweet-description: Adenoids are small glands that are located at the back of the nose. They are part of the immune system and help fight infections. However, sometimes they can become enlarged or infected, causing symptoms such as nasal congestion, snoring, ear infections, or difficulty breathing.
 date: 2023-04-03
-keywords: frequency benefits, Brain Beats, Frequencies, Adenoids, Brain wave entrainment, sound therapy
+keywords: frequency benefits, Brain Beats, Frequencies, Adenoids, brainwave entrainment, sound therapy, rife frequency
 ---
 
 Adenoids are small glands that are located at the back of the nose. They are part of the immune system and help fight infections. However, sometimes they can become enlarged or infected, causing symptoms such as nasal congestion, snoring, ear infections, or difficulty breathing.

@@ -8,7 +8,7 @@ app-name: How to Use Rife 3D Frequencies for Abscesses
 tweet-title: How to Use Rife 3D Frequencies for Abscesses
 tweet-description: Abscesses are painful and inflamed areas of pus that can occur anywhere in the body. They are usually caused by bacterial infections, such as Staphylococcus aureus or Listeria monocytogenes.
 date: 2023-03-22
-keywords: frequency benefits, Brain Beats, Frequencies, Rife 3D Frequencies for Abscesses, Brain wave entrainment, sound therapy, Rife 3D Frequencies for Abscesses benefits, rife frequency
+keywords: frequency benefits, Brain Beats, Frequencies, Rife 3D Frequencies for Abscesses, brainwave entrainment, sound therapy, Rife 3D Frequencies for Abscesses benefits, rife frequency
 ---
 
 Abscesses are painful and inflamed areas of pus that can occur anywhere in the body. They are usually caused by bacterial infections, such as Staphylococcus aureus or Listeria monocytogenes. If left untreated, abscesses can lead to serious complications, such as sepsis, tissue damage, or organ failure.

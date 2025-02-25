@@ -8,7 +8,7 @@ app-name: How to Use 172.06 Hz Pure Tone for Healing and Happiness
 tweet-title: How to Use 172.06 Hz Pure Tone for Healing and Happiness
 tweet-description: Have you ever wondered what is the significance of 172.06 Hz pure tone? This frequency is not just a random number, but a powerful sound that resonates with the Platonic year, also known as the Great Year or the Precession of the Equinoxes.
 date: 2023-03-17
-keywords: frequency benefits, Brain Beats, Frequencies, platonic year, 172.06 hz, pure tone, Brain wave entrainment, sound therapy, 172.06 Hz frequency benefits
+keywords: frequency benefits, Brain Beats, Frequencies, platonic year, 172.06 hz, pure tone, brainwave entrainment, sound therapy, 172.06 Hz frequency benefits
 ---
 
 Have you ever wondered what is the significance of 172.06 Hz pure tone? This frequency is not just a random number, but a powerful sound that resonates with the Platonic year, also known as the Great Year or the Precession of the Equinoxes. This is the period of time that it takes for the Earth's axis to complete one full cycle of wobble, which is about 26,000 years. 

@@ -8,7 +8,7 @@ app-name: Mercury Frequency - 141.27 Hz - Enhancing Intelligence and Communicati
 tweet-title: Mercury Frequency - 141.27 Hz - Enhancing Intelligence and Communication
 tweet-description: At a frequency of 141.27 Hz, Mercury resonates with the throat chakra. Mercury, the planet closest to the Sun, orbits in approximately 88 days. In astrological and hermetic traditions, Mercury represents communication and cleverness.
 date: 2023-04-15
-keywords: frequency benefits, Brain Beats, Frequencies, 141.27 hz, Brain wave entrainment, sound therapy, mercury frequency, throat chakra
+keywords: frequency benefits, Brain Beats, Frequencies, 141.27 hz, brainwave entrainment, sound therapy, mercury frequency, throat chakra, pure tones
 ---
 
 

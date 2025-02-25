@@ -8,7 +8,7 @@ app-name: How to Use Rife 3D Frequencies for Adhesions
 tweet-title: How to Use Rife 3D Frequencies for Adhesions
 tweet-description: Adhesions are bands of scar tissue that form between organs and tissues, causing pain, inflammation, and reduced mobility. They can result from surgery, infection, trauma, or inflammation. Adhesions can affect any part of the body, but they are most common in the abdomen, pelvis, and chest.
 date: 2023-04-09
-keywords: frequency benefits, Brain Beats, Frequencies, Adhesions, Brain wave entrainment, sound therapy
+keywords: frequency benefits, Brain Beats, Frequencies, Adhesions, brainwave entrainment, sound therapy, rife frequency
 ---
 
 

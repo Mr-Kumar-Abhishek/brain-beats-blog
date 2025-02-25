@@ -8,7 +8,7 @@ app-name: 285 hz - The Frequency of Healing and Regeneration
 tweet-title: 285 hz - The Frequency of Healing and Regeneration
 tweet-description: 285 hz is one of the lowest frequency in the Solfeggio scale, and it is associated with healing and regeneration. According to some researchers, this frequency can influence all the energy fields in our body and send a message to our cells to restructure themselves.
 date: 2023-01-25
-keywords: frequency benefits, Brain Beats, Frequencies, green noise, Solfeggio Frequency, Root Chakra, 285 Hz, Brain wave entrainment, sound therapy, Colors of noise, 285 Hz frequency benefits
+keywords: frequency benefits, Brain Beats, Frequencies, green noise, Solfeggio Frequency, Root Chakra, 285 Hz, brainwave entrainment, sound therapy, Colors of noise, 285 Hz frequency benefits
 ---
 
 Have you ever wondered why some sounds can make you feel relaxed, while others can make you feel agitated? The answer lies in the frequency of the sound waves, which can affect your brainwaves and your mood. One of the most beneficial frequencies for healing and regeneration is 285 hz, which belongs to the ancient Solfeggio scale.

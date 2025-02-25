@@ -8,7 +8,7 @@ app-name: 325 Hz Pure Tone - Awaken Your Solar Plexus & Unleash Your Inner Power
 tweet-title: 325 Hz Pure Tone - Awaken Your Solar Plexus & Unleash Your Inner Power
 tweet-description: The 325 Hz pure tone is a sonic key to unlocking your solar plexus chakra, the fiery energy hub that fuels your self-esteem, willpower, and personal authority. 
 date: 2023-05-08
-keywords: frequency benefits, Brain Beats, Frequencies, Brain wave entrainment, sound therapy, 325 Hz, meditation, healing, solar plexus, chakra
+keywords: frequency benefits, Brain Beats, Frequencies, brainwave entrainment, sound therapy, 325 Hz, meditation, healing, solar plexus, chakra, pure tones
 ---  
 
 **Harness the vibrational energy of confidence, courage, and clarity.**  

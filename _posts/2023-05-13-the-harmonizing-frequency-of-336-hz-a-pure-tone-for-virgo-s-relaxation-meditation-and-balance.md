@@ -8,7 +8,7 @@ app-name: The Harmonizing Frequency of 336 Hz - A Pure Tone for Virgo’s Relaxa
 tweet-title: The Harmonizing Frequency of 336 Hz - A Pure Tone for Virgo’s Relaxation, Meditation, and Balance
 tweet-description: The 336 Hz pure tone acts as a harmonizing tool, helping Virgos restore balance between their active minds and inner calm.
 date: 2023-05-13
-keywords: frequency benefits, Brain Beats, Frequencies, Brain wave entrainment, sound therapy, pure tone, 336 Hz, Virgo
+keywords: frequency benefits, Brain Beats, Frequencies, brainwave entrainment, sound therapy, pure tone, 336 Hz, Virgo
 ---    
 
 

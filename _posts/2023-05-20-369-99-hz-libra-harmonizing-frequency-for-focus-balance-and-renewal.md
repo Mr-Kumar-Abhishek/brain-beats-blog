@@ -8,7 +8,7 @@ app-name: 369.99 Hz - Libra’s Harmonizing Frequency for Focus, Balance, and Re
 tweet-title: 369.99 Hz - Libra’s Harmonizing Frequency for Focus, Balance, and Renewal
 tweet-description: 369.99 Hz is a pure tone frequency aligned with the musical note F# (F-sharp). This precise frequency is tailored to Libra, the zodiac’s sign of harmony, partnership, and aesthetic grace.
 date: 2023-05-20
-keywords: frequency benefits, Brain Beats, Frequencies, Brain wave entrainment, sound therapy, pure tone, 369.99 Hz, Libra, Astrology
+keywords: frequency benefits, Brain Beats, Frequencies, brainwave entrainment, sound therapy, pure tone, 369.99 Hz, Libra, Astrology, pure tones
 ---    
 
 

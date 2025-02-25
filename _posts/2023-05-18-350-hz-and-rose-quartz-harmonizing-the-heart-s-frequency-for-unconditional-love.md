@@ -8,7 +8,7 @@ app-name: 350 Hz and Rose Quartz - Harmonizing the Heart’s Frequency for Uncon
 tweet-title: 350 Hz and Rose Quartz - Harmonizing the Heart’s Frequency for Unconditional Love
 tweet-description: 350 Hz is a pure tone frequency that vibrates in harmony with the heart chakra (Anahata). This frequency is often paired with rose quartz—the "stone of universal love"—to amplify its nurturing energy. Together, they create a synergistic field that dissolves emotional barriers, fosters self-compassion, and restores balance to the heart’s energetic center.
 date: 2023-05-18
-keywords: frequency benefits, Brain Beats, Frequencies, Brain wave entrainment, sound therapy, pure tone, 350 Hz, Roze Quartz, Heart Chakra
+keywords: frequency benefits, Brain Beats, Frequencies, brainwave entrainment, sound therapy, pure tone, 350 Hz, Roze Quartz, Heart Chakra
 ---    
 
 ## What is 350 Hz?  

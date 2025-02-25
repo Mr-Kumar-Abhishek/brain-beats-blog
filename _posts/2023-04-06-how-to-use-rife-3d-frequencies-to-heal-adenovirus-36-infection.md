@@ -8,7 +8,7 @@ app-name: How to Use Rife 3D Frequencies to Heal Adenovirus 36 Infection
 tweet-title: How to Use Rife 3D Frequencies to Heal Adenovirus 36 Infection
 tweet-description: Adenovirus 36 (AD-36) is a type of virus that can cause respiratory infections, conjunctivitis, and gastroenteritis. Some studies have also suggested that AD-36 may be related to weight gain in some people, as it can affect the metabolism and fat storage of cells.
 date: 2023-04-06
-keywords: frequency benefits, Brain Beats, Frequencies, Adenovirus 36, Brain wave entrainment, sound therapy
+keywords: frequency benefits, Brain Beats, Frequencies, Adenovirus 36, brainwave entrainment, sound therapy, rife frequency
 ---
 
 Adenovirus 36 (AD-36) is a type of virus that can cause respiratory infections, conjunctivitis, and gastroenteritis. Some studies have also suggested that AD-36 may be related to weight gain in some people, as it can affect the metabolism and fat storage of cells.

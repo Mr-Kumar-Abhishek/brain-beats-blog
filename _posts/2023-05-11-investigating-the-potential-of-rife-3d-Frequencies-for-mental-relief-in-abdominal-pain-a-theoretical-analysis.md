@@ -8,7 +8,7 @@ app-name: Investigating the Potential of Rife 3D Frequencies for Mental Relief i
 tweet-title: Investigating the Potential of Rife 3D Frequencies for Mental Relief in Abdominal Pain - A Theoretical Analysis
 tweet-description: This article evaluates the theoretical basis of a Rife 3D frequency healing preset (10000 Hz, 3000 Hz, 95 Hz, 3 Hz) for alleviating mental distress associated with abdominal pain. 
 date: 2023-05-11
-keywords: frequency benefits, Brain Beats, Frequencies, Brain wave entrainment, sound therapy, 3D rife frequencies, cognition, abdominal pain
+keywords: frequency benefits, Brain Beats, Frequencies, brainwave entrainment, sound therapy, 3D rife frequencies, cognition, abdominal pain, rife frequency
 ---    
 
 ## Abstract  

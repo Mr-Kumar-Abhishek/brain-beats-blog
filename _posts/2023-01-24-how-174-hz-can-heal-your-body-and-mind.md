@@ -8,7 +8,7 @@ app-name: How 174 Hz Can Heal Your Body and Mind
 tweet-title: How 174 Hz Can Heal Your Body and Mind
 tweet-description: If you are looking for a natural way to relieve pain, stress, and anxiety, you might want to try listening to 174 Hz. This is one of the Solfeggio frequencies, a set of ancient tones that have been used for centuries for healing and spiritual purposes.
 date: 2023-01-24
-keywords: frequency benefits, Brain Beats, Frequencies, green noise, Solfeggio Frequency, Root Chakra, 174 Hz, Brain wave entrainment, sound therapy, Colors of noise, 174 Hz frequency benefits
+keywords: frequency benefits, Brain Beats, Frequencies, green noise, Solfeggio Frequency, Root Chakra, 174 Hz, brainwave entrainment, sound therapy, Colors of noise, 174 Hz frequency benefits
 ---
 
 If you are looking for a natural way to relieve pain, stress, and anxiety, you might want to try listening to 174 Hz. This is one of the Solfeggio frequencies, a set of ancient tones that have been used for centuries for healing and spiritual purposes.

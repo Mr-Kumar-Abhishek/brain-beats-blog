@@ -8,7 +8,7 @@ app-name:  What is Red Noise and How Can It Help You?
 tweet-title:  What is Red Noise and How Can It Help You?
 tweet-description: Red noise has a power spectrum that decreases by 6.02 decibels (dB) per octave, which means that for every doubling of frequency, the power is reduced by half. This results in a sound that is dominated by low frequencies and has a deep, rumbling quality.
 date: 2023-01-21
-keywords: frequency benefits, Brain Beats, Frequencies, Pink noise, Brown Noise, Blue Noise, red noise, White Noise, Brain wave entrainment, sound therapy, Colors of noise, red noise benefits
+keywords: frequency benefits, Brain Beats, Frequencies, Pink noise, Brown Noise, Blue Noise, red noise, White Noise, brainwave entrainment, sound therapy, Colors of noise, red noise benefits
 ---
 
 
@@ -38,7 +38,7 @@ Red noise can have various benefits for your physical and mental health, such as
 
 - Improving sleep quality: Red noise can help you fall asleep faster and stay asleep longer by creating a consistent and relaxing sound environment that blocks out other noises that may disturb your sleep. Red noise can also enhance the quality of your deep sleep stages, which are important for memory consolidation and cellular repair.
 - Reducing stress and anxiety: Red noise can help you calm down and relax by activating the parasympathetic nervous system, which is responsible for rest and digestion. Red noise can also lower your blood pressure and heart rate, which are indicators of stress and anxiety.
-- Boosting productivity and creativity: Red noise can help you focus and concentrate by masking distracting noises that may interfere with your cognitive performance. Red noise can also stimulate your brain waves in the alpha range, which are associated with creativity and problem-solving.
+- Boosting productivity and creativity: Red noise can help you focus and concentrate by masking distracting noises that may interfere with your cognitive performance. Red noise can also stimulate your brainwaves in the alpha range, which are associated with creativity and problem-solving.
 
 ## How to Use Red Noise?
 

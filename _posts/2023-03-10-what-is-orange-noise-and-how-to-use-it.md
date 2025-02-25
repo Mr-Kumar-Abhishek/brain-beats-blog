@@ -8,7 +8,7 @@ app-name: What is Orange Noise and How to Use It?
 tweet-title: What is Orange Noise and How to Use It?
 tweet-description: Orange noise is a type of noise that has a flat frequency spectrum, meaning that it has equal power at all frequencies. However, unlike white noise, which also has a flat spectrum, orange noise excludes the frequencies that correspond to musical notes. 
 date: 2023-03-10
-keywords: frequency benefits, Brain Beats, Frequencies, colors of noise, orange noise, Brain wave entrainment, sound therapy, orange noise benefits
+keywords: frequency benefits, Brain Beats, Frequencies, colors of noise, orange noise, brainwave entrainment, sound therapy, orange noise benefits
 ---
 
 

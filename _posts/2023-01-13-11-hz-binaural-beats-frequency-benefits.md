@@ -8,12 +8,12 @@ app-name: 11 Hz Binaural Beats Frequency Benefits
 tweet-title: 11 Hz Binaural Beats Frequency Benefits
 tweet-description: 11 Hz binaural beats can help you stay focused on a task without getting distracted or stressed. They can also enhance your cognitive performance, memory and creativity by stimulating a different way of thinking.
 date: 2023-01-13
-keywords: frequency benefits, binaural beats, 11 hz, solfeggio frequency, pure tones, alpha waves, Brain Beats, Frequencies, White noise, Brain wave entrainment, sound therapy, binaural beats youtube, 11 Hz binaural beats benefits
+keywords: frequency benefits, binaural beats, 11 hz, solfeggio frequency, pure tones, alpha waves, Brain Beats, Frequencies, White noise, brainwave entrainment, sound therapy, binaural beats youtube, 11 Hz binaural beats benefits
 ---
 
-Binaural beats are a type of sound therapy that involves listening to two tones with slightly different frequencies at the same time. The brain interprets the difference between the two tones as a third tone, called a binaural beat, and synchronizes its brain waves to match the frequency of the beat. This can influence the brain's state of consciousness and mood.
+Binaural beats are a type of sound therapy that involves listening to two tones with slightly different frequencies at the same time. The brain interprets the difference between the two tones as a third tone, called a binaural beat, and synchronizes its brainwaves to match the frequency of the beat. This can influence the brain's state of consciousness and mood.
 
-One of the frequencies that can be used for binaural beats is 11 Hz, which falls in the alpha range of brain waves. Alpha waves are associated with a state of relaxed focus, where the mind is alert but not overstimulated. In this article, we will explore some of the benefits of listening to 11 Hz binaural beats and how they can help you achieve a "relaxed yet alert" state.
+One of the frequencies that can be used for binaural beats is 11 Hz, which falls in the alpha range of brainwaves. Alpha waves are associated with a state of relaxed focus, where the mind is alert but not overstimulated. In this article, we will explore some of the benefits of listening to 11 Hz binaural beats and how they can help you achieve a "relaxed yet alert" state.
 
 ## What are the benefits of 11 Hz binaural beats?
 
@@ -21,8 +21,8 @@ According to research and anecdotal evidence, listening to 11 Hz binaural beats 
 
 - **A gentle focused alertness**: 11 Hz binaural beats can help you stay focused on a task without getting distracted or stressed. They can also enhance your cognitive performance, memory and creativity by stimulating a different way of thinking .
 - **Feeling "relaxed yet alert"**: 11 Hz binaural beats can induce a state of calmness and relaxation without making you feel sleepy or drowsy. They can also help you cope with anxiety and stress by reducing the levels of cortisol, the stress hormone, and increasing the levels of DHEA, the anti-aging hormone .
-- **Stabilized mood**: 11 Hz binaural beats can help you maintain a positive attitude and outlook by balancing your emotions and mood. They can also increase your confidence and self-esteem by boosting your alpha brain waves, which are linked to optimism and happiness .
-- **Deeper meditation**: 11 Hz binaural beats can help you enter a deeper state of meditation by facilitating the transition from beta to alpha brain waves. They can also enhance your spiritual awareness and connection by tuning your mind to the frequency of 852 Hz, which is associated with a return to spiritual order .
+- **Stabilized mood**: 11 Hz binaural beats can help you maintain a positive attitude and outlook by balancing your emotions and mood. They can also increase your confidence and self-esteem by boosting your alpha brainwaves, which are linked to optimism and happiness .
+- **Deeper meditation**: 11 Hz binaural beats can help you enter a deeper state of meditation by facilitating the transition from beta to alpha brainwaves. They can also enhance your spiritual awareness and connection by tuning your mind to the frequency of 852 Hz, which is associated with a return to spiritual order .
 
 ## How to use 11 Hz binaural beats?
 

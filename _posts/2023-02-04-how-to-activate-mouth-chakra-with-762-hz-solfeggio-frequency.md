@@ -8,7 +8,7 @@ app-name: How to Activate Your Mouth Chakra with 762 Hz Solfeggio Frequency
 tweet-title: How to Activate Your Mouth Chakra with 762 Hz Solfeggio Frequency
 tweet-description: One way to activate and balance your mouth chakra is to use the 762 Hz solfeggio frequency. This is a sound frequency that resonates with the mouth chakra and helps to clear any blockages, harmonize the energy flow, and enhance the qualities of this chakra
 date: 2023-02-04
-keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, mouth Chakra, 762 Hz, Brain wave entrainment, sound therapy, 762 Hz frequency benefits
+keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, mouth Chakra, 762 Hz, brainwave entrainment, sound therapy, 762 Hz frequency benefits
 ---
 
 Have you ever heard of the mouth chakra? It is a lesser-known energy center that lies between the throat and the third eye chakras. It is associated with the color silver, which represents a high vibration of spiritual energy. The mouth chakra is responsible for expressing your higher purpose, leading by example, and manifesting depth, charisma and wisdom.

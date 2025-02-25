@@ -8,7 +8,7 @@ app-name: What is Pink Noise and How Can It Help You Sleep Better?
 tweet-title: What is Pink Noise and How Can It Help You Sleep Better?
 tweet-description: Pink noise is a type of noise that contains all the sound frequencies that humans can hear, but with a twist - the higher frequencies are less intense than the lower ones.
 date: 2023-01-15
-keywords: pink noise, pure tones, frequency benefits, Brain Beats, Frequencies, White noise, Brain wave entrainment, sound therapy, binaural beats youtube, pink noise benefits
+keywords: pink noise, pure tones, frequency benefits, Brain Beats, Frequencies, White noise, brainwave entrainment, sound therapy, binaural beats youtube, pink noise benefits
 ---
 
 If you have trouble falling asleep or staying asleep, you might have tried various methods to improve your sleep quality. One of the most popular ways to block out unwanted noises and create a relaxing environment for sleep is to use sound machines or apps that produce different types of noise. But what kind of noise is best for sleep? And what is the difference between white noise, pink noise, and brown noise? In this blog post, we will explore what pink noise is, how it works, and why it might be beneficial for your sleep and memory.

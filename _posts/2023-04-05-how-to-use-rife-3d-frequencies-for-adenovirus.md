@@ -8,7 +8,7 @@ app-name: How to Use Rife 3D Frequencies for Adenovirus
 tweet-title: How to Use Rife 3D Frequencies for Adenovirus
 tweet-description: Adenovirus is a common virus that can cause various infections, such as colds, flu, bronchitis, pneumonia, gastroenteritis, and conjunctivitis. It can affect anyone, but it is more likely to cause serious complications in people with weakened immune systems, such as children, elderly, and transplant recipients.
 date: 2023-04-05
-keywords: frequency benefits, Brain Beats, Frequencies, Adenovirus, Brain wave entrainment, sound therapy
+keywords: frequency benefits, Brain Beats, Frequencies, Adenovirus, brainwave entrainment, sound therapy, rife frequency
 ---
 
 Adenovirus is a common virus that can cause various infections, such as colds, flu, bronchitis, pneumonia, gastroenteritis, and conjunctivitis. It can affect anyone, but it is more likely to cause serious complications in people with weakened immune systems, such as children, elderly, and transplant recipients.

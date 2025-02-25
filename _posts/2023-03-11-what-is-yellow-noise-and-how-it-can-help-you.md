@@ -8,7 +8,7 @@ app-name: What is Yellow Noise and How Can It Help You?
 tweet-title: What is Yellow Noise and How Can It Help You?
 tweet-description: Yellow noise is a type of noise that has a boosted frequency band of noise centered around 200 hertz. It sounds like a steady low mid push, similar to being in a giant seashell or inside a passenger jet in flight.
 date: 2023-03-11
-keywords: frequency benefits, Brain Beats, Frequencies, colors of noise, yellow noise, Brain wave entrainment, sound therapy, yellow noise benefits
+keywords: frequency benefits, Brain Beats, Frequencies, colors of noise, yellow noise, brainwave entrainment, sound therapy, yellow noise benefits
 ---
 
 You may have heard of white noise, pink noise, or brown noise, but have you ever heard of yellow noise? Yellow noise is a type of noise that has a boosted frequency band of noise centered around 200 hertz. It sounds like a steady low mid push, similar to being in a giant seashell or inside a passenger jet in flight. It is not one of the broadcast industry noise colors by definition, but can be created using the method of matching up the light spectrum. In this blog post, we will explore what yellow noise is, how it differs from other types of noise, and how it can benefit you.

@@ -8,7 +8,7 @@ app-name: How to Activate Your Stellar Gateway with 1296 Hz Solfeggio Frequency
 tweet-title: How to Activate Your Stellar Gateway with 1296 Hz Solfeggio Frequency
 tweet-description: If you answered yes to any of these questions, then you might be interested in learning more about the stellar gateway, also known as the 12th chakra. This is the highest chakra in the human energy system, located above the crown chakra. It is associated with the solfeggio frequency of 1296 Hz, which is a powerful vibration that can help you activate this chakra and access its benefits.
 date: 2023-02-10
-keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, stellar gateway, solar chakra, 1296 Hz, Brain wave entrainment, sound therapy, 1296 Hz frequency benefits
+keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, stellar gateway, solar chakra, 1296 Hz, brainwave entrainment, sound therapy, 1296 Hz frequency benefits
 ---
 
 Have you ever wondered what it would be like to live your dreams? To manifest your highest potential and purpose in this world? To connect with the source of all creation and express your divine creativity?

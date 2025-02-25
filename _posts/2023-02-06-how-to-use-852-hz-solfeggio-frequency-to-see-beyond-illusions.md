@@ -8,7 +8,7 @@ app-name: How to Use 852 Hz Solfeggio Frequency to See Beyond Illusions
 tweet-title: How to Use 852 Hz Solfeggio Frequency to See Beyond Illusions
 tweet-description: The 852 Hz solfeggio frequency is associated with the third eye or ajna chakra, which is located between the eyebrows. This chakra is responsible for our intuition, vision, imagination, insight and wisdom.
 date: 2023-02-06
-keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, third eye Chakra, 852 Hz, Brain wave entrainment, sound therapy, 852 Hz frequency benefits
+keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, third eye Chakra, 852 Hz, brainwave entrainment, sound therapy, 852 Hz frequency benefits
 ---
 
 Have you ever felt like you are living in a matrix, where everything seems to be manipulated and controlled by some hidden force? Have you ever wondered what is the true nature of reality, and how you can access it? If so, you might be interested in learning about the 852 Hz solfeggio frequency, which is said to increase your ability to see through the illusions of our life.

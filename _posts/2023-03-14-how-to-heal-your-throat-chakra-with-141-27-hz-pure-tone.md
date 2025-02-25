@@ -8,7 +8,7 @@ app-name: How to Heal Your Throat Chakra with 141.27 Hz Pure Tone
 tweet-title: How to Heal Your Throat Chakra with 141.27 Hz Pure Tone
 tweet-description: One way to heal and balance your throat chakra is to use sound therapy, specifically a pure tone of 141.27 Hz. This frequency corresponds to the orbit of Mercury, the planet of communication and intellect
 date: 2023-03-14
-keywords: frequency benefits, Brain Beats, Frequencies, throat chakra, 141.27 hz, pure tone, Brain wave entrainment, sound therapy, 141.27 Hz frequency benefits
+keywords: frequency benefits, Brain Beats, Frequencies, throat chakra, 141.27 hz, pure tone, brainwave entrainment, sound therapy, 141.27 Hz frequency benefits
 ---
 
 The throat chakra, or Vishudda in Sanskrit, is the fifth of the seven main energy centers in the body. It is located at the base of the throat and is responsible for communication, expression, creativity, and truth. When the throat chakra is balanced, you can speak your mind with confidence, listen with empathy, and express yourself authentically. When the throat chakra is blocked, you may experience difficulties in communicating your thoughts and feelings, fear of being judged or rejected, or physical symptoms such as sore throat, thyroid problems, or dental issues.

@@ -9,7 +9,7 @@ tweet-title: white noise for productivity
 tweet-description: White noise is a type of sound that contains all the frequencies within the range of human hearing, but at equal intensity. It sounds like a constant hiss or hum, similar to the noise of a fan, a waterfall, or a radio tuned to an empty channel. White noise can help you concentrate by masking or blocking out other sounds that might otherwise interrupt your attention. 
 og-title: Different Types of Binaural Beats
 date: 2023-01-05
-keywords: Brain Beats, Frequencies, White noise, Brain wave entrainment, sound therapy, binaural beats youtube, white noise benefits
+keywords: Brain Beats, Frequencies, White noise, brainwave entrainment, sound therapy, binaural beats youtube, white noise benefits
 ---
 Do you struggle to focus on your work or study in a noisy environment? Do you find yourself easily distracted by the sounds of traffic, conversations, or music? If so, you might benefit from using white noise for productivity.
 

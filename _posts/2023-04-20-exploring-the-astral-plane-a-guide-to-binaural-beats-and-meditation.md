@@ -8,7 +8,7 @@ app-name: Exploring the Astral Plane -A Guide to Binaural Beats and Meditation
 tweet-title: Exploring the Astral Plane -A Guide to Binaural Beats and Meditation
 tweet-description: The practice of astral projection is often enhanced by the use of binaural beats, a soundwave therapy that involves playing two slightly different frequencies in each ear, which the brain perceives as a single tone.
 date: 2023-04-20
-keywords: frequency benefits, Brain Beats, Frequencies, 4 hz, 6.30 hz, 7 hz, Brain wave entrainment, sound therapy, Astral projection, Astral realm, healing
+keywords: frequency benefits, Brain Beats, Frequencies, 4 hz, 6.30 hz, 7 hz, brainwave entrainment, sound therapy, Astral projection, Astral realm, healing, binaural beats
 ---
 
 

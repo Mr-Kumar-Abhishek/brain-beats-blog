@@ -8,7 +8,7 @@ app-name: How to Use 528 Hz Frequency for Transformation and Miracles
 tweet-title: How to Use 528 Hz Frequency for Transformation and Miracles
 tweet-description: In this blog post, we will explore what the 528 Hz frequency is, how it is related to the solar plexus chakra or manipura chakra, and how we can use it to enhance our well-being and manifest our dreams.
 date: 2023-01-28
-keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, solar plexus Chakra, 528 Hz, Brain wave entrainment, sound therapy, 528 Hz Frequency Benefits
+keywords: frequency benefits, Brain Beats, Frequencies, Solfeggio Frequency, solar plexus Chakra, 528 Hz, brainwave entrainment, sound therapy, 528 Hz Frequency Benefits
 ---
 
 
