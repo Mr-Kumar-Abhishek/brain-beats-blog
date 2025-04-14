@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unlocking Your Authentic Voice: The Transformative Power of the 383 Hz Pure Tone"
+title: "Unlocking Your Authentic Voice - The Transformative Power of the 383 Hz Pure Tone"
 description: This specific frequency resonates with the throat chakra, the fifth energy center located at the base of the neck. Scientifically, sound waves at 383 Hz stimulate vibrational alignment in this region.  
 subject: Unlocking Your Authentic Voice - The Transformative Power of the 383 Hz Pure Tone
 apple-title: Unlocking Your Authentic Voice - The Transformative Power of the 383 Hz Pure Tone

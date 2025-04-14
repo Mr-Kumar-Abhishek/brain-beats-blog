@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Harmonizing the Depths: How the 377 Hz Pure Tone Empowers Scorpio’s Journey"
+title: "Harmonizing the Depths - How the 377 Hz Pure Tone Empowers Scorpio’s Journey"
 description: Enter the 377 Hz pure tone —a vibrational ally for meditation, relaxation, and balancing the complexities of the Scorpio spirit.  
 subject: Harmonizing the Depths - How the 377 Hz Pure Tone Empowers Scorpio’s Journey
 apple-title: Harmonizing the Depths - How the 377 Hz Pure Tone Empowers Scorpio’s Journey
