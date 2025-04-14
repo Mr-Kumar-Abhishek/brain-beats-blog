@@ -1,17 +1,15 @@
 ---
 layout: post
-title: "384 Hz - The Dual-Chakra Frequency Bridging Grounding & Expression"
+title: "🌍🗣️384 Hz - The Dual-Chakra Frequency Bridging Grounding & Expression"
 description: The 384 Hz pure tone defies conventional sound healing wisdom by harmonizing two seemingly unrelated energy centers - the root chakra (Muladhara) and the throat chakra (Vishuddha).  
 subject: 384 Hz - The Dual-Chakra Frequency Bridging Grounding & Expression
-apple-title: 384 Hz - The Dual-Chakra Frequency Bridging Grounding & Expression
-app-name: 384 Hz - The Dual-Chakra Frequency Bridging Grounding & Expression
-tweet-title: 384 Hz - The Dual-Chakra Frequency Bridging Grounding & Expression
+apple-title: 🌍🗣️ 384 Hz - The Dual-Chakra Frequency Bridging Grounding & Expression
+app-name: 🌍🗣️ 384 Hz - The Dual-Chakra Frequency Bridging Grounding & Expression
+tweet-title: 🌍🗣️ 384 Hz - The Dual-Chakra Frequency Bridging Grounding & Expression
 tweet-description: The 384 Hz pure tone defies conventional sound healing wisdom by harmonizing two seemingly unrelated energy centers - the root chakra (Muladhara) and the throat chakra (Vishuddha).
 date: 2023-05-23
 keywords: frequency benefits, Brain Beats, Frequencies, brainwave entrainment, sound therapy, pure tone, 384 Hz, pure tones, throat chakra, throat, chakra, Anxiety, earth chakra
 ---       
-
-# 🌍🗣️ 384 Hz: The Dual-Chakra Frequency Bridging Grounding & Expression  
 
 **Where Earth Meets Voice: A Frequency for Anxiety Alchemy**  
 
